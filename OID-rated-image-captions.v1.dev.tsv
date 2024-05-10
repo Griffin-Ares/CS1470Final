@@ -1,0 +1,2393 @@
+Index	IMAGE_KEY	CAPTION_PRED	COUNT_RATINGS	COUNT_GOOD_RATINGS	ROUNDED_AVG_USER_RATING	MODEL
+0	3d26a14fbbad598b	an abandoned building in the town .	10.0	6.0	0.625	MODEL_7
+1	3d26a14fbbad598b	a street scene in the city .	11.0	8.0	0.75	MODEL_6
+2	3d26a14fbbad598b	a man walks through the streets	10.0	2.0	0.25	MODEL_11
+3	3d26a14fbbad598b	a man walks through the streets	10.0	1.0	0.125	MODEL_3
+4	3d3b6c448db738df	a city in the rain	10.0	5.0	0.5	MODEL_2
+5	3d3b6c448db738df	cars driving on a street at night	10.0	8.0	0.75	MODEL_9
+6	3d3b6c448db738df	the view from the window of a car	9.0	3.0	0.375	MODEL_10
+7	3d64554fdecacf5e	statue of a lion in front	9.0	2.0	0.25	MODEL_0
+8	3d64554fdecacf5e	a statue of a lion	9.0	0.0	0.0	MODEL_8
+9	3d64554fdecacf5e	a statue of a lion	10.0	2.0	0.25	MODEL_5
+10	3d64554fdecacf5e	one of the many statues	10.0	9.0	0.875	MODEL_4
+11	3dbfe35f166491d0	this is the car i saw .	9.0	6.0	0.625	MODEL_8
+12	3dbfe35f166491d0	automobile model - the car of my dreams	10.0	8.0	0.75	MODEL_0
+13	3dbfe35f166491d0	automobile model was the first car to be built .	9.0	6.0	0.625	MODEL_5
+14	3dbfe35f166491d0	automobile model was one of the most popular cars	10.0	8.0	0.75	MODEL_4
+15	3e0b5059f9099e4c	the church of the city	8.0	4.0	0.5	MODEL_10
+16	3e0b5059f9099e4c	photo of a church at night	10.0	8.0	0.75	MODEL_2
+17	3e0b5059f9099e4c	the flag flies at half mast .	10.0	1.0	0.125	MODEL_9
+18	3e84d568e16325c7	a toast to the new year !	8.0	6.0	0.75	MODEL_11
+19	3e84d568e16325c7	a glass of wine	10.0	8.0	0.75	MODEL_7
+20	3eda09860a4bca37	wind turbines light up the night sky	9.0	2.0	0.25	MODEL_4
+21	3eda09860a4bca37	a photo of a wind turbine .	10.0	9.0	0.875	MODEL_8
+22	3eda09860a4bca37	wind turbines at night on the sea	9.0	7.0	0.75	MODEL_0
+23	3eda09860a4bca37	the wind farm is a little bit of a wind turbine .	10.0	4.0	0.375	MODEL_5
+24	3f05d6453c57522f	a diagram of the site .	10.0	9.0	0.875	MODEL_7
+25	3f05d6453c57522f	the diagram of the line	10.0	6.0	0.625	MODEL_6
+26	3f05d6453c57522f	this image is described in surrounding text	8.0	1.0	0.125	MODEL_11
+27	3f05d6453c57522f	this image is described in surrounding text	10.0	2.0	0.25	MODEL_3
+28	3f9d4d33f8a00b28	the building is located in the center .	9.0	4.0	0.5	MODEL_9
+29	3f9d4d33f8a00b28	the building is located in the center .	8.0	1.0	0.125	MODEL_1
+30	3f9d4d33f8a00b28	the building is located in the heart .	10.0	1.0	0.125	MODEL_10
+31	3fd27e59946fa6e5	the river is a short walk .	8.0	6.0	0.75	MODEL_10
+32	3fd27e59946fa6e5	geographical feature category in the world	8.0	5.0	0.625	MODEL_2
+33	3fd27e59946fa6e5	a small stream in the woods	10.0	9.0	0.875	MODEL_9
+34	3fd27e59946fa6e5	a small stream in the woods	10.0	8.0	0.75	MODEL_1
+35	3fd968cba0c295ab	a house decorated with lights .	10.0	6.0	0.625	MODEL_0
+36	3fd968cba0c295ab	lights are illuminated in the city .	9.0	7.0	0.75	MODEL_5
+37	3fd968cba0c295ab	a light festival is a sight for sore eyes	9.0	4.0	0.5	MODEL_4
+38	40cadc1b92f7ffbe	the view from our room	9.0	6.0	0.625	MODEL_5
+39	40cadc1b92f7ffbe	night view from the top	9.0	9.0	1.0	MODEL_4
+40	40cadc1b92f7ffbe	a city at night from the top	9.0	9.0	1.0	MODEL_0
+41	40d9deb5554d96a5	schematic diagram of the experimental setup	8.0	8.0	1.0	MODEL_3
+42	40d9deb5554d96a5	schematic diagram of the design	10.0	9.0	0.875	MODEL_7
+43	40d9deb5554d96a5	a diagram of the proposed and original design	10.0	8.0	0.75	MODEL_6
+44	40d9deb5554d96a5	schematic diagram of the experimental setup	8.0	4.0	0.5	MODEL_11
+45	4119ec67c10283d3	the new sign for the new facility	10.0	8.0	0.75	MODEL_1
+46	4119ec67c10283d3	the new sign for the new facility	9.0	8.0	0.875	MODEL_9
+47	4119ec67c10283d3	the statue of military commander	10.0	2.0	0.25	MODEL_2
+48	4119ec67c10283d3	the sculpture of the family	9.0	2.0	0.25	MODEL_10
+49	41280dbce2278f63	picnic tables in the park	10.0	1.0	0.125	MODEL_11
+50	41280dbce2278f63	a picnic table with a view .	9.0	6.0	0.625	MODEL_6
+51	41280dbce2278f63	picnic tables in the park	9.0	8.0	0.875	MODEL_3
+52	41280dbce2278f63	a good day at the park .	8.0	5.0	0.625	MODEL_7
+53	415d824b9a81e83f	the skeleton of biological genus	8.0	7.0	0.875	MODEL_10
+54	415d824b9a81e83f	the skeleton of a giant dinosaur	9.0	8.0	0.875	MODEL_2
+55	415d824b9a81e83f	biological genus is a species of dinosaurs .	10.0	6.0	0.625	MODEL_1
+56	41ae9ee2cafb9106	biological species in the nest	10.0	2.0	0.25	MODEL_5
+57	41ae9ee2cafb9106	one of the many birds	9.0	7.0	0.75	MODEL_4
+58	41ae9ee2cafb9106	a bird in a cage	10.0	10.0	1.0	MODEL_0
+59	41cb84df74377754	police cars parked in the street	10.0	2.0	0.25	MODEL_9
+60	41cb84df74377754	police cars parked in the street	9.0	7.0	0.75	MODEL_1
+61	41cb84df74377754	the car was spotted in the parking lot .	10.0	8.0	0.75	MODEL_10
+62	41f6b3ec7f59c23b	insects in the tropical rainforest - photo #	8.0	7.0	0.875	MODEL_3
+63	41f6b3ec7f59c23b	a spider on a leaf	9.0	4.0	0.5	MODEL_7
+64	41f6b3ec7f59c23b	a yellow spider with a black background	10.0	2.0	0.25	MODEL_6
+65	41f6b3ec7f59c23b	insects in the tropical rainforest - photo #	9.0	9.0	1.0	MODEL_11
+66	4211c5f0853d6aa6	a truck parked in the street	10.0	8.0	0.75	MODEL_9
+67	4211c5f0853d6aa6	a truck parked in the street	10.0	2.0	0.25	MODEL_1
+68	4211c5f0853d6aa6	a truck parked in front of a house .	10.0	5.0	0.5	MODEL_10
+69	423e4695ba28e956	the last of the food	9.0	3.0	0.375	MODEL_0
+70	423e4695ba28e956	gingerbread cookies for the holidays	10.0	8.0	0.75	MODEL_8
+71	423e4695ba28e956	sugar cookies bake to the top	10.0	2.0	0.25	MODEL_4
+72	423e4695ba28e956	christmas cookies in the shape of a christmas tree	10.0	2.0	0.25	MODEL_5
+73	425353d07eb88e8d	jellyfish swimming in the ocean	10.0	8.0	0.75	MODEL_8
+74	425353d07eb88e8d	jellyfish swimming in the dark	10.0	9.0	0.875	MODEL_5
+75	425353d07eb88e8d	jellyfish swimming in the blue sea	10.0	9.0	0.875	MODEL_0
+76	425353d07eb88e8d	smallest jellyfish in the world - photo #	9.0	4.0	0.5	MODEL_4
+77	426a7c8f9899d15f	a city from the river	10.0	4.0	0.375	MODEL_0
+78	426a7c8f9899d15f	view from the south - full - height view	8.0	6.0	0.75	MODEL_8
+79	426a7c8f9899d15f	a view of the city	9.0	7.0	0.75	MODEL_4
+80	429339e6ead0aee3	construction of the new bridge .	10.0	10.0	1.0	MODEL_8
+81	429339e6ead0aee3	construction of the bridge by architect	8.0	6.0	0.75	MODEL_5
+82	429339e6ead0aee3	the new bridge under construction	9.0	6.0	0.625	MODEL_4
+83	429339e6ead0aee3	a view of the bridge	9.0	4.0	0.5	MODEL_0
+84	4327778cc1deef5d	i want to make this for my doll !	8.0	4.0	0.5	MODEL_0
+85	4327778cc1deef5d	i have a thing for this girl .	10.0	4.0	0.375	MODEL_8
+86	4327778cc1deef5d	person , i 'm in love with this girl !	8.0	2.0	0.25	MODEL_5
+87	44f7a5f742267398	the building is now a museum .	9.0	3.0	0.375	MODEL_6
+88	44f7a5f742267398	an artist 's impression of the building .	9.0	4.0	0.5	MODEL_7
+89	44f7a5f742267398	front view of the building	10.0	4.0	0.375	MODEL_11
+90	44f7a5f742267398	front view of the building	8.0	8.0	1.0	MODEL_3
+91	4513f057be760f96	a close up of a stone	9.0	8.0	0.875	MODEL_0
+92	4513f057be760f96	a gold and black pendant is a vision of the mine .	10.0	1.0	0.125	MODEL_5
+93	4513f057be760f96	interesting rock formations on the way	9.0	6.0	0.625	MODEL_4
+94	455b14f453b6b428	the main stage at the music festival	11.0	7.0	0.625	MODEL_4
+95	455b14f453b6b428	image may contain : person , on stage , playing a musical instrument and night	10.0	2.0	0.25	MODEL_8
+96	455b14f453b6b428	image may contain : person , on stage , playing a musical instrument , night and indoor	9.0	4.0	0.5	MODEL_5
+97	455b14f453b6b428	the view from our room	10.0	2.0	0.25	MODEL_0
+98	45fe4fe6ccb743e8	the color of the cable	9.0	4.0	0.5	MODEL_10
+99	45fe4fe6ccb743e8	the light in the darkness	9.0	3.0	0.375	MODEL_1
+100	45fe4fe6ccb743e8	how to make an bacon out of a book	9.0	2.0	0.25	MODEL_2
+101	46a45f9d66cb4777	how to build a deck	9.0	2.0	0.25	MODEL_7
+102	46a45f9d66cb4777	the house is a modern , modern , modern , and a little bit of a lot of natural light .	10.0	5.0	0.5	MODEL_6
+103	46a49a95c25884ca	football team on the field	9.0	4.0	0.5	MODEL_11
+104	46a49a95c25884ca	football team on the field	10.0	1.0	0.125	MODEL_3
+105	46a49a95c25884ca	the new stadium is located .	8.0	4.0	0.5	MODEL_6
+106	46a49a95c25884ca	an aerial view of the stadium .	8.0	5.0	0.625	MODEL_7
+107	46fb5b26d0b5da66	silhouette of a woman meditating on the beach at sunset	9.0	6.0	0.625	MODEL_9
+108	46fb5b26d0b5da66	silhouette of a man watching sunset	9.0	9.0	1.0	MODEL_2
+109	47115e5e0a9ac4a0	a large pile of wood	10.0	9.0	0.875	MODEL_11
+110	47115e5e0a9ac4a0	a large pile of wood	10.0	8.0	0.75	MODEL_3
+111	47115e5e0a9ac4a0	roots of a pine tree	9.0	6.0	0.625	MODEL_7
+112	47115e5e0a9ac4a0	the first tree was found in the area .	9.0	1.0	0.125	MODEL_6
+113	472478dc89216dea	a wave in the sky	10.0	8.0	0.75	MODEL_10
+114	472478dc89216dea	aerial view of the sea	8.0	5.0	0.625	MODEL_9
+115	472478dc89216dea	a whale in the ocean	9.0	1.0	0.125	MODEL_2
+116	472478dc89216dea	aerial view of the sea	10.0	6.0	0.625	MODEL_1
+117	47279e66b3a533bb	a screenshot of the game .	10.0	2.0	0.25	MODEL_2
+118	47279e66b3a533bb	a screenshot of the game	9.0	2.0	0.25	MODEL_10
+119	47279e66b3a533bb	sheet music for the piano	9.0	1.0	0.125	MODEL_9
+120	47279e66b3a533bb	sheet music for the piano	9.0	2.0	0.25	MODEL_1
+121	47798b491c8077d8	winner of the women ' s competition	9.0	4.0	0.5	MODEL_3
+122	47798b491c8077d8	a bodybuilder poses for the camera .	8.0	8.0	1.0	MODEL_7
+123	47798b491c8077d8	bodybuilder is the only thing about the bodybuilder .	8.0	3.0	0.375	MODEL_6
+124	47798b491c8077d8	winner of the women ' s competition	8.0	2.0	0.25	MODEL_11
+125	4785a1dc1a127940	a painting of a woman in a blue dress	10.0	5.0	0.5	MODEL_9
+126	4785a1dc1a127940	a painting of a woman in a blue dress	9.0	6.0	0.625	MODEL_1
+127	4785a1dc1a127940	art by painting artist , made of oil on canvas	10.0	9.0	0.875	MODEL_10
+128	47e825228ffc3421	view from the top of the garden	10.0	8.0	0.75	MODEL_5
+129	47e825228ffc3421	view from the top floor	9.0	8.0	0.875	MODEL_8
+130	47e825228ffc3421	aerial view of the city	10.0	8.0	0.75	MODEL_4
+131	47e825228ffc3421	aerial view of the estate	9.0	7.0	0.75	MODEL_0
+132	4882be1cd3289de8	a herd of cows grazing in a field	10.0	5.0	0.5	MODEL_9
+133	4882be1cd3289de8	a herd of cows grazing in a field	10.0	10.0	1.0	MODEL_1
+134	4882be1cd3289de8	sheep grazing in a field	8.0	8.0	1.0	MODEL_10
+135	4882be1cd3289de8	sheep grazing in a field	9.0	8.0	0.875	MODEL_2
+136	4890f8c1e0b2d6b2	the road to a city	9.0	8.0	0.875	MODEL_3
+137	4890f8c1e0b2d6b2	a city in the snow	10.0	1.0	0.125	MODEL_7
+138	4890f8c1e0b2d6b2	the view from the train	10.0	2.0	0.25	MODEL_6
+139	4890f8c1e0b2d6b2	the road to a city	9.0	4.0	0.5	MODEL_11
+140	48c123c36fe306af	tv genre from different countries	10.0	1.0	0.125	MODEL_11
+141	48c123c36fe306af	tv genre from different countries	8.0	1.0	0.125	MODEL_3
+142	48c123c36fe306af	sausage and sausage in a frying pan	10.0	2.0	0.25	MODEL_7
+143	48c123c36fe306af	the ingredients for the crunchy sauce	8.0	4.0	0.5	MODEL_6
+144	48d6d3b40f89f088	homes for sale located in the city	9.0	4.0	0.5	MODEL_7
+145	48d6d3b40f89f088	homes for sale located in the city	9.0	4.0	0.5	MODEL_6
+146	48d6d3b40f89f088	a house in the village	8.0	5.0	0.625	MODEL_11
+147	48d6d3b40f89f088	a house in the village	8.0	7.0	0.875	MODEL_3
+148	48f80edd7072d510	the house is on the market for $###,###	10.0	2.0	0.25	MODEL_10
+149	48f80edd7072d510	view from the roof terrace	10.0	10.0	1.0	MODEL_1
+150	48f80edd7072d510	view from the roof terrace	9.0	8.0	0.875	MODEL_9
+151	48f80edd7072d510	the house from the road	8.0	7.0	0.875	MODEL_2
+152	48fbdd8b27e92b8d	a beach house on the beach	10.0	1.0	0.125	MODEL_10
+153	48fbdd8b27e92b8d	old boat on the beach	9.0	3.0	0.375	MODEL_2
+154	48fbdd8b27e92b8d	a city on the beach	8.0	0.0	0.0	MODEL_9
+155	48fbdd8b27e92b8d	a city on the beach	10.0	0.0	0.0	MODEL_1
+156	4904e82ba6dc497b	the logo is seen on a door .	8.0	2.0	0.25	MODEL_9
+157	4904e82ba6dc497b	the logo is seen on a door .	8.0	4.0	0.5	MODEL_1
+158	4904e82ba6dc497b	i love the look of this shirt .	10.0	1.0	0.125	MODEL_2
+159	4904e82ba6dc497b	i 'm in love with this shirt !	8.0	1.0	0.125	MODEL_10
+160	4948487e173b70eb	drummers march in the parade	10.0	2.0	0.25	MODEL_11
+161	4948487e173b70eb	drummers march in the parade	10.0	9.0	0.875	MODEL_3
+162	4948487e173b70eb	image may contain : person , on stage and playing a musical instrument	10.0	5.0	0.5	MODEL_6
+163	4948487e173b70eb	image may contain : person , on stage and playing a musical instrument	9.0	1.0	0.125	MODEL_7
+164	494ccf169bb01d0d	a file photo of a group of people	10.0	9.0	0.875	MODEL_11
+165	494ccf169bb01d0d	a file photo of a group of people	9.0	6.0	0.625	MODEL_3
+166	494ccf169bb01d0d	a photo of a lecture	8.0	4.0	0.5	MODEL_6
+167	494ccf169bb01d0d	a photo of a group of students .	8.0	2.0	0.25	MODEL_7
+168	49a77d041fed8e78	i 'm not a fan of the text	8.0	4.0	0.5	MODEL_5
+169	49a77d041fed8e78	this is my birthday party .	10.0	2.0	0.25	MODEL_8
+170	49a77d041fed8e78	a poster of the event	10.0	4.0	0.375	MODEL_4
+171	49a77d041fed8e78	a man is writing on a blackboard	9.0	1.0	0.125	MODEL_0
+172	4a4786d580e21dc5	aircraft model flying in the air .	10.0	8.0	0.75	MODEL_7
+173	4a4786d580e21dc5	a biplane taking part in the flight	10.0	9.0	0.875	MODEL_6
+174	4a4786d580e21dc5	puppy sitting in a chair	9.0	6.0	0.625	MODEL_11
+175	4a4786d580e21dc5	puppy sitting in a chair	10.0	1.0	0.125	MODEL_3
+176	4a703e803a2348ab	a tree is seen during a protest .	9.0	4.0	0.5	MODEL_0
+177	4a703e803a2348ab	a christmas tree made of paper .	10.0	2.0	0.25	MODEL_8
+178	4a703e803a2348ab	a book with a picture of a tree	9.0	4.0	0.5	MODEL_5
+179	4a703e803a2348ab	a protester holding a sign that reads	9.0	7.0	0.75	MODEL_4
+180	4a71edf729a4aa28	image may contain : person , on stage , playing a musical instrument , night and concert	9.0	9.0	1.0	MODEL_10
+181	4a71edf729a4aa28	image may contain : person , on stage , playing a musical instrument , night and indoor	10.0	10.0	1.0	MODEL_1
+182	4a71edf729a4aa28	image may contain : person , on stage , playing a musical instrument , night and indoor	9.0	7.0	0.75	MODEL_9
+183	4a9ef93ee549bae5	a black and white photo of a car	9.0	9.0	1.0	MODEL_1
+184	4a9ef93ee549bae5	a black and white photo of a car	9.0	6.0	0.625	MODEL_9
+185	4a9ef93ee549bae5	truck in a blizzard	9.0	1.0	0.125	MODEL_2
+186	4a9ef93ee549bae5	truck with a wagon of transportation	9.0	6.0	0.625	MODEL_10
+187	4ad00b06fdc7ad05	the front door of the building	10.0	8.0	0.75	MODEL_0
+188	4ad00b06fdc7ad05	the entrance to the building	10.0	8.0	0.75	MODEL_5
+189	4ad00b06fdc7ad05	view from the front door .	9.0	6.0	0.625	MODEL_8
+190	4ad00b06fdc7ad05	the front of the building	10.0	10.0	1.0	MODEL_4
+191	4b0bb9da752e814f	one of the beautiful buildings .	10.0	9.0	0.875	MODEL_8
+192	4b0bb9da752e814f	exterior view of the headquarters	10.0	8.0	0.75	MODEL_4
+193	4b0bb9da752e814f	the building is a major tourist destination .	9.0	4.0	0.5	MODEL_5
+194	4b291ac83964dade	week - photos from the football game	8.0	7.0	0.875	MODEL_7
+195	4b291ac83964dade	week - images vs. football game	10.0	4.0	0.375	MODEL_3
+196	4b66154e270935e7	plants growing in the garden	10.0	9.0	0.875	MODEL_2
+197	4b66154e270935e7	the plant is a common sight .	10.0	4.0	0.375	MODEL_10
+198	4b66154e270935e7	green grass in the wind	9.0	2.0	0.25	MODEL_9
+199	4b66154e270935e7	green grass in the wind	9.0	7.0	0.75	MODEL_1
+200	4c174e712ed77e6d	the building is located in the center of the city .	9.0	1.0	0.125	MODEL_0
+201	4c174e712ed77e6d	a view of the house .	10.0	10.0	1.0	MODEL_8
+202	4c174e712ed77e6d	the house from the street	10.0	8.0	0.75	MODEL_5
+203	4c174e712ed77e6d	a row of terraced houses	9.0	6.0	0.625	MODEL_4
+204	4cd5662419d0288b	a view of the sky from the car	10.0	4.0	0.375	MODEL_0
+205	4cd5662419d0288b	how to draw a step by step	9.0	2.0	0.25	MODEL_8
+206	4cd5662419d0288b	this is what it looks like	10.0	9.0	0.875	MODEL_4
+207	4cd5662419d0288b	the line is a great way to make a difference .	9.0	4.0	0.5	MODEL_5
+208	4d5605a87352ea03	digital art selected for the #	8.0	3.0	0.375	MODEL_7
+209	4d5605a87352ea03	person and the city of love	8.0	2.0	0.25	MODEL_11
+210	4d5605a87352ea03	person and the city of love	8.0	2.0	0.25	MODEL_3
+211	4df17ecc5c0c3df7	person , a student , is pictured with a large crowd of students .	8.0	4.0	0.5	MODEL_6
+212	4df17ecc5c0c3df7	image may contain : person , on stage , playing a musical instrument and indoor	8.0	2.0	0.25	MODEL_7
+213	4df17ecc5c0c3df7	person in the meeting room	10.0	9.0	0.875	MODEL_11
+214	4df17ecc5c0c3df7	person in the meeting room	9.0	6.0	0.625	MODEL_3
+215	4e34ba85ad937051	this is what i want for my house .	8.0	6.0	0.75	MODEL_7
+216	4e34ba85ad937051	plug mounted on a shelf	10.0	1.0	0.125	MODEL_11
+217	4e34ba85ad937051	plug mounted on a shelf	10.0	2.0	0.25	MODEL_3
+218	4e34ba85ad937051	the light of the world	9.0	0.0	0.0	MODEL_6
+219	4ebce95e0893bbab	the night before the night	9.0	2.0	0.25	MODEL_5
+220	4ebce95e0893bbab	the night before the night	9.0	3.0	0.375	MODEL_8
+221	4ebce95e0893bbab	crowds gather to watch the lighting	8.0	4.0	0.5	MODEL_4
+222	4ebce95e0893bbab	the crowd at the event	10.0	9.0	0.875	MODEL_0
+223	4ed11f16e42728d3	a woman walks past a bag of bags	10.0	1.0	0.125	MODEL_5
+224	4ed11f16e42728d3	a woman carries a load of bags	10.0	1.0	0.125	MODEL_4
+225	4ed11f16e42728d3	a woman selling handbags	9.0	1.0	0.125	MODEL_0
+226	4ed11f16e42728d3	a bag full of bags	8.0	1.0	0.125	MODEL_8
+227	4ee1a4239e4e9223	make a great gift for your kids !	10.0	8.0	0.75	MODEL_5
+228	4ee1a4239e4e9223	make your own earrings out of a box .	9.0	4.0	0.5	MODEL_8
+229	4ee1a4239e4e9223	how to make a pair of dice	9.0	1.0	0.125	MODEL_4
+230	4ee1a4239e4e9223	the jewellery in pink with gold	10.0	4.0	0.375	MODEL_0
+231	4f49569be27a0b18	robot with a white robot	10.0	2.0	0.25	MODEL_8
+232	4f49569be27a0b18	the robot is a robot .	10.0	4.0	0.375	MODEL_5
+233	4f49569be27a0b18	cute little piggy in a suit	8.0	3.0	0.375	MODEL_4
+234	4f49569be27a0b18	person , a very rare vintage toy from the ##s .	10.0	2.0	0.25	MODEL_0
+235	4fa72f06321a148c	a view of the marina .	10.0	9.0	0.875	MODEL_8
+236	4fa72f06321a148c	a view of the marina	9.0	9.0	1.0	MODEL_0
+237	4fa72f06321a148c	a view of the marina .	9.0	8.0	0.875	MODEL_5
+238	501900433dcc0168	flowers in the tree - photo sharing !	9.0	8.0	0.875	MODEL_6
+239	501900433dcc0168	blossoms on a cherry tree	11.0	11.0	1.0	MODEL_3
+240	501900433dcc0168	spring is in the air	10.0	8.0	0.75	MODEL_7
+241	501900433dcc0168	cherry blossoms fluttering in the wind	10.0	9.0	0.875	MODEL_11
+242	5122f1f1c388ae71	the future of aircraft model	9.0	8.0	0.875	MODEL_2
+243	5122f1f1c388ae71	aircraft model flies over the desert .	10.0	2.0	0.25	MODEL_9
+244	5122f1f1c388ae71	aircraft model , the first aircraft to be built .	10.0	2.0	0.25	MODEL_10
+245	5122f1f1c388ae71	aircraft model flies over the desert .	8.0	7.0	0.875	MODEL_1
+246	52037ca31227ff14	the art of film director	8.0	2.0	0.25	MODEL_5
+247	52037ca31227ff14	digital art selected for the #	10.0	8.0	0.75	MODEL_4
+248	520f36d1faef5873	person and i playing in the park	9.0	6.0	0.625	MODEL_9
+249	520f36d1faef5873	person and i playing in the park	9.0	3.0	0.375	MODEL_1
+250	520f36d1faef5873	person , who is the only person to be in the game , is a good idea to get a good idea for his	8.0	4.0	0.5	MODEL_10
+251	525bfb4ba677663d	the beach at low tide	10.0	8.0	0.75	MODEL_3
+252	525bfb4ba677663d	a view of the beach	10.0	10.0	1.0	MODEL_7
+253	525bfb4ba677663d	the beach at the hotel	10.0	5.0	0.5	MODEL_11
+254	525bfb4ba677663d	the beach on the south coast	10.0	10.0	1.0	MODEL_6
+255	5283ed70fdd4de9d	the sign on the corner	8.0	8.0	1.0	MODEL_5
+256	5283ed70fdd4de9d	the sign at the corner	10.0	5.0	0.5	MODEL_4
+257	5283ed70fdd4de9d	some of the old buildings .	9.0	4.0	0.5	MODEL_8
+258	5283ed70fdd4de9d	the sign at the corner	9.0	7.0	0.75	MODEL_0
+259	52a89b8d46def60b	the sun sets behind tower	9.0	9.0	1.0	MODEL_0
+260	52a89b8d46def60b	the sun sets behind the tower .	9.0	9.0	1.0	MODEL_8
+261	52a89b8d46def60b	the sun sets behind tower	10.0	10.0	1.0	MODEL_4
+262	52a89b8d46def60b	sunset over the top of the tower	10.0	10.0	1.0	MODEL_5
+263	52b8328a89f3ad0d	the art of visual artist	10.0	6.0	0.625	MODEL_8
+264	52b8328a89f3ad0d	a room with a view	10.0	4.0	0.375	MODEL_4
+265	52b8328a89f3ad0d	a photograph of a man 's hand in a room	10.0	4.0	0.375	MODEL_5
+266	52b8328a89f3ad0d	a room with a view	9.0	4.0	0.5	MODEL_0
+267	52cdb2dd8c459849	this is a cute idea for a little girl 's room .	8.0	6.0	0.75	MODEL_9
+268	52cdb2dd8c459849	this is a cute idea for a little girl 's room .	10.0	6.0	0.625	MODEL_1
+269	52cdb2dd8c459849	film character from animation film	9.0	4.0	0.5	MODEL_2
+270	52cdb2dd8c459849	person is a little girl who is going to be a little girl .	9.0	1.0	0.125	MODEL_10
+271	52d390528575cdd3	clouds over the lake and the mountains	10.0	10.0	1.0	MODEL_0
+272	52d390528575cdd3	the lake in the clouds	9.0	7.0	0.75	MODEL_5
+273	52d390528575cdd3	rain clouds over the lake	9.0	8.0	0.875	MODEL_8
+274	52d390528575cdd3	clouds over the lake and the mountains	9.0	6.0	0.625	MODEL_4
+275	52f096c39217d43d	image may contain : person , on stage and playing a musical instrument	9.0	4.0	0.5	MODEL_7
+276	52f096c39217d43d	image may contain : person , on stage , playing a musical instrument and standing	10.0	8.0	0.75	MODEL_11
+277	52f096c39217d43d	image may contain : person , on stage and playing a musical instrument	10.0	5.0	0.5	MODEL_3
+278	52f096c39217d43d	image may contain : person , on stage , playing a musical instrument and concert	9.0	8.0	0.875	MODEL_6
+279	52f0a663c47d1a5d	a view of the lake	9.0	8.0	0.875	MODEL_0
+280	52f0a663c47d1a5d	the view from the house	8.0	7.0	0.875	MODEL_5
+281	52f0a663c47d1a5d	view of the lake and mountains	10.0	10.0	1.0	MODEL_8
+282	52fac3319e8775a3	illustration of the haunted house	8.0	3.0	0.375	MODEL_10
+283	52fac3319e8775a3	digital art selected for the #	9.0	3.0	0.375	MODEL_2
+284	52fac3319e8775a3	a sketch of the building	9.0	1.0	0.125	MODEL_9
+285	52fac3319e8775a3	a sketch of the building	10.0	9.0	0.875	MODEL_1
+286	535afb430bd837e1	tourist attraction in the snow	10.0	4.0	0.375	MODEL_7
+287	535afb430bd837e1	the snow is in the air .	9.0	4.0	0.5	MODEL_6
+288	535afb430bd837e1	a city on the snow	9.0	2.0	0.25	MODEL_3
+289	535afb430bd837e1	a small stream in the snow	9.0	3.0	0.375	MODEL_11
+290	53aad35d9851f72a	a group of soldiers stand guard outside a city .	9.0	6.0	0.625	MODEL_0
+291	53aad35d9851f72a	a crowd gathers in front .	10.0	6.0	0.625	MODEL_8
+292	53aad35d9851f72a	a crowd of people gather to watch the action .	10.0	8.0	0.75	MODEL_5
+293	53aad35d9851f72a	a group of soldiers stand guard outside a city .	8.0	5.0	0.625	MODEL_4
+294	53e23a0ed2c8131a	a seagull walks across a road	8.0	1.0	0.125	MODEL_4
+295	53e23a0ed2c8131a	the first winner of the season	9.0	2.0	0.25	MODEL_5
+296	53e23a0ed2c8131a	a seagull walks across a road	8.0	2.0	0.25	MODEL_0
+297	53e23a0ed2c8131a	a hole in the sidewalk	9.0	0.0	0.0	MODEL_8
+298	541c23db198bb54c	national park is a national park located	9.0	4.0	0.5	MODEL_3
+299	541c23db198bb54c	national park from the air	10.0	6.0	0.625	MODEL_7
+300	541c23db198bb54c	the ruins of the ancient citadel	9.0	4.0	0.5	MODEL_11
+301	541c23db198bb54c	tourist attraction is a rock formation .	10.0	6.0	0.625	MODEL_6
+302	545a42e13ec66071	the building is seen in this photo .	9.0	7.0	0.75	MODEL_0
+303	545a42e13ec66071	the building is located in the heart .	10.0	4.0	0.375	MODEL_5
+304	545a42e13ec66071	a city is one of the oldest buildings in the world .	8.0	2.0	0.25	MODEL_8
+305	545a42e13ec66071	the building is seen in this photo .	9.0	7.0	0.75	MODEL_4
+306	54abd8a584bdb947	a car in a city	10.0	6.0	0.625	MODEL_2
+307	54abd8a584bdb947	a car with a taxi	9.0	2.0	0.25	MODEL_10
+308	54abd8a584bdb947	a car is seen in this undated file photo .	9.0	4.0	0.5	MODEL_9
+309	54abd8a584bdb947	a car is seen in this undated file photo .	10.0	5.0	0.5	MODEL_1
+310	54c72be9cc355d87	a slice of watermelon	10.0	8.0	0.75	MODEL_8
+311	54c72be9cc355d87	a close - up of a tomato	10.0	9.0	0.875	MODEL_4
+312	54c72be9cc355d87	sliced sliced watermelon on a black background	10.0	6.0	0.625	MODEL_5
+313	54c72be9cc355d87	a close - up of a tomato	9.0	2.0	0.25	MODEL_0
+314	54e1bea4ecef49db	a crowd gathers for the annual festival .	8.0	8.0	1.0	MODEL_4
+315	54e1bea4ecef49db	a crowd gathers for the annual festival .	10.0	10.0	1.0	MODEL_0
+316	54e1bea4ecef49db	a view of the crowd	10.0	8.0	0.75	MODEL_8
+317	54e1bea4ecef49db	the crowd on the grass	10.0	10.0	1.0	MODEL_5
+318	5523d7d98d23a5bf	a dog is seen in this undated file photo .	9.0	9.0	1.0	MODEL_9
+319	5523d7d98d23a5bf	person , the dog of the day	10.0	4.0	0.375	MODEL_2
+320	5523d7d98d23a5bf	this dog is so much more than me .	9.0	4.0	0.5	MODEL_10
+321	5523d7d98d23a5bf	a dog is seen in this undated file photo .	9.0	7.0	0.75	MODEL_1
+322	554c2013a8bfda94	invention in the sky at dusk	10.0	0.0	0.0	MODEL_1
+323	554c2013a8bfda94	invention in the sky at dusk	9.0	2.0	0.25	MODEL_9
+324	554c2013a8bfda94	cloudy sky in the clouds	8.0	3.0	0.375	MODEL_2
+325	5567128e7cd17ccc	a city in the evening	10.0	8.0	0.75	MODEL_11
+326	5567128e7cd17ccc	a bridge over river at night	8.0	3.0	0.375	MODEL_7
+327	5576d9a0ea0c5b78	a cake i made for my son 's ##th birthday .	10.0	2.0	0.25	MODEL_1
+328	5576d9a0ea0c5b78	food is a great way to make it easy to make .	8.0	2.0	0.25	MODEL_10
+329	5576d9a0ea0c5b78	this is a cake i made for my husband 's birthday .	8.0	7.0	0.875	MODEL_2
+330	5576d9a0ea0c5b78	a cake i made for my son 's ##th birthday .	9.0	4.0	0.5	MODEL_9
+331	55834fe726160ce3	a street scene in the district	9.0	8.0	0.875	MODEL_4
+332	55834fe726160ce3	a street scene in the district	9.0	7.0	0.75	MODEL_0
+333	55834fe726160ce3	the streets at night	8.0	8.0	1.0	MODEL_5
+334	55834fe726160ce3	the streets in the evening	10.0	9.0	0.875	MODEL_8
+335	55d6e167d2e0df39	person sitting on a rock	8.0	2.0	0.25	MODEL_2
+336	55d6e167d2e0df39	person sitting on a rock	9.0	4.0	0.5	MODEL_10
+337	55d6e167d2e0df39	businessman sitting on a rock	10.0	10.0	1.0	MODEL_1
+338	5633d4ce8be26ede	a flag painted on a wall	9.0	4.0	0.5	MODEL_1
+339	5633d4ce8be26ede	a city is a city .	8.0	4.0	0.5	MODEL_10
+340	5633d4ce8be26ede	this is a photo of a bus .	10.0	2.0	0.25	MODEL_2
+341	5633d4ce8be26ede	a flag painted on a wall	10.0	2.0	0.25	MODEL_9
+342	5691b85da3f12b55	pop artist on the beach	8.0	2.0	0.25	MODEL_1
+343	5691b85da3f12b55	pop artist on the beach	9.0	3.0	0.375	MODEL_9
+344	5691b85da3f12b55	person and her husband take a walk on the beach	8.0	2.0	0.25	MODEL_10
+345	56f7e34b673c994e	a flower bed in the garden	10.0	10.0	1.0	MODEL_2
+346	56f7e34b673c994e	the front of the house	10.0	8.0	0.75	MODEL_9
+347	56f7e34b673c994e	the front of the house	10.0	5.0	0.5	MODEL_1
+348	56f7e34b673c994e	spring flowers in the garden	9.0	8.0	0.875	MODEL_10
+349	57417f0f8915d287	a view of the mountains .	10.0	8.0	0.75	MODEL_7
+350	57417f0f8915d287	a view of the mountains	8.0	7.0	0.875	MODEL_6
+351	57417f0f8915d287	a closer look at the flowers	9.0	7.0	0.75	MODEL_11
+352	57417f0f8915d287	a closer look at the flowers	9.0	2.0	0.25	MODEL_3
+353	57b8ddf0acfd488a	person was spotted on the road	10.0	8.0	0.75	MODEL_10
+354	57b8ddf0acfd488a	on the road with person	9.0	8.0	0.875	MODEL_2
+355	57b8ddf0acfd488a	a police officer runs through the streets	10.0	1.0	0.125	MODEL_9
+356	57b8ddf0acfd488a	a police officer runs through the streets	10.0	4.0	0.375	MODEL_1
+357	57df93892db1d252	type of place of worship of artwork	9.0	7.0	0.75	MODEL_11
+358	57df93892db1d252	the statue of person , the first - floor statue of person .	10.0	8.0	0.75	MODEL_6
+359	57df93892db1d252	type of place of worship of artwork	9.0	8.0	0.875	MODEL_3
+360	57df93892db1d252	this is the statue of person .	8.0	5.0	0.625	MODEL_7
+361	57ea340223da9e21	the road to a city	8.0	5.0	0.625	MODEL_8
+362	57ea340223da9e21	the road to the future	10.0	8.0	0.75	MODEL_5
+363	57ea340223da9e21	person on the long road	9.0	8.0	0.875	MODEL_4
+364	57ea340223da9e21	aerial view of a country road	9.0	4.0	0.5	MODEL_0
+365	58064d5767e03700	the stairs to the top	8.0	6.0	0.75	MODEL_7
+366	58064d5767e03700	the stairs of the caves	9.0	7.0	0.75	MODEL_11
+367	58064d5767e03700	the stairs of the caves	10.0	8.0	0.75	MODEL_3
+368	583c0a7e8d08be0f	a tent is set up	10.0	2.0	0.25	MODEL_11
+369	583c0a7e8d08be0f	the tents at the camp	9.0	4.0	0.5	MODEL_7
+370	583c0a7e8d08be0f	tents are a popular place to see the tents .	9.0	1.0	0.125	MODEL_6
+371	583c0a7e8d08be0f	a tent is set up	9.0	8.0	0.875	MODEL_3
+372	586560f86c4f1a61	the bar at the bar	10.0	8.0	0.75	MODEL_7
+373	586560f86c4f1a61	a photograph of the interior	8.0	4.0	0.5	MODEL_11
+374	586560f86c4f1a61	the bar area at the restaurant	10.0	9.0	0.875	MODEL_6
+375	586560f86c4f1a61	a photograph of the interior	9.0	8.0	0.875	MODEL_3
+376	588c5b6245bb7392	patterns on a white background	9.0	4.0	0.5	MODEL_9
+377	588c5b6245bb7392	patterns on a white background	8.0	3.0	0.375	MODEL_1
+378	58e026b98339e82b	biological species in the wild	10.0	9.0	0.875	MODEL_7
+379	58e026b98339e82b	biological species in the wild	10.0	1.0	0.125	MODEL_11
+380	58e026b98339e82b	biological species - i have a bit of a bird	10.0	4.0	0.375	MODEL_6
+381	58e026b98339e82b	biological species in the wild	10.0	6.0	0.625	MODEL_3
+382	592acd420a061dbe	person on a bicycle ride	10.0	9.0	0.875	MODEL_2
+383	592acd420a061dbe	a bicycle ride on a bicycle	9.0	4.0	0.5	MODEL_10
+384	592acd420a061dbe	rent a bike and ride around the city	8.0	7.0	0.875	MODEL_9
+385	592acd420a061dbe	rent a bike and ride around the city	9.0	9.0	1.0	MODEL_1
+386	5969d6c2712145cf	the building in the early #### s	10.0	8.0	0.75	MODEL_3
+387	5969d6c2712145cf	a drawing of the original building	9.0	8.0	0.875	MODEL_6
+388	5969d6c2712145cf	the building in the early #### s	9.0	7.0	0.75	MODEL_11
+389	597b87a1f3406a2c	the terraces of the tribe	9.0	9.0	1.0	MODEL_11
+390	597b87a1f3406a2c	this is a photo of the main labyrinth .	9.0	6.0	0.625	MODEL_7
+391	597b87a1f3406a2c	the terraces of the tribe	9.0	4.0	0.5	MODEL_3
+392	597b87a1f3406a2c	this is the beautiful pattern of the original weathered rock .	9.0	4.0	0.5	MODEL_6
+393	598ce21cc779ff81	i like the color of the stove .	9.0	4.0	0.5	MODEL_8
+394	598ce21cc779ff81	i like the idea of a kitchen sink .	9.0	2.0	0.25	MODEL_5
+395	598ce21cc779ff81	a cooker in the kitchen	9.0	7.0	0.75	MODEL_4
+396	598ce21cc779ff81	a kitchen with a view	10.0	5.0	0.5	MODEL_0
+397	59a15df1b62e020e	sea view from the beach	10.0	8.0	0.75	MODEL_3
+398	59a15df1b62e020e	sea view from the beach	10.0	1.0	0.125	MODEL_11
+399	59a15df1b62e020e	a view of the sea	8.0	6.0	0.75	MODEL_7
+400	59a9a37cd0fff554	a street lamp on a rainy day .	8.0	4.0	0.5	MODEL_2
+401	59a9a37cd0fff554	filming location in the ####s	8.0	6.0	0.75	MODEL_10
+402	59a9a37cd0fff554	filming location in the #### s	10.0	10.0	1.0	MODEL_9
+403	59a9a37cd0fff554	filming location in the #### s	8.0	4.0	0.5	MODEL_1
+404	5a06f7972a54edb1	the car on the road	8.0	2.0	0.25	MODEL_5
+405	5a06f7972a54edb1	the parking lot at photo	8.0	5.0	0.625	MODEL_4
+406	5a06f7972a54edb1	the sign at the entrance	10.0	5.0	0.5	MODEL_0
+407	5a74ff88bbe3148d	book of poems by person	9.0	6.0	0.625	MODEL_3
+408	5a74ff88bbe3148d	a letter from the book	8.0	4.0	0.5	MODEL_6
+409	5a74ff88bbe3148d	book of poems by person	8.0	3.0	0.375	MODEL_11
+410	5af8e7d93c282ad2	a man jumps into a lake	10.0	1.0	0.125	MODEL_6
+411	5af8e7d93c282ad2	man jumping off a cliff into the ocean .	10.0	2.0	0.25	MODEL_7
+412	5af8e7d93c282ad2	jump from a cliff into the lake	10.0	9.0	0.875	MODEL_11
+413	5b6cacc21f8b2e26	a city in the fall	9.0	3.0	0.375	MODEL_3
+414	5b6cacc21f8b2e26	a city in the fall	9.0	9.0	1.0	MODEL_11
+415	5b6cacc21f8b2e26	spring is in the air	8.0	7.0	0.875	MODEL_7
+416	5b6cacc21f8b2e26	a beautiful day in the park	9.0	6.0	0.625	MODEL_6
+417	5bab5cdaef9bdecc	the road to the house	10.0	5.0	0.5	MODEL_10
+418	5bab5cdaef9bdecc	the road to a city .	10.0	9.0	0.875	MODEL_2
+419	5bab5cdaef9bdecc	fall foliage along the highway	10.0	10.0	1.0	MODEL_1
+420	5bab5cdaef9bdecc	fall foliage along the highway	9.0	8.0	0.875	MODEL_9
+421	5be6d841d201704c	geographical feature category in the desert	8.0	6.0	0.75	MODEL_1
+422	5be6d841d201704c	geographical feature category in the desert	9.0	1.0	0.125	MODEL_9
+423	5be6d841d201704c	industry in the middle of the desert	10.0	4.0	0.375	MODEL_2
+424	5bf6da53ac255f8d	a beautiful bouquet of dark pink	10.0	8.0	0.75	MODEL_3
+425	5bf6da53ac255f8d	the color of the bouquet	10.0	6.0	0.625	MODEL_7
+426	5bf6da53ac255f8d	a bouquet of flowers in a box	9.0	4.0	0.5	MODEL_6
+427	5bf6da53ac255f8d	a beautiful bouquet of dark pink	9.0	6.0	0.625	MODEL_11
+428	5c24ce36aec6f2ec	a bus in the city	9.0	7.0	0.75	MODEL_5
+429	5c24ce36aec6f2ec	a bus is seen in this undated image .	10.0	9.0	0.875	MODEL_8
+430	5c24ce36aec6f2ec	image of a bus on a street	10.0	9.0	0.875	MODEL_4
+431	5c24ce36aec6f2ec	a bus is seen in this undated file photo .	8.0	5.0	0.625	MODEL_0
+432	5c2abdde84cde533	people walking along the beach	9.0	2.0	0.25	MODEL_3
+433	5c2abdde84cde533	people walking along the beach	8.0	4.0	0.5	MODEL_11
+434	5c2abdde84cde533	person and her husband take a walk .	9.0	1.0	0.125	MODEL_7
+435	5c2abdde84cde533	person and her husband , walk down the road .	8.0	1.0	0.125	MODEL_6
+436	5c4200f001ed998a	people sitting on a bench	9.0	9.0	1.0	MODEL_10
+437	5c4200f001ed998a	a man sits on a bench	10.0	5.0	0.5	MODEL_9
+438	5c4200f001ed998a	people sitting on the grass	10.0	2.0	0.25	MODEL_2
+439	5c4200f001ed998a	a man sits on a bench	10.0	8.0	0.75	MODEL_1
+440	5c50d0ef8f32b2c8	close up of a flower .	10.0	8.0	0.75	MODEL_8
+441	5c50d0ef8f32b2c8	a yellow flower in full bloom .	9.0	8.0	0.875	MODEL_5
+442	5c50d0ef8f32b2c8	a flower from a different angle	9.0	9.0	1.0	MODEL_4
+443	5c50d0ef8f32b2c8	a close up of a flower	10.0	8.0	0.75	MODEL_0
+444	5c51917495052c7b	a plate of food served	9.0	9.0	1.0	MODEL_0
+445	5c51917495052c7b	my breakfast at the hotel	9.0	8.0	0.875	MODEL_8
+446	5c51917495052c7b	the food at the restaurant	10.0	9.0	0.875	MODEL_4
+447	5c51917495052c7b	breakfast with a friend of my favorite breakfast	10.0	5.0	0.5	MODEL_5
+448	5d05c1b0ae71e3e9	image of : food for a wedding	8.0	4.0	0.5	MODEL_4
+449	5d05c1b0ae71e3e9	a cake i made for my son 's birthday .	9.0	4.0	0.5	MODEL_5
+450	5d05c1b0ae71e3e9	a cake i made for my son 's ##th birthday .	9.0	4.0	0.5	MODEL_8
+451	5d05c1b0ae71e3e9	a cake for a special celebration	9.0	7.0	0.75	MODEL_0
+452	5d8ff0ef867843b6	person working on a 3d printer	9.0	2.0	0.25	MODEL_9
+453	5d8ff0ef867843b6	person working on a sewing machine	9.0	3.0	0.375	MODEL_10
+454	5d8ff0ef867843b6	person working on a 3d printer	9.0	1.0	0.125	MODEL_1
+455	5e0b45d7cd9c5974	the street art of person	10.0	8.0	0.75	MODEL_0
+456	5e0b45d7cd9c5974	street art of a graffiti	9.0	8.0	0.875	MODEL_5
+457	5e0b45d7cd9c5974	digital art selected for the #	9.0	1.0	0.125	MODEL_8
+458	5e0b45d7cd9c5974	street art seen during the tour	10.0	6.0	0.625	MODEL_4
+459	5e7e4596d0e7fc9b	a view of the garden	10.0	8.0	0.75	MODEL_4
+460	5e7e4596d0e7fc9b	the view from the back deck .	9.0	8.0	0.875	MODEL_8
+461	5e7e4596d0e7fc9b	property image # cottage in the beautiful countryside	10.0	5.0	0.5	MODEL_5
+462	5e7e4596d0e7fc9b	the garden before the makeover	9.0	8.0	0.875	MODEL_0
+463	5f33212a205900d0	wedding shoes from the ####s	9.0	7.0	0.75	MODEL_2
+464	5f33212a205900d0	wedding shoes from the ####s	9.0	8.0	0.875	MODEL_10
+465	5f33212a205900d0	bridal shoes for a destination wedding	8.0	4.0	0.5	MODEL_9
+466	5f33212a205900d0	bridal shoes for a destination wedding	8.0	7.0	0.875	MODEL_1
+467	5f340d8dfad6280b	a sign warning of a lake	8.0	5.0	0.625	MODEL_0
+468	5f340d8dfad6280b	lake is a lake and a lake .	8.0	5.0	0.625	MODEL_5
+469	5f340d8dfad6280b	lake is one of the largest lake .	8.0	6.0	0.75	MODEL_8
+470	5f853604665bd94d	biological species in the garden	9.0	4.0	0.5	MODEL_10
+471	5f853604665bd94d	biological species in the garden	9.0	6.0	0.625	MODEL_2
+472	5f853604665bd94d	biological species foraging in the rain	9.0	4.0	0.5	MODEL_9
+473	5f853604665bd94d	biological species foraging in the rain	10.0	5.0	0.5	MODEL_1
+474	5fe309411be58184	the pattern of the fabric	9.0	9.0	1.0	MODEL_6
+475	5fe309411be58184	i love the pattern on this	8.0	6.0	0.75	MODEL_11
+476	5fe309411be58184	a close up of the pattern	9.0	7.0	0.75	MODEL_7
+477	5fe309411be58184	i love the pattern on this	9.0	6.0	0.625	MODEL_3
+478	603d85dfcfc6671c	flowers in a white vase	9.0	3.0	0.375	MODEL_8
+479	603d85dfcfc6671c	a bouquet of flowers for a wedding .	10.0	10.0	1.0	MODEL_5
+480	603d85dfcfc6671c	wedding flowers in a box	9.0	7.0	0.75	MODEL_4
+481	603d85dfcfc6671c	white roses in a bouquet	10.0	8.0	0.75	MODEL_0
+482	6100e7125626c743	automotive industry business with a car	9.0	8.0	0.875	MODEL_4
+483	6100e7125626c743	actor in a scene from the movie	8.0	5.0	0.625	MODEL_0
+484	6100e7125626c743	person and his new car .	9.0	2.0	0.25	MODEL_8
+485	6100e7125626c743	person , who was a car , was a car .	10.0	4.0	0.375	MODEL_5
+486	6121963db5d26f6b	train bridge over the river	8.0	4.0	0.5	MODEL_2
+487	6121963db5d26f6b	a river runs through it	9.0	6.0	0.625	MODEL_9
+488	6121963db5d26f6b	a river runs through it	8.0	5.0	0.625	MODEL_1
+489	6121963db5d26f6b	train crossing a bridge over a river	9.0	2.0	0.25	MODEL_10
+490	6182ef6ff6e2ee37	gothic structure is a church	9.0	6.0	0.625	MODEL_11
+491	6182ef6ff6e2ee37	another view of the tower .	9.0	9.0	1.0	MODEL_7
+492	6182ef6ff6e2ee37	the spire of the cathedral	9.0	7.0	0.75	MODEL_6
+493	61c2aad14e048f43	person and i at the wedding	10.0	4.0	0.375	MODEL_8
+494	61c2aad14e048f43	the crowd at the festival	9.0	4.0	0.5	MODEL_5
+495	61c2aad14e048f43	puppy in a graduation ceremony	10.0	2.0	0.25	MODEL_4
+496	61c2aad14e048f43	person and his wife on a bicycle	10.0	1.0	0.125	MODEL_0
+497	61e90ec53972651c	a hand holding a glass of water	10.0	2.0	0.25	MODEL_0
+498	61e90ec53972651c	person on a black background	9.0	2.0	0.25	MODEL_8
+499	61e90ec53972651c	a group of white stones forming a heart	8.0	3.0	0.375	MODEL_5
+500	61e90ec53972651c	a pair of hands holding each other	10.0	2.0	0.25	MODEL_4
+501	62ba1115720fa74a	friday night rivals was for high school vs game !	9.0	4.0	0.5	MODEL_3
+502	62ba1115720fa74a	week - photos from the football game	10.0	9.0	0.875	MODEL_7
+503	62ba1115720fa74a	week - photos from the football game	8.0	6.0	0.75	MODEL_6
+504	62ba1115720fa74a	friday night rivals was for high school vs game !	9.0	6.0	0.625	MODEL_11
+505	62d32d745df67add	tv genre in a box	9.0	2.0	0.25	MODEL_9
+506	62d32d745df67add	the cake i made for my son 's birthday .	10.0	2.0	0.25	MODEL_10
+507	62d32d745df67add	this is what i want for western christian holiday !	9.0	1.0	0.125	MODEL_2
+508	630153911412c0ae	biological species on a rock	10.0	8.0	0.75	MODEL_10
+509	630153911412c0ae	biological subspecies in a tree	10.0	8.0	0.75	MODEL_2
+510	630153911412c0ae	fungus growing on a tree stump	9.0	6.0	0.625	MODEL_9
+511	630153911412c0ae	fungus growing on a tree stump	10.0	6.0	0.625	MODEL_1
+512	6310e1d0963ccdf4	cars driving on the highway	8.0	1.0	0.125	MODEL_0
+513	6310e1d0963ccdf4	the bridge on the way	10.0	8.0	0.75	MODEL_8
+514	6310e1d0963ccdf4	a view from the bridge	10.0	8.0	0.75	MODEL_4
+515	6310e1d0963ccdf4	the pedestrian bridge crossing the river	9.0	6.0	0.625	MODEL_5
+516	63f6d4105fcc4149	dandelion against a blue sky	8.0	7.0	0.875	MODEL_8
+517	63f6d4105fcc4149	dandelion seeds blowing in the wind	10.0	5.0	0.5	MODEL_5
+518	63f6d4105fcc4149	dandelion seeds blowing in the wind	9.0	7.0	0.75	MODEL_4
+519	63f6d4105fcc4149	dandelion seeds blowing in the wind	10.0	8.0	0.75	MODEL_0
+520	63ffe473af21b301	person running on the track	10.0	9.0	0.875	MODEL_6
+521	63ffe473af21b301	person running on the trail	9.0	4.0	0.5	MODEL_7
+522	63ffe473af21b301	person heads toward the finish line	9.0	6.0	0.625	MODEL_3
+523	63ffe473af21b301	person heads toward the finish line	8.0	3.0	0.375	MODEL_11
+524	64b4925365f7b748	person , the cat of person	10.0	2.0	0.25	MODEL_2
+525	64b4925365f7b748	black cat hidden in a blanket	10.0	8.0	0.75	MODEL_1
+526	64ea488d7df579b7	this is a photo of my room .	10.0	5.0	0.5	MODEL_8
+527	64ea488d7df579b7	the house is on the left .	8.0	1.0	0.125	MODEL_5
+528	64ea488d7df579b7	the living room of the suite	10.0	8.0	0.75	MODEL_4
+529	64ea488d7df579b7	the lobby of the hotel	10.0	8.0	0.75	MODEL_0
+530	64f7256f99a2100c	the view from the bridge	8.0	6.0	0.75	MODEL_2
+531	64f7256f99a2100c	looking back at the bridge	8.0	6.0	0.75	MODEL_10
+532	64f7256f99a2100c	the southbound lanes of road were closed	9.0	9.0	1.0	MODEL_9
+533	6542eb964c3b6203	person , who is the first person to play a game of volleyball	9.0	4.0	0.5	MODEL_6
+534	6542eb964c3b6203	person - on the beach	8.0	5.0	0.625	MODEL_3
+535	6542eb964c3b6203	person - on the beach	9.0	4.0	0.5	MODEL_11
+536	6542eb964c3b6203	beach volleyball player in the sand	9.0	8.0	0.875	MODEL_7
+537	6555712a1d6f2fd1	a jacuzzi in the water	10.0	0.0	0.0	MODEL_8
+538	6555712a1d6f2fd1	the fire in the garden	10.0	2.0	0.25	MODEL_5
+539	6555712a1d6f2fd1	a pot of gold in the shade	10.0	2.0	0.25	MODEL_4
+540	6555712a1d6f2fd1	the fire pit is a great idea for the fire pit .	8.0	4.0	0.5	MODEL_0
+541	6565e12368d83f43	automobile model is a classic car that was built .	10.0	8.0	0.75	MODEL_0
+542	6565e12368d83f43	this is the convertible , with the classic cars .	10.0	6.0	0.625	MODEL_8
+543	6565e12368d83f43	the convertible was a great idea for a convertible .	10.0	4.0	0.375	MODEL_5
+544	6565e12368d83f43	automobile model was one of the many rides	9.0	4.0	0.5	MODEL_4
+545	65cd018b5c1b79d5	a photo of the event	10.0	10.0	1.0	MODEL_10
+546	65cd018b5c1b79d5	person in the sitting room	8.0	3.0	0.375	MODEL_2
+547	65cd018b5c1b79d5	highlights from the state of event	9.0	8.0	0.875	MODEL_9
+548	65ee93c0cdade98d	the garden in early spring	10.0	9.0	0.875	MODEL_3
+549	65ee93c0cdade98d	the garden of the garden	10.0	5.0	0.5	MODEL_6
+550	65ee93c0cdade98d	the garden in early spring	10.0	10.0	1.0	MODEL_11
+551	65ee93c0cdade98d	wild flowers in the garden	9.0	7.0	0.75	MODEL_7
+552	65fb1853d9860721	how to cook a sausage	8.0	5.0	0.625	MODEL_9
+553	65fb1853d9860721	smoked sausage on a cutting board	10.0	9.0	0.875	MODEL_2
+554	65fb1853d9860721	how to cook a sausage	9.0	2.0	0.25	MODEL_1
+555	661c20f90151a7a1	a selection of different types of plastic bottles	9.0	4.0	0.5	MODEL_5
+556	6637a41dd70303cf	christmas lights on a house	10.0	5.0	0.5	MODEL_5
+557	6637a41dd70303cf	christmas lights in the city	9.0	8.0	0.875	MODEL_8
+558	6637a41dd70303cf	twinkle lights hang from the ceiling	9.0	4.0	0.5	MODEL_4
+559	6637a41dd70303cf	a general view of the christmas lights .	9.0	9.0	1.0	MODEL_0
+560	664c1bbbd4e11561	the road to the sea	9.0	6.0	0.625	MODEL_7
+561	664c1bbbd4e11561	how to choose the right road for you	9.0	9.0	1.0	MODEL_11
+562	664c1bbbd4e11561	how to choose the right road for you	8.0	2.0	0.25	MODEL_3
+563	66b710d8fba7c887	a dragonfly on a leaf	10.0	9.0	0.875	MODEL_3
+564	66b710d8fba7c887	a dragonfly on a leaf	9.0	9.0	1.0	MODEL_11
+565	66b710d8fba7c887	organism perched on a leaf	8.0	5.0	0.625	MODEL_7
+566	67001ab7ccd10263	these are some of the animals .	9.0	8.0	0.875	MODEL_8
+567	67001ab7ccd10263	person and her calf on the farm	9.0	1.0	0.125	MODEL_5
+568	67001ab7ccd10263	cows eating hay in a farm	10.0	2.0	0.25	MODEL_0
+569	67001ab7ccd10263	some of the horses in the paddock	9.0	1.0	0.125	MODEL_4
+570	67aa412c9cdb1f5a	the view from the lake .	9.0	7.0	0.75	MODEL_2
+571	67aa412c9cdb1f5a	the lake is a beautiful lake .	8.0	7.0	0.875	MODEL_10
+572	67aa412c9cdb1f5a	water reservoir lake in the fall	8.0	7.0	0.875	MODEL_9
+573	67aa412c9cdb1f5a	water reservoir lake in the fall	9.0	7.0	0.75	MODEL_1
+574	68093bf21c53ba3c	mountain range on the way	10.0	9.0	0.875	MODEL_8
+575	68093bf21c53ba3c	mountain range from the top	10.0	8.0	0.75	MODEL_5
+576	68093bf21c53ba3c	mountain range in the distance	10.0	8.0	0.75	MODEL_4
+577	684b757ec4a865ce	the baboon is a real monkey .	10.0	2.0	0.25	MODEL_10
+578	684b757ec4a865ce	animals that start with h - photo #	10.0	4.0	0.375	MODEL_2
+579	684b757ec4a865ce	the cutest sloth in the world - photo #	8.0	3.0	0.375	MODEL_9
+580	684b757ec4a865ce	the cutest sloth in the world - photo #	8.0	7.0	0.875	MODEL_1
+581	689b64ac4f119178	biological species on the rocks	10.0	8.0	0.75	MODEL_3
+582	689b64ac4f119178	a view of the ocean	9.0	9.0	1.0	MODEL_11
+583	689b64ac4f119178	a view of the coast	10.0	8.0	0.75	MODEL_7
+584	689b64ac4f119178	the cliff 's edge is a beautiful place to visit .	9.0	7.0	0.75	MODEL_6
+585	68a7e8ee7b38a559	filming location in the morning	8.0	3.0	0.375	MODEL_2
+586	68a7e8ee7b38a559	the playground is located in the heart .	10.0	2.0	0.25	MODEL_9
+587	68a7e8ee7b38a559	a man running in front of a skyscraper	9.0	4.0	0.5	MODEL_10
+588	68a7e8ee7b38a559	the playground is located in the heart .	9.0	2.0	0.25	MODEL_1
+589	68df3ea0899c6078	a little girl with a flower	10.0	5.0	0.5	MODEL_0
+590	68df3ea0899c6078	a little girl with a flower	10.0	2.0	0.25	MODEL_4
+591	68df3ea0899c6078	i want to do this to my hair	9.0	4.0	0.5	MODEL_5
+592	68df3ea0899c6078	the new web for people who love hair !	8.0	1.0	0.125	MODEL_8
+593	69a2b47d69da9d5f	another view of the cottage	8.0	7.0	0.875	MODEL_8
+594	69a2b47d69da9d5f	a view of the cottage	9.0	6.0	0.625	MODEL_5
+595	69a2b47d69da9d5f	the house where person lived .	8.0	5.0	0.625	MODEL_0
+596	6a6858f01b525ffc	person , left , and person , are seen on a motorcycle .	10.0	5.0	0.5	MODEL_0
+597	6a6858f01b525ffc	person on his way to the finish line .	10.0	2.0	0.25	MODEL_8
+598	6a6858f01b525ffc	actor on a motorcycle in the desert	9.0	4.0	0.5	MODEL_5
+599	6a6858f01b525ffc	person , left , and person , are seen on a motorcycle .	10.0	9.0	0.875	MODEL_4
+600	6a9add9b60a3e9ae	a view of the building .	10.0	4.0	0.375	MODEL_2
+601	6a9add9b60a3e9ae	the underground parking garage is seen .	10.0	8.0	0.75	MODEL_9
+602	6a9add9b60a3e9ae	the underground parking garage is seen .	9.0	9.0	1.0	MODEL_1
+603	6a9add9b60a3e9ae	the building is a building that was used for the first time	10.0	5.0	0.5	MODEL_10
+604	6aa1581a00adbd9b	a general view of atmosphere .	10.0	4.0	0.375	MODEL_0
+605	6aa1581a00adbd9b	this is a picture of a yacht .	9.0	7.0	0.75	MODEL_8
+606	6aa1581a00adbd9b	a general view of atmosphere .	9.0	3.0	0.375	MODEL_4
+607	6aa1581a00adbd9b	the yacht is a great place to take a rest .	9.0	8.0	0.875	MODEL_5
+608	6af3c8adec826171	blue skies over tourist attraction	9.0	4.0	0.5	MODEL_3
+609	6af3c8adec826171	clouds in the sky by person	8.0	4.0	0.5	MODEL_6
+610	6af3c8adec826171	clouds that look like things	10.0	8.0	0.75	MODEL_7
+611	6af3c8adec826171	clouds moving in the blue sky	10.0	9.0	0.875	MODEL_11
+612	6afcbc298b29a533	wheel of a cart	9.0	8.0	0.875	MODEL_5
+613	6afcbc298b29a533	the wheel of the tower	8.0	7.0	0.875	MODEL_4
+614	6afcbc298b29a533	the wheel of the tower	8.0	3.0	0.375	MODEL_0
+615	6b09d4860f965b48	the view from the upper deck .	8.0	1.0	0.125	MODEL_2
+616	6b09d4860f965b48	the flag flies over the statue of liberty	8.0	0.0	0.0	MODEL_9
+617	6b09d4860f965b48	the flag flies over the statue of liberty	10.0	0.0	0.0	MODEL_1
+618	6b36bc1c496de638	flowers for sale at the market	10.0	10.0	1.0	MODEL_0
+619	6b36bc1c496de638	flowers for sale at the market	8.0	8.0	1.0	MODEL_4
+620	6b36bc1c496de638	a selection of plants in the flower market	10.0	9.0	0.875	MODEL_5
+621	6b36bc1c496de638	plants for sale at the local market	9.0	6.0	0.625	MODEL_8
+622	6b6cb208db89c3f1	a street in the city	10.0	9.0	0.875	MODEL_11
+623	6b6cb208db89c3f1	a man walks past a car	9.0	2.0	0.25	MODEL_6
+624	6b6cb208db89c3f1	a man stands on a street .	9.0	6.0	0.625	MODEL_7
+625	6b6cb208db89c3f1	police were called to the scene	9.0	3.0	0.375	MODEL_3
+626	6b794ec765746027	the building is shown here .	10.0	2.0	0.25	MODEL_11
+627	6b794ec765746027	a city in the past , history	10.0	2.0	0.25	MODEL_6
+628	6b794ec765746027	the view from the road .	9.0	4.0	0.5	MODEL_7
+629	6b794ec765746027	a farmer ' s market in the #### s	9.0	4.0	0.5	MODEL_3
+630	6bd38bb5ad2cb149	the entrance to the subway	9.0	4.0	0.5	MODEL_3
+631	6bd38bb5ad2cb149	the entrance to the building	8.0	0.0	0.0	MODEL_11
+632	6bd38bb5ad2cb149	the entrance to the station	9.0	3.0	0.375	MODEL_6
+633	6bd38bb5ad2cb149	the entrance to the train station	9.0	4.0	0.5	MODEL_7
+634	6c08f695cc15b571	night view of the city	9.0	9.0	1.0	MODEL_8
+635	6c08f695cc15b571	night view of the city	8.0	8.0	1.0	MODEL_5
+636	6c08f695cc15b571	the skyline at night , seen	8.0	5.0	0.625	MODEL_4
+637	6c08f695cc15b571	the skyline at night , seen	9.0	8.0	0.875	MODEL_0
+638	6c36fc757021ce29	a flower in the garden	9.0	2.0	0.25	MODEL_9
+639	6c36fc757021ce29	a close - up of a flower	9.0	4.0	0.5	MODEL_10
+640	6c6e686ec4eeaeb1	sunset over the lake with a view	9.0	9.0	1.0	MODEL_0
+641	6c6e686ec4eeaeb1	sunset over bodies of water	9.0	6.0	0.625	MODEL_8
+642	6c6e686ec4eeaeb1	sunset over bodies of water	9.0	7.0	0.75	MODEL_5
+643	6c6e686ec4eeaeb1	sunset over the lake with a view	10.0	8.0	0.75	MODEL_4
+644	6c6e7061d63602b8	the team at the opening .	9.0	3.0	0.375	MODEL_11
+645	6c6e7061d63602b8	the cast of musical film	9.0	7.0	0.75	MODEL_6
+646	6c6e7061d63602b8	the cast performs on stage .	9.0	4.0	0.5	MODEL_7
+647	6c6e7061d63602b8	the cast of musical comedy film	9.0	4.0	0.5	MODEL_3
+648	6c8cf0040426956a	the front of the building	9.0	4.0	0.5	MODEL_2
+649	6c8cf0040426956a	the building is under construction .	10.0	2.0	0.25	MODEL_9
+650	6c8cf0040426956a	the building is located in the heart .	10.0	2.0	0.25	MODEL_10
+651	6c8cf0040426956a	the building is under construction .	8.0	8.0	1.0	MODEL_1
+652	6cb37347c1ff659f	automobile model on the track	10.0	8.0	0.75	MODEL_2
+653	6cb37347c1ff659f	person is the first car to be built	8.0	4.0	0.5	MODEL_10
+654	6cb37347c1ff659f	person drives automobile model during the race .	10.0	9.0	0.875	MODEL_9
+655	6cb37347c1ff659f	person drives automobile model during the race .	10.0	8.0	0.75	MODEL_1
+656	6d3b98658841f667	a box of food is seen .	10.0	8.0	0.75	MODEL_10
+657	6d3b98658841f667	food for a family home	9.0	4.0	0.5	MODEL_9
+658	6d3b98658841f667	this is what food looks like .	9.0	4.0	0.5	MODEL_2
+659	6d3b98658841f667	food for a family home	9.0	8.0	0.875	MODEL_1
+660	6daff170f3ed2bdb	the barn on the farm	10.0	6.0	0.625	MODEL_9
+661	6daff170f3ed2bdb	the house on the hill	8.0	2.0	0.25	MODEL_10
+662	6daff170f3ed2bdb	the barn on the farm	8.0	3.0	0.375	MODEL_1
+663	6fdd02d70adb38b5	steam rising from the geyser	10.0	10.0	1.0	MODEL_1
+664	6fdd02d70adb38b5	steam rises from the dam	10.0	4.0	0.375	MODEL_2
+665	6fdd02d70adb38b5	geyser flowing into the lake	10.0	8.0	0.75	MODEL_10
+666	6fdd02d70adb38b5	steam rising from the geyser	10.0	4.0	0.375	MODEL_9
+667	6fef0d9c5e769000	jellyfish swimming in the sea	8.0	8.0	1.0	MODEL_0
+668	6fef0d9c5e769000	a pair of jellyfish floating in a pool	9.0	4.0	0.5	MODEL_4
+669	6fef0d9c5e769000	a heart in the water	9.0	1.0	0.125	MODEL_8
+670	7014ee55dff712e5	a city in the past , history	8.0	6.0	0.75	MODEL_2
+671	7014ee55dff712e5	the building was built by architect .	9.0	6.0	0.625	MODEL_10
+672	7063cd5cc8f55ef1	person , the pet of the day	8.0	3.0	0.375	MODEL_9
+673	7063cd5cc8f55ef1	person , the pet of the day	8.0	5.0	0.625	MODEL_1
+674	7063cd5cc8f55ef1	funny animals of the week , funny animal photos , cute animals	10.0	6.0	0.625	MODEL_10
+675	70e8dd450a9de960	a very big leaf in the grass .	10.0	9.0	0.875	MODEL_5
+676	70e8dd450a9de960	this is a photo of a plant .	9.0	6.0	0.625	MODEL_8
+677	70e8dd450a9de960	green leaf on the tree	9.0	1.0	0.125	MODEL_4
+678	70e8dd450a9de960	a close up of a green plant	9.0	8.0	0.875	MODEL_0
+679	71204f48a3fe90ae	a cat on a tablet	10.0	8.0	0.75	MODEL_8
+680	71204f48a3fe90ae	cat playing with a ball	10.0	5.0	0.5	MODEL_0
+681	71204f48a3fe90ae	cat with a tablet on a wooden table	10.0	2.0	0.25	MODEL_5
+682	71204f48a3fe90ae	the best cat in the world	8.0	6.0	0.75	MODEL_4
+683	716b13c3c1e37947	person on the cross	9.0	4.0	0.5	MODEL_9
+684	716b13c3c1e37947	person on the cross	8.0	3.0	0.375	MODEL_1
+685	716b13c3c1e37947	the sun sets behind the cross .	9.0	8.0	0.875	MODEL_2
+686	716b13c3c1e37947	the sun sets behind the clouds .	9.0	8.0	0.875	MODEL_10
+687	72a07ebbe014d85b	the bronze statue of person	9.0	7.0	0.75	MODEL_2
+688	72a07ebbe014d85b	bronze statue of a woman	9.0	6.0	0.625	MODEL_10
+689	72a07ebbe014d85b	statue of person in the exhibit	8.0	6.0	0.75	MODEL_9
+690	72d55f2c1ab5ecc5	these signs are all over the world .	10.0	4.0	0.375	MODEL_2
+691	72d55f2c1ab5ecc5	a sign points the way	9.0	2.0	0.25	MODEL_9
+692	72d55f2c1ab5ecc5	i love the signs of this sign .	9.0	4.0	0.5	MODEL_10
+693	72d55f2c1ab5ecc5	a sign points the way	9.0	8.0	0.875	MODEL_1
+694	7365b5c1778bdb6f	night time on the farm	8.0	5.0	0.625	MODEL_3
+695	7365b5c1778bdb6f	the light of the night	8.0	4.0	0.5	MODEL_7
+696	7365b5c1778bdb6f	night time on the farm	10.0	9.0	0.875	MODEL_11
+697	73fcd1b6ea8d6851	aircraft model flying in formation .	9.0	4.0	0.5	MODEL_7
+698	73fcd1b6ea8d6851	armed force perform during the airshow	8.0	5.0	0.625	MODEL_11
+699	73fcd1b6ea8d6851	aircraft model flying in formation during a military parade .	8.0	7.0	0.875	MODEL_6
+700	7470d50466551c13	the train leaves the station	10.0	5.0	0.5	MODEL_3
+701	7470d50466551c13	the train leaves the station	8.0	7.0	0.875	MODEL_11
+702	7470d50466551c13	locomotive on a freight train	9.0	6.0	0.625	MODEL_7
+703	7470d50466551c13	locomotive on a freight train	9.0	3.0	0.375	MODEL_6
+704	74df0ea91f1ff0ac	image of an old shop	10.0	8.0	0.75	MODEL_3
+705	74df0ea91f1ff0ac	the entrance to the building	10.0	8.0	0.75	MODEL_7
+706	74df0ea91f1ff0ac	image of an old shop	9.0	7.0	0.75	MODEL_11
+707	74ef65c41c956173	a ship on the water	9.0	8.0	0.875	MODEL_4
+708	74ef65c41c956173	a photograph of a fishing boat	10.0	8.0	0.75	MODEL_0
+709	74ef65c41c956173	a ship on the water .	9.0	9.0	1.0	MODEL_8
+710	74ef65c41c956173	ship on the water by person	10.0	8.0	0.75	MODEL_5
+711	74eff17faf3ee6b8	the audience at the event	10.0	9.0	0.875	MODEL_7
+712	74eff17faf3ee6b8	person speaking at the event	10.0	9.0	0.875	MODEL_6
+713	74eff17faf3ee6b8	person speaking at the event	10.0	10.0	1.0	MODEL_3
+714	74eff17faf3ee6b8	person speaking at the event	9.0	3.0	0.375	MODEL_11
+715	7530f37adfbce14d	the art of the building	10.0	8.0	0.75	MODEL_10
+716	7530f37adfbce14d	a city in the past , history	9.0	7.0	0.75	MODEL_2
+717	7530f37adfbce14d	facade of the basilica of person	9.0	7.0	0.75	MODEL_9
+718	75fb21753f5a6428	love the look of this fireplace !	9.0	9.0	1.0	MODEL_2
+719	75fb21753f5a6428	i love the look of this fireplace .	10.0	9.0	0.875	MODEL_10
+720	75fb21753f5a6428	example of a classic living room design	10.0	10.0	1.0	MODEL_9
+721	75fb21753f5a6428	example of a classic living room design	9.0	8.0	0.875	MODEL_1
+722	7634308d9bafd6ab	a collection of onboard boxes	10.0	1.0	0.125	MODEL_2
+723	7634308d9bafd6ab	a message made from recycled paper	8.0	6.0	0.75	MODEL_10
+724	7634308d9bafd6ab	i love the idea of using a paper bag	9.0	4.0	0.5	MODEL_9
+725	7634308d9bafd6ab	i love the idea of using a paper bag	10.0	4.0	0.375	MODEL_1
+726	7701c2b4cd8b9c01	a flower in the garden	10.0	2.0	0.25	MODEL_0
+727	7701c2b4cd8b9c01	i love the color of the trees .	9.0	4.0	0.5	MODEL_8
+728	7701c2b4cd8b9c01	digital art selected for the #	9.0	1.0	0.125	MODEL_4
+729	7727b2c58aad7010	sitting on the sunflower in the hat	10.0	2.0	0.25	MODEL_3
+730	7727b2c58aad7010	on the road to person	10.0	6.0	0.625	MODEL_7
+731	7727b2c58aad7010	the road to the future	9.0	4.0	0.5	MODEL_6
+732	773262e4fcea44c5	person scores the first goal for a city	10.0	8.0	0.75	MODEL_11
+733	773262e4fcea44c5	person heads the ball away from person .	9.0	7.0	0.75	MODEL_6
+734	773262e4fcea44c5	person scores the first goal for a city	8.0	5.0	0.625	MODEL_3
+735	773262e4fcea44c5	person kicks the ball into the air .	10.0	4.0	0.375	MODEL_7
+736	77db272d9e620215	dolphins jumping in the air	10.0	9.0	0.875	MODEL_10
+737	77db272d9e620215	dolphins jumping in the air	10.0	10.0	1.0	MODEL_9
+738	77db272d9e620215	dolphins jumping out of the water	10.0	9.0	0.875	MODEL_2
+739	77db272d9e620215	dolphins jumping in the air	10.0	10.0	1.0	MODEL_1
+740	780cc77843468c55	food is a popular dish .	10.0	6.0	0.625	MODEL_5
+741	780cc77843468c55	how to make food in a food truck	10.0	4.0	0.375	MODEL_8
+742	780cc77843468c55	the food was served in the restaurant .	10.0	9.0	0.875	MODEL_0
+743	780cc77843468c55	food from the food truck	9.0	8.0	0.875	MODEL_4
+744	78255d96fb0dfdfe	close up of the flowers	9.0	6.0	0.625	MODEL_3
+745	78255d96fb0dfdfe	the flowers in our garden	10.0	8.0	0.75	MODEL_7
+746	78255d96fb0dfdfe	close up of the flowers	10.0	9.0	0.875	MODEL_11
+747	78255d96fb0dfdfe	flowers of the - photo sharing !	10.0	6.0	0.625	MODEL_6
+748	786ddcb3a4e6c5d5	cat lying on the grass	9.0	7.0	0.75	MODEL_0
+749	786ddcb3a4e6c5d5	cat in the grass with a dog	10.0	2.0	0.25	MODEL_5
+750	786ddcb3a4e6c5d5	a tiger in the grass	10.0	2.0	0.25	MODEL_4
+751	786ddcb3a4e6c5d5	funny animals of the week , funny animal photos , animal pictures	10.0	5.0	0.5	MODEL_8
+752	78b3b15e7a5ef5f8	the view from the top of the hill	10.0	4.0	0.375	MODEL_0
+753	78b3b15e7a5ef5f8	a cabin in the woods	9.0	4.0	0.5	MODEL_5
+754	78b3b15e7a5ef5f8	back of house in the woods	9.0	2.0	0.25	MODEL_8
+755	78b3b15e7a5ef5f8	the cabin in the desert	9.0	6.0	0.625	MODEL_4
+756	7a55856edf16c9ef	the car was covered in ice	8.0	0.0	0.0	MODEL_10
+757	7a55856edf16c9ef	a boat on a flooded street	10.0	0.0	0.0	MODEL_9
+758	7a55856edf16c9ef	a frosty car is covered in ice .	10.0	2.0	0.25	MODEL_2
+759	7a55856edf16c9ef	a boat on a flooded street	9.0	2.0	0.25	MODEL_1
+760	7ac84fc992497534	the view from the top	9.0	3.0	0.375	MODEL_6
+761	7ac84fc992497534	walking down to the boardwalk	10.0	5.0	0.5	MODEL_11
+762	7ac84fc992497534	people walk along the boardwalk .	9.0	8.0	0.875	MODEL_7
+763	7ac84fc992497534	walking down to the boardwalk	9.0	9.0	1.0	MODEL_3
+764	7b2a7063f806bdb4	flag painted on a vector art illustration	8.0	6.0	0.75	MODEL_1
+765	7b2a7063f806bdb4	the art of the flag	8.0	8.0	1.0	MODEL_2
+766	7b2a7063f806bdb4	the flag created by person	10.0	8.0	0.75	MODEL_10
+767	7b2a7063f806bdb4	flag painted on a vector art illustration	8.0	5.0	0.625	MODEL_9
+768	7bd112e5be12a9a5	a city for sale property .	10.0	4.0	0.375	MODEL_2
+769	7bd112e5be12a9a5	the building is located in the heart .	9.0	4.0	0.5	MODEL_10
+770	7bd112e5be12a9a5	a vintage postcard of a vintage car	9.0	8.0	0.875	MODEL_1
+771	7c04bf407a921ca2	the birds of the - photo sharing !	10.0	2.0	0.25	MODEL_7
+772	7c04bf407a921ca2	the sky is a very beautiful bird .	9.0	2.0	0.25	MODEL_6
+773	7c04bf407a921ca2	a flock of starlings fly over a city	10.0	6.0	0.625	MODEL_11
+774	7c04bf407a921ca2	a flock of starlings fly over a city	8.0	6.0	0.75	MODEL_3
+775	7cf53510606f6d77	visual artist , oil on canvas	9.0	9.0	1.0	MODEL_0
+776	7cf53510606f6d77	the fairies by painting artist	10.0	4.0	0.375	MODEL_8
+777	7cf53510606f6d77	painting artist , woman and child on a swing	9.0	6.0	0.625	MODEL_5
+778	7cf53510606f6d77	opera character and fictional character	8.0	1.0	0.125	MODEL_4
+779	7d06f17b1bc1bc5a	the gardens are a highlight of the ##th century .	9.0	8.0	0.875	MODEL_0
+780	7d06f17b1bc1bc5a	a view of the pond .	10.0	8.0	0.75	MODEL_8
+781	7d06f17b1bc1bc5a	the view from the house	10.0	8.0	0.75	MODEL_4
+782	7d06f17b1bc1bc5a	the pond is a beautiful place to stay .	10.0	9.0	0.875	MODEL_5
+783	7e35a979076ad925	kids playing in the park	9.0	4.0	0.5	MODEL_8
+784	7e35a979076ad925	person , person , and his brother , are the best of the year .	10.0	4.0	0.375	MODEL_5
+785	7e35a979076ad925	person , left , and person , right , play during a recent practice	10.0	5.0	0.5	MODEL_4
+786	7e35a979076ad925	a group of friends sit on a bench in a park	10.0	4.0	0.375	MODEL_0
+787	7e370f7629330aff	the car that i bought for my first car .	10.0	9.0	0.875	MODEL_10
+788	7e370f7629330aff	automotive industry business from show	10.0	8.0	0.75	MODEL_9
+789	7e370f7629330aff	automotive industry business from show	10.0	2.0	0.25	MODEL_1
+790	7e6dfb51fcebd4ed	a city is a city .	8.0	5.0	0.625	MODEL_10
+791	7e6dfb51fcebd4ed	the bustling streets of the city	9.0	7.0	0.75	MODEL_2
+792	7e6dfb51fcebd4ed	photo of transit vehicle type	10.0	10.0	1.0	MODEL_1
+793	7e6dfb51fcebd4ed	photo of transit vehicle type	9.0	7.0	0.75	MODEL_9
+794	7e902f3410673d62	some of the many sheep	10.0	9.0	0.875	MODEL_8
+795	7e902f3410673d62	the sheep were in the middle of the road .	8.0	1.0	0.125	MODEL_5
+796	7e902f3410673d62	sheep grazing in a pasture	9.0	8.0	0.875	MODEL_4
+797	7e902f3410673d62	sheep grazing in a field	10.0	5.0	0.5	MODEL_0
+798	7edbf4bbb591b490	the site of the proposed development	8.0	4.0	0.5	MODEL_4
+799	7edbf4bbb591b490	the main street of the town	8.0	5.0	0.625	MODEL_0
+800	7edbf4bbb591b490	the road to the school	9.0	7.0	0.75	MODEL_5
+801	7edbf4bbb591b490	looking down the street from our hotel room .	10.0	10.0	1.0	MODEL_8
+802	7f27c2a2635082e2	the window in the shop .	9.0	7.0	0.75	MODEL_2
+803	7f27c2a2635082e2	old windows in the window	8.0	4.0	0.5	MODEL_1
+804	7f27c2a2635082e2	old windows in the window	9.0	3.0	0.375	MODEL_9
+805	7f30136bb3e81008	some of the many graves	8.0	8.0	1.0	MODEL_1
+806	7f30136bb3e81008	some of the many graves	9.0	2.0	0.25	MODEL_9
+807	7f58f1eee2dd7824	rock type in the sand	9.0	3.0	0.375	MODEL_7
+808	7f58f1eee2dd7824	rock type in the desert	9.0	3.0	0.375	MODEL_6
+809	7f58f1eee2dd7824	the power of the sea	9.0	3.0	0.375	MODEL_11
+810	7f58f1eee2dd7824	the power of the sea	8.0	3.0	0.375	MODEL_3
+811	7f592120bb3759df	the logo is seen at a car dealership	10.0	2.0	0.25	MODEL_0
+812	7f592120bb3759df	the car is a popular car	9.0	2.0	0.25	MODEL_5
+813	7f592120bb3759df	a bus is seen in this undated image	10.0	2.0	0.25	MODEL_4
+814	7f87dce5fb5bf48f	art gallery which includes art and interior views	10.0	2.0	0.25	MODEL_2
+815	7f87dce5fb5bf48f	christmas tree by person , via photo sharing website	8.0	3.0	0.375	MODEL_9
+816	7f87dce5fb5bf48f	christmas tree by person , via photo sharing website	10.0	0.0	0.0	MODEL_1
+817	7f87dce5fb5bf48f	the art of the museum	9.0	2.0	0.25	MODEL_10
+818	7f92685621e5cf5d	a city in the past , history	10.0	8.0	0.75	MODEL_7
+819	7f92685621e5cf5d	the house in the town	9.0	4.0	0.5	MODEL_6
+820	7f92685621e5cf5d	the building is now home	9.0	2.0	0.25	MODEL_11
+821	7f92685621e5cf5d	the building is now home	10.0	4.0	0.375	MODEL_3
+822	7fa47f6c7ba26128	a turtle on the way	10.0	6.0	0.625	MODEL_8
+823	7fa47f6c7ba26128	a turtle on the way back	10.0	8.0	0.75	MODEL_5
+824	7fa47f6c7ba26128	the tortoise by person , via photo sharing website	9.0	3.0	0.375	MODEL_4
+825	7fa47f6c7ba26128	a turtle in the road	8.0	5.0	0.625	MODEL_0
+826	7fd8e536cfd8e6f5	a city in the spring sunshine	10.0	2.0	0.25	MODEL_0
+827	7fd8e536cfd8e6f5	the park in the early ####s	9.0	4.0	0.5	MODEL_5
+828	7fd8e536cfd8e6f5	the tree of life by person	9.0	6.0	0.625	MODEL_8
+829	7fd8e536cfd8e6f5	a view of the campus	10.0	8.0	0.75	MODEL_4
+830	8004aa487fe9e51a	the car that was built .	9.0	4.0	0.5	MODEL_5
+831	8004aa487fe9e51a	ad for the car show	9.0	6.0	0.625	MODEL_4
+832	8004aa487fe9e51a	automotive industry business is the most popular car in the world .	10.0	6.0	0.625	MODEL_8
+833	8004aa487fe9e51a	advertisement for the motor car	9.0	8.0	0.875	MODEL_0
+834	80eff142086ebcac	a fish made out of paper	9.0	2.0	0.25	MODEL_0
+835	80eff142086ebcac	the sign for the restaurant	10.0	5.0	0.5	MODEL_5
+836	80eff142086ebcac	neon sign for a dentist	10.0	4.0	0.375	MODEL_4
+837	81438a486d78d8ad	the building lit up at night .	9.0	7.0	0.75	MODEL_8
+838	81438a486d78d8ad	hotel is a hotel and is located .	9.0	2.0	0.25	MODEL_5
+839	81438a486d78d8ad	a city is the largest city .	9.0	3.0	0.375	MODEL_0
+840	81438a486d78d8ad	the front facade illuminated at night	9.0	8.0	0.875	MODEL_4
+841	823a4bee050ab450	property image # luxury poolside apartment on the beach	9.0	4.0	0.5	MODEL_3
+842	823a4bee050ab450	the property is located in the heart of the city .	10.0	2.0	0.25	MODEL_6
+843	823a4bee050ab450	property image # luxury self catered chalet in the heart	9.0	8.0	0.875	MODEL_7
+844	82e357e52586afc1	thanksgiving is a great way to start your day with pumpkins .	9.0	4.0	0.5	MODEL_5
+845	82e357e52586afc1	pumpkins on the porch of thanksgiving	10.0	2.0	0.25	MODEL_8
+846	82e357e52586afc1	a display of pumpkins and pumpkins	10.0	5.0	0.5	MODEL_4
+847	82e357e52586afc1	a display of pumpkins and pumpkins	10.0	6.0	0.625	MODEL_0
+848	83222d8ac2c0753b	the altar of the church	8.0	3.0	0.375	MODEL_9
+849	83222d8ac2c0753b	all i want is you by person	9.0	3.0	0.375	MODEL_2
+850	83222d8ac2c0753b	the bride and groom 's first dance at their wedding reception	10.0	2.0	0.25	MODEL_10
+851	832a275b83b25630	a man with a goat	9.0	4.0	0.5	MODEL_3
+852	832a275b83b25630	a baby with a black nose	9.0	0.0	0.0	MODEL_11
+853	832a275b83b25630	a smile for the camera	9.0	2.0	0.25	MODEL_7
+854	832a275b83b25630	person is a man who is the only person in the world	9.0	2.0	0.25	MODEL_6
+855	833810f0367b78bc	digital art selected for the #	8.0	4.0	0.5	MODEL_0
+856	833810f0367b78bc	the light of the night	8.0	3.0	0.375	MODEL_8
+857	833810f0367b78bc	the light in the dark	9.0	4.0	0.5	MODEL_5
+858	833810f0367b78bc	digital art selected for the #	10.0	4.0	0.375	MODEL_4
+859	833fd9470a705d4d	close - up of a young deer	10.0	8.0	0.75	MODEL_11
+860	833fd9470a705d4d	close up of a female deer	8.0	6.0	0.75	MODEL_7
+861	833fd9470a705d4d	close up of a female deer	9.0	7.0	0.75	MODEL_6
+862	833fd9470a705d4d	person is a female hunter	9.0	0.0	0.0	MODEL_3
+863	834a5a06363e2c67	a boat in the ocean	8.0	4.0	0.5	MODEL_8
+864	834a5a06363e2c67	the boat was on the island .	10.0	2.0	0.25	MODEL_5
+865	834a5a06363e2c67	waves crashing on the rocky coast	9.0	4.0	0.5	MODEL_4
+866	834a5a06363e2c67	waves crashing on the rocky coast	10.0	8.0	0.75	MODEL_0
+867	835a0267643a3ac8	digital art selected for the #	8.0	4.0	0.5	MODEL_10
+868	835a0267643a3ac8	digital art selected for the #	9.0	3.0	0.375	MODEL_2
+869	835a0267643a3ac8	the art of painting artist	9.0	8.0	0.875	MODEL_1
+870	83a8c08b6cd16047	using a plank of dough on a wood table	8.0	1.0	0.125	MODEL_3
+871	83a8c08b6cd16047	the different types of dough	8.0	1.0	0.125	MODEL_6
+872	83d48803e8b2a7da	view of the sixth green	9.0	6.0	0.625	MODEL_3
+873	83d48803e8b2a7da	the green on the golf course	10.0	8.0	0.75	MODEL_11
+874	83d48803e8b2a7da	the text is in the grass .	10.0	2.0	0.25	MODEL_6
+875	8435b105ec6d2682	homes for sale located in the city	10.0	8.0	0.75	MODEL_9
+876	8435b105ec6d2682	homes for sale located in the city	9.0	4.0	0.5	MODEL_2
+877	8435b105ec6d2682	homes for sale located in the city	10.0	8.0	0.75	MODEL_1
+878	8435b105ec6d2682	the home of person , who lived in the neighborhood .	8.0	7.0	0.875	MODEL_10
+879	844d6939206312b3	image may contain : person , on stage , playing a musical instrument and indoor	10.0	5.0	0.5	MODEL_2
+880	844d6939206312b3	person speaking at the event	10.0	8.0	0.75	MODEL_9
+881	844d6939206312b3	person speaking at the event	10.0	9.0	0.875	MODEL_10
+882	844d6939206312b3	person speaking at the event	8.0	0.0	0.0	MODEL_1
+883	849e011b7565474f	biological species , a very rare , endangered species , found in the area .	9.0	4.0	0.5	MODEL_10
+884	849e011b7565474f	biological species on a log	8.0	4.0	0.5	MODEL_2
+885	849e011b7565474f	a red lizard on a red flower	9.0	4.0	0.5	MODEL_9
+886	849e011b7565474f	a red lizard on a red flower	10.0	4.0	0.375	MODEL_1
+887	85108752c05a9f48	the text is a good thing .	9.0	2.0	0.25	MODEL_10
+888	85108752c05a9f48	this is a photo of the poster .	9.0	4.0	0.5	MODEL_2
+889	85108752c05a9f48	i 'm a sucker for a person who is the best person i 've ever seen .	9.0	3.0	0.375	MODEL_9
+890	854dc3da0815f83d	photograph of a family in a garden .	9.0	1.0	0.125	MODEL_4
+891	854dc3da0815f83d	photograph of a family in a garden .	10.0	10.0	1.0	MODEL_0
+892	854dc3da0815f83d	people in a sandbox , ca .	10.0	2.0	0.25	MODEL_5
+893	854dc3da0815f83d	a group of people having a meal .	10.0	8.0	0.75	MODEL_8
+894	85f0750402f28c33	a close up of the steel wire .	10.0	2.0	0.25	MODEL_4
+895	85f0750402f28c33	a close up of the steel wire .	9.0	4.0	0.5	MODEL_0
+896	85f0750402f28c33	the end of the world	10.0	2.0	0.25	MODEL_5
+897	85f0750402f28c33	street musicians in the city	8.0	2.0	0.25	MODEL_8
+898	871ade15589873ae	cat in a box : how to make a cat tree	8.0	6.0	0.75	MODEL_11
+899	871ade15589873ae	a rope wrapped around a tree	9.0	2.0	0.25	MODEL_3
+900	871ade15589873ae	cats on a cat tree	9.0	9.0	1.0	MODEL_7
+901	871ade15589873ae	cat made from a tree	10.0	1.0	0.125	MODEL_6
+902	87210fa4dd25e395	the most beautiful windmills in the world	8.0	2.0	0.25	MODEL_8
+903	87210fa4dd25e395	the windmill in the village	9.0	6.0	0.625	MODEL_0
+904	87210fa4dd25e395	the windmill in the village	10.0	5.0	0.5	MODEL_4
+905	87210fa4dd25e395	the windmill on the road	9.0	8.0	0.875	MODEL_5
+906	876e9f0b1dcfeb9c	digital art selected for the #	10.0	5.0	0.5	MODEL_3
+907	876e9f0b1dcfeb9c	the table in the room	10.0	8.0	0.75	MODEL_6
+908	876e9f0b1dcfeb9c	a young girl with a book and a cat on the table	9.0	0.0	0.0	MODEL_11
+909	876e9f0b1dcfeb9c	a photo of my daughter 's room .	9.0	1.0	0.125	MODEL_7
+910	87e54165ad713ce3	a close up of a metal fence	10.0	8.0	0.75	MODEL_11
+911	87e54165ad713ce3	the design of the metal roof	8.0	4.0	0.5	MODEL_6
+912	87e54165ad713ce3	this is an image of a metal fence .	9.0	8.0	0.875	MODEL_7
+913	87e54165ad713ce3	vertical blinds on an old window	9.0	3.0	0.375	MODEL_3
+914	8801f8876598521a	black and white photograph of the stairs	8.0	6.0	0.75	MODEL_3
+915	8801f8876598521a	this is an example of a contemporary black and white photograph .	8.0	7.0	0.875	MODEL_7
+916	8801f8876598521a	the house is a modern design that is a house that has been used in the movie .	8.0	3.0	0.375	MODEL_6
+917	8801f8876598521a	stairs leading to the top	10.0	9.0	0.875	MODEL_11
+918	88217f3090d42699	the building is seen in this undated image .	10.0	5.0	0.5	MODEL_1
+919	88217f3090d42699	the building is seen in this undated image .	9.0	3.0	0.375	MODEL_9
+920	88217f3090d42699	the front of the school .	9.0	3.0	0.375	MODEL_2
+921	88217f3090d42699	the former home of person .	9.0	6.0	0.625	MODEL_10
+922	886eeec3611645a9	the traffic lights are seen in the evening .	10.0	6.0	0.625	MODEL_10
+923	886eeec3611645a9	the car park at night	9.0	8.0	0.875	MODEL_9
+924	886eeec3611645a9	the car park at night	9.0	7.0	0.75	MODEL_2
+925	8898e1142d5deedd	baseball player is introduced before the game against sports team .	9.0	4.0	0.5	MODEL_1
+926	8898e1142d5deedd	baseball player watches the game	10.0	9.0	0.875	MODEL_2
+927	8898e1142d5deedd	baseball player , left , and baseball player , right , watch the game	10.0	9.0	0.875	MODEL_10
+928	88c36bbb907eac3c	water in a swimming pool	10.0	9.0	0.875	MODEL_9
+929	88c36bbb907eac3c	water in a swimming pool	10.0	6.0	0.625	MODEL_1
+930	88c36bbb907eac3c	the art of painting artist	9.0	4.0	0.5	MODEL_10
+931	88c36bbb907eac3c	this is an example of an abstract painting .	9.0	4.0	0.5	MODEL_2
+932	8921be58d1c9b2b4	stormy seas near the lighthouse	9.0	9.0	1.0	MODEL_11
+933	8987e6f69e7ad5d4	a city in the background	9.0	4.0	0.5	MODEL_3
+934	8987e6f69e7ad5d4	the train in the station	10.0	2.0	0.25	MODEL_7
+935	8987e6f69e7ad5d4	a city in the background	10.0	8.0	0.75	MODEL_11
+936	8987e6f69e7ad5d4	a train passes through the station	9.0	7.0	0.75	MODEL_6
+937	89e5370717c4fe0b	cat playing with a toy	9.0	4.0	0.5	MODEL_0
+938	89e5370717c4fe0b	this is a photo of a dog .	9.0	2.0	0.25	MODEL_8
+939	89e5370717c4fe0b	dogs that look like humans - photo #	10.0	4.0	0.375	MODEL_4
+940	89e5370717c4fe0b	a dog 's ear is a very important part of the world 's most popular animal .	9.0	1.0	0.125	MODEL_5
+941	8a1372ce7ced1b4b	schematic diagram of the experimental setup	9.0	2.0	0.25	MODEL_3
+942	8a1372ce7ced1b4b	diagram of a 3d printer	8.0	0.0	0.0	MODEL_7
+943	8a1372ce7ced1b4b	diagram of the diagram of a diagram	9.0	4.0	0.5	MODEL_6
+944	8a5b26846dbd7092	food is the most important meal of the day .	10.0	1.0	0.125	MODEL_8
+945	8a5b26846dbd7092	this is what i ' m talking about !	9.0	3.0	0.375	MODEL_4
+946	8a5b26846dbd7092	the cans of beverage type	10.0	8.0	0.75	MODEL_0
+947	8a5b26846dbd7092	food is a must have for the kids !	8.0	1.0	0.125	MODEL_5
+948	8a7432070706c6af	a view of the garden	10.0	8.0	0.75	MODEL_5
+949	8a7432070706c6af	a view from the garden	10.0	9.0	0.875	MODEL_8
+950	8a7432070706c6af	a view from the garden	10.0	10.0	1.0	MODEL_4
+951	8a7432070706c6af	the garden in the spring	10.0	8.0	0.75	MODEL_0
+952	8acfa6b68a44663a	what is the name of this piece ?	9.0	4.0	0.5	MODEL_4
+953	8acfa6b68a44663a	the word written in white paper	10.0	5.0	0.5	MODEL_0
+954	8acfa6b68a44663a	the end of the page .	8.0	4.0	0.5	MODEL_8
+955	8acfa6b68a44663a	a letter from person to person	9.0	4.0	0.5	MODEL_5
+956	8ad83451486208d7	a recent roofer job in the area	10.0	2.0	0.25	MODEL_7
+957	8ad83451486208d7	the garden before the new roof	9.0	3.0	0.375	MODEL_6
+958	8ad83451486208d7	property image # cottage facing a lake	9.0	0.0	0.0	MODEL_3
+959	8b85ab51e86fda88	the art of the city	8.0	5.0	0.625	MODEL_10
+960	8b85ab51e86fda88	a street art by person	10.0	4.0	0.375	MODEL_2
+961	8b85ab51e86fda88	one of the many rides	9.0	1.0	0.125	MODEL_9
+962	8b85ab51e86fda88	one of the many rides	8.0	5.0	0.625	MODEL_1
+963	8b867fc8fd41ddbf	a map of the world	10.0	5.0	0.5	MODEL_2
+964	8b867fc8fd41ddbf	map of the solar eclipse	9.0	4.0	0.5	MODEL_9
+965	8b867fc8fd41ddbf	the world 's first map of the world	9.0	4.0	0.5	MODEL_10
+966	8b867fc8fd41ddbf	map of the solar eclipse	10.0	1.0	0.125	MODEL_1
+967	8b8bf9ae7c1961e8	vehicles drive through a flooded street	9.0	8.0	0.875	MODEL_4
+968	8b8bf9ae7c1961e8	automobile model in the rain	9.0	4.0	0.5	MODEL_0
+969	8b8bf9ae7c1961e8	a police car in the middle of the road	10.0	1.0	0.125	MODEL_5
+970	8b8bf9ae7c1961e8	a police car sits in the middle of the road .	10.0	4.0	0.375	MODEL_8
+971	8b8e7528e09f016b	the factory is a must - see .	10.0	9.0	0.875	MODEL_0
+972	8b8e7528e09f016b	a view of the factory .	10.0	9.0	0.875	MODEL_8
+973	8b8e7528e09f016b	the first line of the factory	10.0	9.0	0.875	MODEL_5
+974	8b8e7528e09f016b	a loom in the factory	8.0	5.0	0.625	MODEL_4
+975	8c4ce0dfec8a0e5c	a city in the past , history	10.0	2.0	0.25	MODEL_7
+976	8c4ce0dfec8a0e5c	view from the ## th floor	9.0	4.0	0.5	MODEL_11
+977	8c4ce0dfec8a0e5c	view from the ## th floor	9.0	4.0	0.5	MODEL_3
+978	8c545274d38b1148	the altar of the church	10.0	8.0	0.75	MODEL_0
+979	8c545274d38b1148	the light in the room	10.0	2.0	0.25	MODEL_5
+980	8c545274d38b1148	person on the first floor	10.0	0.0	0.0	MODEL_8
+981	8c545274d38b1148	a christmas tree in the church	10.0	4.0	0.375	MODEL_4
+982	8cc6ba098612ee07	a set of vintage embroidery	9.0	4.0	0.5	MODEL_6
+983	8cc6ba098612ee07	dress hanging in the tree	9.0	7.0	0.75	MODEL_11
+984	8cc6ba098612ee07	dress hanging in the tree	10.0	4.0	0.375	MODEL_3
+985	8ccf11bbe1920da2	soldiers in the army are ready to be used to be a soldier .	10.0	2.0	0.25	MODEL_5
+986	8ccf11bbe1920da2	person , left , and person work together	8.0	7.0	0.875	MODEL_4
+987	8ccf11bbe1920da2	a soldier stands guard at the entrance .	8.0	3.0	0.375	MODEL_0
+988	8ccf11bbe1920da2	person , left , and person in the snow .	9.0	3.0	0.375	MODEL_8
+989	8ce59cb6b74af417	image may contain : person , on stage , playing a musical instrument , concert and night	9.0	6.0	0.625	MODEL_2
+990	8ce59cb6b74af417	image may contain : person , on stage and playing a musical instrument	8.0	7.0	0.875	MODEL_9
+991	8ce59cb6b74af417	image may contain : person , on stage and playing a musical instrument	10.0	8.0	0.75	MODEL_1
+992	8ce59cb6b74af417	image may contain : person , on stage , playing a musical instrument , concert and night	10.0	8.0	0.75	MODEL_10
+993	8d570f431057af5f	this is an example of how to build a hay bale .	8.0	5.0	0.625	MODEL_8
+994	8d570f431057af5f	the tree stump in the wood	8.0	1.0	0.125	MODEL_0
+995	8dc3196aa973ba25	the new way to the guide to the new car	8.0	0.0	0.0	MODEL_6
+996	8dc3196aa973ba25	digital art selected for the #	9.0	2.0	0.25	MODEL_7
+997	8dc3196aa973ba25	how to make a phone call in raster graphics editor software	9.0	2.0	0.25	MODEL_11
+998	8def307bab682c65	a view of the city	10.0	10.0	1.0	MODEL_10
+999	8def307bab682c65	a view of the skyline	10.0	9.0	0.875	MODEL_9
+1000	8def307bab682c65	filming location from the air	10.0	9.0	0.875	MODEL_2
+1001	8e0e566a6f1f19b1	the view from the back window .	9.0	0.0	0.0	MODEL_6
+1002	8e0e566a6f1f19b1	the tasting room at person	9.0	1.0	0.125	MODEL_3
+1003	8e0e566a6f1f19b1	another view of the dining room .	9.0	4.0	0.5	MODEL_7
+1004	8e0e566a6f1f19b1	the tasting room at person	9.0	4.0	0.5	MODEL_11
+1005	8e147eacb0aa3865	biological species on a stick	8.0	3.0	0.375	MODEL_7
+1006	8e147eacb0aa3865	the needle is the same as the ones	9.0	4.0	0.5	MODEL_11
+1007	8e147eacb0aa3865	biological species is a popular background .	9.0	3.0	0.375	MODEL_6
+1008	8e147eacb0aa3865	the needle is the same as the ones	9.0	1.0	0.125	MODEL_3
+1009	8e30cc94e4974c36	a city from the water	10.0	6.0	0.625	MODEL_8
+1010	8e30cc94e4974c36	the view from the bridge	10.0	5.0	0.5	MODEL_5
+1011	8e30cc94e4974c36	suspension bridge from the ferry	10.0	8.0	0.75	MODEL_4
+1012	8e30cc94e4974c36	a boat in the sea	10.0	8.0	0.75	MODEL_0
+1013	8e4831a24647959a	a city in the mist	9.0	4.0	0.5	MODEL_7
+1014	8e4831a24647959a	the view from the trail	9.0	7.0	0.75	MODEL_11
+1015	8e4831a24647959a	a beautiful view of the lake	9.0	8.0	0.875	MODEL_6
+1016	8e59ae27fda2e49e	women hold hands on the beach	10.0	2.0	0.25	MODEL_3
+1017	8e59ae27fda2e49e	women hold hands on the beach	10.0	2.0	0.25	MODEL_11
+1018	8e59ae27fda2e49e	a group of friends on the beach .	9.0	7.0	0.75	MODEL_7
+1019	8e71df67f4cddd06	i 'm in love with this girl !	9.0	3.0	0.375	MODEL_8
+1020	8e71df67f4cddd06	i 'm in love with this picture .	9.0	4.0	0.5	MODEL_5
+1021	8e71df67f4cddd06	i ' m a sucker for shirts	9.0	2.0	0.25	MODEL_4
+1022	8e71df67f4cddd06	person , the boy of the boat	9.0	4.0	0.5	MODEL_0
+1023	8eb6daf3a2a795c0	interior view of the ruins	10.0	10.0	1.0	MODEL_2
+1024	8eb6daf3a2a795c0	interior of the monastery of monarch	10.0	8.0	0.75	MODEL_10
+1025	8eb6daf3a2a795c0	a room with a view	10.0	6.0	0.625	MODEL_1
+1026	8ec905f4c4f1c39f	the store is a shopping list of the world 's most popular shopping and unusual products	9.0	4.0	0.5	MODEL_10
+1027	8ec905f4c4f1c39f	image of a shopping cart	9.0	4.0	0.5	MODEL_2
+1028	8ec905f4c4f1c39f	the interior of a supermarket	8.0	6.0	0.75	MODEL_9
+1029	8ec905f4c4f1c39f	the interior of a supermarket	10.0	8.0	0.75	MODEL_1
+1030	8ef79b75af9fd1f0	a mural of a man with a big blue umbrella .	10.0	1.0	0.125	MODEL_0
+1031	8ef79b75af9fd1f0	street art seen during the tour .	8.0	8.0	1.0	MODEL_8
+1032	8ef79b75af9fd1f0	street art seen during the tour .	9.0	8.0	0.875	MODEL_5
+1033	8ef79b75af9fd1f0	graffiti on a brick wall	9.0	7.0	0.75	MODEL_4
+1034	8fa4156ebe76a8d0	the steel beams are seen in this undated image .	10.0	5.0	0.5	MODEL_0
+1035	8fa4156ebe76a8d0	the outside of the building	9.0	4.0	0.5	MODEL_8
+1036	8fa4156ebe76a8d0	the building is a building .	9.0	2.0	0.25	MODEL_5
+1037	8fa4156ebe76a8d0	demolition of an office building	10.0	8.0	0.75	MODEL_4
+1038	90027e7b64c565b2	summer fun in the sun	9.0	9.0	1.0	MODEL_3
+1039	90027e7b64c565b2	fun in the sun !	9.0	9.0	1.0	MODEL_7
+1040	90027e7b64c565b2	fun in the pool !	10.0	10.0	1.0	MODEL_6
+1041	90027e7b64c565b2	summer fun in the sun	10.0	8.0	0.75	MODEL_11
+1042	9020b54f35e856f3	a pair of shoes in the market	9.0	1.0	0.125	MODEL_0
+1043	9020b54f35e856f3	the world ' s largest tortoise , was found	9.0	4.0	0.5	MODEL_4
+1044	9020b54f35e856f3	person , a child , who is a rock , is a rock , and is a very popular rock .	10.0	2.0	0.25	MODEL_5
+1045	9020b54f35e856f3	this is a picture of my dog .	10.0	2.0	0.25	MODEL_8
+1046	902272c10da14a1c	the stage at the concert	8.0	6.0	0.75	MODEL_7
+1047	902272c10da14a1c	a view from the stage	8.0	4.0	0.5	MODEL_3
+1048	902272c10da14a1c	the stage at the concert	9.0	8.0	0.875	MODEL_6
+1049	9072d324a29f652e	view from the dock of the lake	9.0	8.0	0.875	MODEL_10
+1050	9072d324a29f652e	water reservoir lake in the distance	10.0	6.0	0.625	MODEL_9
+1051	9072d324a29f652e	water reservoir lake in the distance	9.0	7.0	0.75	MODEL_1
+1052	9072d324a29f652e	looking out over the lake .	10.0	8.0	0.75	MODEL_2
+1053	90848fbd07a3a664	a dandelion in full bloom	10.0	10.0	1.0	MODEL_2
+1054	90848fbd07a3a664	a dandelion in full bloom	9.0	6.0	0.625	MODEL_10
+1055	90848fbd07a3a664	the dandelion in full bloom	9.0	6.0	0.625	MODEL_9
+1056	90848fbd07a3a664	the dandelion in full bloom	10.0	9.0	0.875	MODEL_1
+1057	912e75dbde728f93	the light in the dark	9.0	2.0	0.25	MODEL_5
+1058	912e75dbde728f93	this is an image of the front door .	9.0	1.0	0.125	MODEL_8
+1059	912e75dbde728f93	the light on the wall	9.0	3.0	0.375	MODEL_0
+1060	912e75dbde728f93	the light at the end of the tunnel	9.0	3.0	0.375	MODEL_4
+1061	913827441b4497f3	view from the pier at night	10.0	9.0	0.875	MODEL_10
+1062	913827441b4497f3	view from our room at night	9.0	7.0	0.75	MODEL_2
+1063	913827441b4497f3	the city skyline at night	9.0	8.0	0.875	MODEL_9
+1064	913827441b4497f3	the city skyline at night	9.0	7.0	0.75	MODEL_1
+1065	9188fe21a6c679c5	the best part of the box is	8.0	4.0	0.5	MODEL_0
+1066	9188fe21a6c679c5	this is what you need to know .	9.0	4.0	0.5	MODEL_8
+1067	9188fe21a6c679c5	a poster from the show	10.0	5.0	0.5	MODEL_4
+1068	9188fe21a6c679c5	the - product line is the most popular cheap	8.0	2.0	0.25	MODEL_5
+1069	9198a23ccd18d15e	eastern grey squirrel in a tree - photo #	10.0	8.0	0.75	MODEL_9
+1070	9198a23ccd18d15e	eastern grey squirrel in a tree - photo #	8.0	4.0	0.5	MODEL_1
+1071	920b94ec28c18677	a goat in the zoo	10.0	5.0	0.5	MODEL_2
+1072	920b94ec28c18677	a goat with a black mane	8.0	4.0	0.5	MODEL_10
+1073	920b94ec28c18677	biological species , a breed of goats	9.0	7.0	0.75	MODEL_9
+1074	92c0f51e27305be3	the back of a truck	9.0	2.0	0.25	MODEL_11
+1075	92c0f51e27305be3	the logo is seen on a building .	9.0	1.0	0.125	MODEL_6
+1076	92c0f51e27305be3	the back of a truck	10.0	8.0	0.75	MODEL_3
+1077	92d088d27e569f7c	a peach on a tree .	10.0	10.0	1.0	MODEL_7
+1078	92d088d27e569f7c	ripe persimmon on a tree	8.0	7.0	0.875	MODEL_11
+1079	92d088d27e569f7c	the fruit is a little bit of the fruit .	9.0	3.0	0.375	MODEL_6
+1080	9338dd69990a4545	the computer is on display .	9.0	4.0	0.5	MODEL_0
+1081	9338dd69990a4545	a computer with a view	10.0	2.0	0.25	MODEL_5
+1082	9338dd69990a4545	how to build a simple desk	8.0	2.0	0.25	MODEL_8
+1083	9338dd69990a4545	how to build a computer over a desk	8.0	5.0	0.625	MODEL_4
+1084	937f4437c033ad43	this is a photo of a cat	10.0	1.0	0.125	MODEL_3
+1085	937f4437c033ad43	this is a photo of my dog .	10.0	9.0	0.875	MODEL_7
+1086	937f4437c033ad43	this is a photo of a cat	8.0	3.0	0.375	MODEL_11
+1087	937f4437c033ad43	the most interesting cat in the world	9.0	0.0	0.0	MODEL_6
+1088	93ae68093cea6b6f	a spider on a white background	9.0	8.0	0.875	MODEL_0
+1089	93ae68093cea6b6f	the little spider on the wall	10.0	6.0	0.625	MODEL_5
+1090	93ae68093cea6b6f	spider that looks like a spider	10.0	4.0	0.375	MODEL_8
+1091	93ae68093cea6b6f	a spider on its web	9.0	2.0	0.25	MODEL_4
+1092	93bad6a98b8e2c81	police officers in a car	10.0	1.0	0.125	MODEL_2
+1093	93bad6a98b8e2c81	police officers examine a car	8.0	5.0	0.625	MODEL_9
+1094	93bad6a98b8e2c81	police officers examine a car	10.0	2.0	0.25	MODEL_1
+1095	93bad6a98b8e2c81	person , left , and person were spotted in the car .	8.0	4.0	0.5	MODEL_10
+1096	943191a63e654123	person in front of a door	10.0	2.0	0.25	MODEL_2
+1097	943191a63e654123	this is the front door .	9.0	3.0	0.375	MODEL_10
+1098	943191a63e654123	the front door of person	9.0	2.0	0.25	MODEL_9
+1099	943191a63e654123	the front door of person	9.0	1.0	0.125	MODEL_1
+1100	94a11d76d4e8a5b6	the sign at the window	8.0	2.0	0.25	MODEL_5
+1101	94a11d76d4e8a5b6	the sign at the entrance	10.0	1.0	0.125	MODEL_0
+1102	94a11d76d4e8a5b6	a window display in the window .	10.0	2.0	0.25	MODEL_8
+1103	94a11d76d4e8a5b6	the sign outside the shop	8.0	3.0	0.375	MODEL_4
+1104	94a5d79068cfac64	a car in front of the building .	8.0	5.0	0.625	MODEL_2
+1105	94a5d79068cfac64	person with some of his cars	10.0	5.0	0.5	MODEL_1
+1106	94a5d79068cfac64	person with some of his cars	9.0	3.0	0.375	MODEL_9
+1107	94a5d79068cfac64	a car with a man standing in front of the car .	10.0	6.0	0.625	MODEL_10
+1108	94e8663c1e5f78dc	how to make a paper airplane	8.0	3.0	0.375	MODEL_6
+1109	94e8663c1e5f78dc	how to make a paper plate out of paper	10.0	2.0	0.25	MODEL_7
+1110	94e8663c1e5f78dc	students working on a project	10.0	9.0	0.875	MODEL_11
+1111	94e8663c1e5f78dc	students working on a project	9.0	7.0	0.75	MODEL_3
+1112	95862bd549fbc254	person performs on the balance beam	9.0	8.0	0.875	MODEL_4
+1113	95862bd549fbc254	person competes on the balance beam during the women 's high jump competition .	9.0	7.0	0.75	MODEL_0
+1114	95862bd549fbc254	person performs on the floor	8.0	5.0	0.625	MODEL_5
+1115	95862bd549fbc254	person performs on the balance beam .	10.0	8.0	0.75	MODEL_8
+1116	95e0e2e7ec6cc702	the back of the van .	10.0	8.0	0.75	MODEL_8
+1117	95e0e2e7ec6cc702	a truck traveling along a road	10.0	9.0	0.875	MODEL_0
+1118	95e0e2e7ec6cc702	a truck loaded with boxes	8.0	4.0	0.5	MODEL_4
+1119	95e0e2e7ec6cc702	the truck is a big part of the new van .	9.0	2.0	0.25	MODEL_5
+1120	95ee160ee49dc14c	the sign on the wall	10.0	10.0	1.0	MODEL_3
+1121	95ee160ee49dc14c	the sign on the wall	10.0	9.0	0.875	MODEL_11
+1122	96f301ff1580d90e	a statue of military commander	8.0	4.0	0.5	MODEL_5
+1123	96f301ff1580d90e	one of the many statues	9.0	8.0	0.875	MODEL_8
+1124	96f301ff1580d90e	statues outside of the museum	9.0	9.0	1.0	MODEL_4
+1125	96f301ff1580d90e	a statue of a man	10.0	0.0	0.0	MODEL_0
+1126	9709e8c0ba9ea0ac	the car is the only car in the world	10.0	1.0	0.125	MODEL_5
+1127	9709e8c0ba9ea0ac	person , who was driving a car , was the first person to be in the race	8.0	5.0	0.625	MODEL_0
+1128	9709e8c0ba9ea0ac	the cars that only exist	10.0	5.0	0.5	MODEL_8
+1129	9745a792256f2334	a crowd gathers for the night .	10.0	10.0	1.0	MODEL_2
+1130	9745a792256f2334	the crowd at night outside the pub	9.0	7.0	0.75	MODEL_10
+1131	9745a792256f2334	a crowd gathers outside the store	9.0	6.0	0.625	MODEL_9
+1132	9745a792256f2334	a crowd gathers outside the store	8.0	5.0	0.625	MODEL_1
+1133	974a02daba257511	automobile make at the racetrack .	10.0	5.0	0.5	MODEL_8
+1134	974a02daba257511	automobile model at the show	9.0	9.0	1.0	MODEL_4
+1135	974a02daba257511	the car was built in the ####s .	9.0	3.0	0.375	MODEL_5
+1136	9773a4916603e318	glass in a conference room	9.0	9.0	1.0	MODEL_1
+1137	9773a4916603e318	how to make a glass of water	8.0	3.0	0.375	MODEL_2
+1138	9773a4916603e318	glass in a conference room	10.0	2.0	0.25	MODEL_9
+1139	97c50d757fc3669d	the art of painting artist	10.0	4.0	0.375	MODEL_6
+1140	97c50d757fc3669d	a painting by painting artist .	9.0	4.0	0.5	MODEL_7
+1141	97c50d757fc3669d	emergency services at the scene	10.0	4.0	0.375	MODEL_3
+1142	97c50d757fc3669d	emergency services at the scene	9.0	6.0	0.625	MODEL_11
+1143	981bc1e2df77cb1d	biological species in the snow	9.0	4.0	0.5	MODEL_5
+1144	981bc1e2df77cb1d	biological species in the snow	9.0	1.0	0.125	MODEL_8
+1145	981bc1e2df77cb1d	close up of biological species	9.0	7.0	0.75	MODEL_4
+1146	981bc1e2df77cb1d	biological species on the ground	10.0	10.0	1.0	MODEL_0
+1147	995736489e48f7bc	profession walking along the shore	10.0	5.0	0.5	MODEL_3
+1148	995736489e48f7bc	a man wades through the water .	10.0	5.0	0.5	MODEL_6
+1149	995736489e48f7bc	a fisherman wades through the waters .	9.0	4.0	0.5	MODEL_7
+1150	997262013db66dcb	this is what i 'm doing .	10.0	5.0	0.5	MODEL_7
+1151	997262013db66dcb	digital art selected for the #	10.0	8.0	0.75	MODEL_11
+1152	997262013db66dcb	i 'm in love with this tattoo	9.0	3.0	0.375	MODEL_6
+1153	997262013db66dcb	digital art selected for the #	10.0	8.0	0.75	MODEL_3
+1154	998c9cc95f239fd2	this is a photo of a church .	9.0	2.0	0.25	MODEL_2
+1155	998c9cc95f239fd2	a view of the clock tower	9.0	4.0	0.5	MODEL_9
+1156	998c9cc95f239fd2	the church was built in the ####s .	9.0	3.0	0.375	MODEL_10
+1157	99fb37ce30d1bcd5	a barn on the farm .	9.0	7.0	0.75	MODEL_7
+1158	99fb37ce30d1bcd5	people arrive at the barn	8.0	2.0	0.25	MODEL_11
+1159	99fb37ce30d1bcd5	people arrive at the barn	9.0	8.0	0.875	MODEL_3
+1160	99fb37ce30d1bcd5	the school building is a popular destination for the school 's wedding .	9.0	2.0	0.25	MODEL_6
+1161	9a24e32e6e63f69c	this recipe is by chef and takes .	8.0	5.0	0.625	MODEL_7
+1162	9a24e32e6e63f69c	this is a picture of a healthy meal .	10.0	10.0	1.0	MODEL_6
+1163	9a24e32e6e63f69c	get this all - star , easy - to - follow recipe from chef	10.0	1.0	0.125	MODEL_11
+1164	9a24e32e6e63f69c	get this all - star , easy - to - follow recipe from chef	9.0	4.0	0.5	MODEL_3
+1165	9a78120f057b80e4	the stars of the universe	8.0	6.0	0.75	MODEL_10
+1166	9a78120f057b80e4	glow in the dark stars	9.0	4.0	0.5	MODEL_9
+1167	9a78120f057b80e4	an image of the space shuttle .	9.0	3.0	0.375	MODEL_2
+1168	9a78120f057b80e4	glow in the dark stars	8.0	7.0	0.875	MODEL_1
+1169	9b1e7569f4013754	pigs in the mud - photo #	9.0	7.0	0.75	MODEL_5
+1170	9b1e7569f4013754	pigs on the farm close up	9.0	4.0	0.5	MODEL_4
+1171	9b1e7569f4013754	pigs on the farm close up	9.0	9.0	1.0	MODEL_0
+1172	9b1e7569f4013754	pigs in the mud - photo #	10.0	10.0	1.0	MODEL_8
+1173	9b4951f73c1f80d4	view of the football field	9.0	2.0	0.25	MODEL_8
+1174	9b4951f73c1f80d4	the football team is a great place for the team	8.0	1.0	0.125	MODEL_5
+1175	9b4951f73c1f80d4	the ##th hole is a big part of the tournament .	9.0	6.0	0.625	MODEL_4
+1176	9b4951f73c1f80d4	the ##th hole is a big part of the tournament .	8.0	3.0	0.375	MODEL_0
+1177	9b875b99d7cc121a	palm trees in the morning	8.0	8.0	1.0	MODEL_2
+1178	9b875b99d7cc121a	sunset on the way back	9.0	7.0	0.75	MODEL_9
+1179	9b875b99d7cc121a	sunset view from the front porch	8.0	8.0	1.0	MODEL_10
+1180	9b875b99d7cc121a	sunset on the way back	9.0	8.0	0.875	MODEL_1
+1181	9bea45cb86ec0e27	person and his wife at an event .	10.0	9.0	0.875	MODEL_7
+1182	9bea45cb86ec0e27	person and his wife , pose for a photo .	10.0	5.0	0.5	MODEL_11
+1183	9bea45cb86ec0e27	person , who was born in the ####s , was born .	9.0	4.0	0.5	MODEL_6
+1184	9c5f2ad9c3bc55c9	rhythm of the water #####	9.0	1.0	0.125	MODEL_3
+1185	9c5f2ad9c3bc55c9	a bottle of water with a bubble	9.0	0.0	0.0	MODEL_11
+1186	9c5f2ad9c3bc55c9	water droplets in the rain	9.0	1.0	0.125	MODEL_7
+1187	9c6358332d9cc970	biological species on a bird feeder	10.0	8.0	0.75	MODEL_6
+1188	9c6358332d9cc970	biological species on a bird feeder	9.0	4.0	0.5	MODEL_11
+1189	9c6358332d9cc970	biological species on a bird feeder	9.0	7.0	0.75	MODEL_7
+1190	9c6358332d9cc970	a pair of biological species on a feeder	9.0	2.0	0.25	MODEL_3
+1191	9ccc49e043db899c	i 'm in love with this car !	9.0	9.0	1.0	MODEL_7
+1192	9ccc49e043db899c	i 'm in love with this car !	10.0	5.0	0.5	MODEL_6
+1193	9ccc49e043db899c	automobile model is a car that is not a good idea for the future	9.0	4.0	0.5	MODEL_11
+1194	9ccc49e043db899c	the fastest car in the world	8.0	5.0	0.625	MODEL_3
+1195	9ce2ca5951a67648	blue sky over the lake	9.0	6.0	0.625	MODEL_2
+1196	9ce2ca5951a67648	the sky is the only way to get to the beach .	8.0	1.0	0.125	MODEL_10
+1197	9ce2ca5951a67648	the moon rises over the trees .	9.0	6.0	0.625	MODEL_1
+1198	9cfde07a1ec108c6	a collection of books by person	8.0	2.0	0.25	MODEL_11
+1199	9cfde07a1ec108c6	the collection of the collection	9.0	4.0	0.5	MODEL_6
+1200	9cfde07a1ec108c6	a preview of my collection	8.0	7.0	0.875	MODEL_3
+1201	9d2db5b76e137698	lightning strikes over a city	10.0	10.0	1.0	MODEL_5
+1202	9d2db5b76e137698	lightning strikes during a thunderstorm .	10.0	10.0	1.0	MODEL_8
+1203	9d2db5b76e137698	lightning strikes over a city during a thunderstorm .	10.0	9.0	0.875	MODEL_4
+1204	9d2db5b76e137698	lightning strikes over a city during a thunderstorm .	10.0	8.0	0.75	MODEL_0
+1205	9d6437dfb184883d	person is playing in the water	10.0	10.0	1.0	MODEL_9
+1206	9d6437dfb184883d	taking a bath in the river	10.0	6.0	0.625	MODEL_2
+1207	9d6437dfb184883d	person washing his hands in the river	9.0	0.0	0.0	MODEL_10
+1208	9d6437dfb184883d	person is playing in the water	10.0	10.0	1.0	MODEL_1
+1209	9d7ce87b37eb4475	a dog lying on the floor	10.0	9.0	0.875	MODEL_0
+1210	9d7ce87b37eb4475	a dog lying on the floor	8.0	3.0	0.375	MODEL_4
+1211	9d7ce87b37eb4475	the dog is a good thing for dogs	8.0	3.0	0.375	MODEL_5
+1212	9d7ce87b37eb4475	animal is one of the most popular dog breeds .	10.0	6.0	0.625	MODEL_8
+1213	9e177bbb1a622f73	the sun sets behind the trees .	9.0	8.0	0.875	MODEL_9
+1214	9e177bbb1a622f73	the beauty of the sky	11.0	6.0	0.5	MODEL_2
+1215	9e177bbb1a622f73	the sun rises over the trees	10.0	4.0	0.375	MODEL_10
+1216	9e49b50c7fd9b687	the trail through the woods	10.0	6.0	0.625	MODEL_9
+1217	9e49b50c7fd9b687	the forest floor in the sunlight	9.0	9.0	1.0	MODEL_10
+1218	9e49b50c7fd9b687	the trail through the woods	9.0	9.0	1.0	MODEL_1
+1219	9e49b50c7fd9b687	the forest floor covered with moss	8.0	6.0	0.75	MODEL_2
+1220	9ee779d0c7c7316e	the view from the top	10.0	4.0	0.375	MODEL_11
+1221	9ee779d0c7c7316e	the first day of the trip .	10.0	8.0	0.75	MODEL_6
+1222	9ee779d0c7c7316e	clouds rolling in over the landscape	9.0	3.0	0.375	MODEL_3
+1223	a02784fd0e1d7438	a bedroom with a bed and a small window	9.0	2.0	0.25	MODEL_10
+1224	a02784fd0e1d7438	i like the idea of a mirror in the room .	9.0	8.0	0.875	MODEL_9
+1225	a02784fd0e1d7438	how to choose the right bed for your bedroom	9.0	6.0	0.625	MODEL_2
+1226	a02784fd0e1d7438	i like the idea of a mirror in the room .	9.0	7.0	0.75	MODEL_1
+1227	a043f736552fccca	person and i in the gym	10.0	2.0	0.25	MODEL_7
+1228	a043f736552fccca	person working out in the gym	10.0	1.0	0.125	MODEL_11
+1229	a043f736552fccca	person working hard in the gym	10.0	2.0	0.25	MODEL_3
+1230	a043f736552fccca	person , person and actor in the living room	8.0	2.0	0.25	MODEL_6
+1231	a04436573a76bffa	bee on a purple flower	10.0	9.0	0.875	MODEL_3
+1232	a04436573a76bffa	a bee on a purple flower	10.0	10.0	1.0	MODEL_11
+1233	a04436573a76bffa	picture of a purple flower	9.0	7.0	0.75	MODEL_7
+1234	a04436573a76bffa	the flower of the - photo sharing !	8.0	3.0	0.375	MODEL_6
+1235	a083cf51eda4c943	a view of the skyline	9.0	9.0	1.0	MODEL_9
+1236	a083cf51eda4c943	a rendering of the towers .	10.0	8.0	0.75	MODEL_2
+1237	a083cf51eda4c943	a view of the skyline	10.0	8.0	0.75	MODEL_1
+1238	a083cf51eda4c943	a rendering of the proposed tower .	9.0	6.0	0.625	MODEL_10
+1239	a098925e17c62fcb	a view of the bay	9.0	8.0	0.875	MODEL_6
+1240	a098925e17c62fcb	panoramic view of the sea	9.0	4.0	0.5	MODEL_7
+1241	a098925e17c62fcb	aerial view of the beautiful beach	9.0	8.0	0.875	MODEL_11
+1242	a098925e17c62fcb	geographical feature category in the world	10.0	5.0	0.5	MODEL_3
+1243	a0b8dde01aa7568b	view from the kitchen window	8.0	4.0	0.5	MODEL_2
+1244	a0b8dde01aa7568b	a view of the library	9.0	3.0	0.375	MODEL_9
+1245	a0b8dde01aa7568b	a view of the library	8.0	5.0	0.625	MODEL_1
+1246	a0b8dde01aa7568b	the kitchen is a great idea for a new window .	9.0	2.0	0.25	MODEL_10
+1247	a0c2d9491902e77f	yellow flowers on a fence	10.0	5.0	0.5	MODEL_11
+1248	a0c2d9491902e77f	flowers of the cherry blossoms	10.0	6.0	0.625	MODEL_7
+1249	a0c2d9491902e77f	yellow flowers in the garden	10.0	8.0	0.75	MODEL_3
+1250	a0ea76462913fa16	hot spring in the desert	10.0	8.0	0.75	MODEL_9
+1251	a0ea76462913fa16	the site of the site .	9.0	4.0	0.5	MODEL_10
+1252	a0ea76462913fa16	smoke rises from the ground .	9.0	8.0	0.875	MODEL_2
+1253	a0ea76462913fa16	hot spring in the desert	9.0	8.0	0.875	MODEL_1
+1254	a181550051669ecf	a city from the sky	9.0	2.0	0.25	MODEL_7
+1255	a181550051669ecf	a city on the coast	9.0	3.0	0.375	MODEL_6
+1256	a181550051669ecf	a map of the route	9.0	1.0	0.125	MODEL_11
+1257	a181550051669ecf	a map of the route	9.0	8.0	0.875	MODEL_3
+1258	a20a9820212ee952	another view of the bus .	10.0	4.0	0.375	MODEL_8
+1259	a20a9820212ee952	a bus in front of the station .	9.0	2.0	0.25	MODEL_5
+1260	a20a9820212ee952	a train pulls into a station	9.0	4.0	0.5	MODEL_4
+1261	a20a9820212ee952	a car drives past the entrance to the station .	8.0	6.0	0.75	MODEL_0
+1262	a229cf2f634e3584	an image of a pear by person	10.0	9.0	0.875	MODEL_8
+1263	a229cf2f634e3584	still life with a pear and pear	10.0	8.0	0.75	MODEL_5
+1264	a229cf2f634e3584	pear still life : a pear	10.0	9.0	0.875	MODEL_4
+1265	a229cf2f634e3584	a pear with a leaf on it	8.0	2.0	0.25	MODEL_0
+1266	a22dd3547c935deb	the stairs to the second floor	10.0	8.0	0.75	MODEL_8
+1267	a22dd3547c935deb	the stairs leading to the second floor	9.0	7.0	0.75	MODEL_5
+1268	a22dd3547c935deb	stairs leading to the 2nd floor	9.0	8.0	0.875	MODEL_4
+1269	a22dd3547c935deb	stairs leading to the second floor	8.0	8.0	1.0	MODEL_0
+1270	a2bcb3c26ee79e47	a bed in a hotel room	10.0	2.0	0.25	MODEL_9
+1271	a2bcb3c26ee79e47	the new collection of the - white	9.0	0.0	0.0	MODEL_10
+1272	a2bcb3c26ee79e47	a bed in a hotel room	8.0	4.0	0.5	MODEL_1
+1273	a2bcb3c26ee79e47	a view of the shop window .	9.0	1.0	0.125	MODEL_2
+1274	a30b01b38330ad04	breakfast with a view of the breakfast	9.0	6.0	0.625	MODEL_6
+1275	a30b01b38330ad04	my first meal of the day	10.0	6.0	0.625	MODEL_3
+1276	a30b01b38330ad04	our first meal of the day .	10.0	8.0	0.75	MODEL_7
+1277	a30b01b38330ad04	my first meal of the day	10.0	4.0	0.375	MODEL_11
+1278	a30bc60535bba619	image may contain : person , on stage , playing a musical instrument and night	10.0	8.0	0.75	MODEL_8
+1279	a30bc60535bba619	hard rock artist of hard rock artist performs on stage .	8.0	6.0	0.75	MODEL_0
+1280	a30bc60535bba619	image may contain : person , on stage , playing a musical instrument , night and concert	8.0	6.0	0.75	MODEL_5
+1281	a30bc60535bba619	image may contain : person , on stage and playing a musical instrument	8.0	5.0	0.625	MODEL_4
+1282	a3898d7be48dded7	a halloween costume for halloween	10.0	2.0	0.25	MODEL_5
+1283	a3898d7be48dded7	person in a gas mask	10.0	8.0	0.75	MODEL_4
+1284	a3898d7be48dded7	halloween costumes for the family	9.0	2.0	0.25	MODEL_8
+1285	a3898d7be48dded7	person , a man in a gas mask	10.0	9.0	0.875	MODEL_0
+1286	a42297dfa4b0da29	a closer look at the set	10.0	9.0	0.875	MODEL_3
+1287	a42297dfa4b0da29	the new tv is on the wall .	10.0	0.0	0.0	MODEL_6
+1288	a42297dfa4b0da29	a closer look at the set	10.0	5.0	0.5	MODEL_11
+1289	a42297dfa4b0da29	this is what i want to do .	9.0	1.0	0.125	MODEL_7
+1290	a48a480a0a652bd9	image may contain : person , on stage and playing a musical instrument	10.0	9.0	0.875	MODEL_3
+1291	a48a480a0a652bd9	image may contain : person , on stage and playing a musical instrument	8.0	7.0	0.875	MODEL_11
+1292	a48a480a0a652bd9	image may contain : person , on stage and playing a musical instrument	9.0	8.0	0.875	MODEL_7
+1293	a48a480a0a652bd9	image may contain : person , on stage , playing a musical instrument and concert	10.0	9.0	0.875	MODEL_6
+1294	a53b05926db08b15	aircraft model sits on the tarmac .	10.0	6.0	0.625	MODEL_2
+1295	a53b05926db08b15	one of the original aircraft	9.0	8.0	0.875	MODEL_9
+1296	a53b05926db08b15	one of the original aircraft	11.0	8.0	0.75	MODEL_1
+1297	a5459b0e021cdc88	baseball player hits a single during the fifth inning of game .	10.0	5.0	0.5	MODEL_0
+1298	a5459b0e021cdc88	person tags out person at home	9.0	7.0	0.75	MODEL_4
+1299	a5459b0e021cdc88	slide of ## : slides into home plate as person slides into home plate during the game	9.0	4.0	0.5	MODEL_5
+1300	a5459b0e021cdc88	person slides safely into home plate as person slides into second base during the game .	9.0	4.0	0.5	MODEL_8
+1301	a553a07787d56b55	the earth laughs in flowers	10.0	9.0	0.875	MODEL_9
+1302	a553a07787d56b55	the earth laughs in flowers	10.0	8.0	0.75	MODEL_1
+1303	a553a07787d56b55	the flowers are the most beautiful .	9.0	7.0	0.75	MODEL_10
+1304	a5b1d45735d7e8b5	how to make a wireless cable	9.0	1.0	0.125	MODEL_7
+1305	a5b1d45735d7e8b5	how to make a cable with venture funded company	9.0	4.0	0.5	MODEL_11
+1306	a5b1d45735d7e8b5	the wireless cable is a wireless way to the wires .	9.0	3.0	0.375	MODEL_6
+1307	a5b1d45735d7e8b5	how to make a cable with venture funded company	8.0	4.0	0.5	MODEL_3
+1308	a5c4b3f53717cd64	a bottle in a bottle	10.0	4.0	0.375	MODEL_8
+1309	a5c4b3f53717cd64	message in a bottle - ########	8.0	2.0	0.25	MODEL_5
+1310	a5c4b3f53717cd64	a bottle of distilled spirit type	9.0	4.0	0.5	MODEL_4
+1311	a5c4b3f53717cd64	perfume - a fragrance for women	10.0	5.0	0.5	MODEL_0
+1312	a5ed6103692a4a32	one of a kind bus	10.0	8.0	0.75	MODEL_8
+1313	a5ed6103692a4a32	a school bus in the background	8.0	6.0	0.75	MODEL_5
+1314	a5ed6103692a4a32	a city is a city	8.0	1.0	0.125	MODEL_0
+1315	a5ed6103692a4a32	one of the famous buses	8.0	7.0	0.875	MODEL_4
+1316	a60fe1c9eebfa6c5	this is what it looks like .	9.0	3.0	0.375	MODEL_7
+1317	a60fe1c9eebfa6c5	food hanging on a rack	9.0	6.0	0.625	MODEL_11
+1318	a60fe1c9eebfa6c5	person is a must - have for the kids .	10.0	1.0	0.125	MODEL_6
+1319	a60fe1c9eebfa6c5	food hanging on a rack	10.0	2.0	0.25	MODEL_3
+1320	a611cc63834c4620	frog on a leaf	10.0	2.0	0.25	MODEL_6
+1321	a611cc63834c4620	frog on a green screen	8.0	1.0	0.125	MODEL_7
+1322	a611cc63834c4620	## of the most colorful animals on the planet	9.0	2.0	0.25	MODEL_3
+1323	a611cc63834c4620	## of the most colorful animals on the planet	9.0	1.0	0.125	MODEL_11
+1324	a6bfeec5b5afc89b	bathroom : small bathroom decorating ideas color	10.0	2.0	0.25	MODEL_4
+1325	a6bfeec5b5afc89b	a vintage dresser with a mirror	8.0	0.0	0.0	MODEL_0
+1326	a6bfeec5b5afc89b	a bathroom with a view	10.0	0.0	0.0	MODEL_5
+1327	a6bfeec5b5afc89b	bathroom : small bathroom decorating ideas color	10.0	2.0	0.25	MODEL_8
+1328	a855af200278a623	the hotel is a historic building	8.0	4.0	0.5	MODEL_10
+1329	a855af200278a623	one of the half - timbered houses	8.0	6.0	0.75	MODEL_9
+1330	a855af200278a623	one of the half - timbered houses	8.0	5.0	0.625	MODEL_1
+1331	a85d745f274d984f	a city in the evening	9.0	3.0	0.375	MODEL_8
+1332	a85d745f274d984f	the pond in the middle	9.0	8.0	0.875	MODEL_5
+1333	a85d745f274d984f	the pond in the garden	9.0	8.0	0.875	MODEL_0
+1334	a85d745f274d984f	art gallery which includes a temple or place of worship and heritage architecture	8.0	3.0	0.375	MODEL_4
+1335	a896b80f394e6e86	the screw is a piece of wood	9.0	3.0	0.375	MODEL_0
+1336	a896b80f394e6e86	the first of the vehicle	9.0	1.0	0.125	MODEL_5
+1337	a896b80f394e6e86	see more photos for this motorcycle listing	9.0	0.0	0.0	MODEL_8
+1338	a8b8e3cfaaa694c8	a view from the sea	10.0	8.0	0.75	MODEL_8
+1339	a8b8e3cfaaa694c8	the lighthouse on the coast	10.0	8.0	0.75	MODEL_5
+1340	a8b8e3cfaaa694c8	lighthouse on a calm day	9.0	6.0	0.625	MODEL_4
+1341	a8b8e3cfaaa694c8	lighthouse on a calm day	9.0	7.0	0.75	MODEL_0
+1342	a8c6656716e5e638	image may contain : person , on stage , playing a musical instrument and concert	10.0	8.0	0.75	MODEL_8
+1343	a8c6656716e5e638	image may contain : person , on stage , playing a musical instrument and concert	10.0	8.0	0.75	MODEL_5
+1344	a8c6656716e5e638	image may contain : person , on stage and playing a musical instrument	9.0	7.0	0.75	MODEL_4
+1345	a8c6656716e5e638	image may contain : person , on stage , playing a musical instrument and concert	9.0	7.0	0.75	MODEL_0
+1346	a8ce85d2db34fe32	detail of the quilt by person	10.0	5.0	0.5	MODEL_2
+1347	a8ce85d2db34fe32	the entrance to the building	8.0	8.0	1.0	MODEL_9
+1348	a8ce85d2db34fe32	the entrance to the building	10.0	1.0	0.125	MODEL_1
+1349	a92d4e76eec7ef2b	person on a swing in the garden	10.0	6.0	0.625	MODEL_6
+1350	a92d4e76eec7ef2b	person playing on a swing	8.0	3.0	0.375	MODEL_11
+1351	a92d4e76eec7ef2b	woman on a swing with rope	9.0	8.0	0.875	MODEL_7
+1352	a92d4e76eec7ef2b	person playing on a swing	10.0	8.0	0.75	MODEL_3
+1353	a9b209be8e36da32	woman typing on a laptop	9.0	1.0	0.125	MODEL_0
+1354	a9b209be8e36da32	how to get the most out of your laptop	9.0	3.0	0.375	MODEL_8
+1355	a9b209be8e36da32	close up of the laptop open	9.0	6.0	0.625	MODEL_4
+1356	a9b209be8e36da32	the laptop is the most important part of the world .	9.0	3.0	0.375	MODEL_5
+1357	aa14d804f8d5c095	funny animals of the week , funny animal photos , animal pictures	10.0	8.0	0.75	MODEL_8
+1358	aa14d804f8d5c095	funny animals of the week , funny animal photos , animal pictures	10.0	4.0	0.375	MODEL_5
+1359	aa14d804f8d5c095	funny animals of the week , funny animal photos	10.0	6.0	0.625	MODEL_0
+1360	aa14d804f8d5c095	a few of my favorite birds	10.0	5.0	0.5	MODEL_4
+1361	aa5b128690959cf6	photo of the exterior of a building	8.0	8.0	1.0	MODEL_3
+1362	aa5b128690959cf6	a view of the building .	10.0	6.0	0.625	MODEL_7
+1363	aa5b128690959cf6	photo of the exterior of a building	11.0	4.0	0.375	MODEL_11
+1364	aa5b128690959cf6	the building is a building that has been used to be a new building .	8.0	1.0	0.125	MODEL_6
+1365	aa81a9fc179c8a80	what is the name of this fish ?	10.0	4.0	0.375	MODEL_2
+1366	aa81a9fc179c8a80	digital art selected for the #	8.0	7.0	0.875	MODEL_9
+1367	aa81a9fc179c8a80	the fish that looks like a fish	9.0	4.0	0.5	MODEL_10
+1368	aa81a9fc179c8a80	digital art selected for the #	8.0	1.0	0.125	MODEL_1
+1369	aa988ddcdfe40c58	animal pictures of the year	8.0	6.0	0.75	MODEL_8
+1370	aa988ddcdfe40c58	person , the cat of person	10.0	2.0	0.25	MODEL_5
+1371	aa988ddcdfe40c58	cat playing in the grass	10.0	2.0	0.25	MODEL_4
+1372	aa988ddcdfe40c58	a gorilla sits in a tree .	8.0	4.0	0.5	MODEL_0
+1373	ab7bb66d43c591b7	a view of the park .	9.0	4.0	0.5	MODEL_7
+1374	ab7bb66d43c591b7	a general view of the stadium	10.0	8.0	0.75	MODEL_11
+1375	ab7bb66d43c591b7	a general view of the stadium	8.0	1.0	0.125	MODEL_3
+1376	ab9c4376a6105519	one of the horses at the show	9.0	8.0	0.875	MODEL_8
+1377	ab9c4376a6105519	horses are the best thing to do .	8.0	6.0	0.75	MODEL_0
+1378	ab9c4376a6105519	the horse is a very popular place for the horses .	10.0	4.0	0.375	MODEL_5
+1379	ab9c4376a6105519	working on a horse ' s leg	9.0	3.0	0.375	MODEL_4
+1380	ac4a7c69590b9287	a mallard duck swimming in a pond	10.0	9.0	0.875	MODEL_5
+1381	ac4a7c69590b9287	a pair of biological species	10.0	2.0	0.25	MODEL_4
+1382	ac4a7c69590b9287	duck swimming in the pond	8.0	6.0	0.75	MODEL_0
+1383	ac57c39119f6789d	the crew of the military .	9.0	8.0	0.875	MODEL_10
+1384	ac57c39119f6789d	person , left , and person	9.0	4.0	0.5	MODEL_9
+1385	ac57c39119f6789d	politician greets a group of soldiers .	8.0	5.0	0.625	MODEL_2
+1386	ac57c39119f6789d	person , left , and person	10.0	5.0	0.5	MODEL_1
+1387	ad0cbdd9fe1d9885	graffiti on a wall in the district	9.0	6.0	0.625	MODEL_0
+1388	ad0cbdd9fe1d9885	the graffiti on the wall .	9.0	9.0	1.0	MODEL_8
+1389	ad0cbdd9fe1d9885	the graffiti is a great way to do it .	9.0	4.0	0.5	MODEL_5
+1390	ad0cbdd9fe1d9885	graffiti on a train car	9.0	1.0	0.125	MODEL_4
+1391	ada434c638380f69	the eye of the - photo sharing !	8.0	4.0	0.5	MODEL_10
+1392	ada434c638380f69	this is my new tattoo	10.0	0.0	0.0	MODEL_1
+1393	ada434c638380f69	this is my new tattoo	9.0	2.0	0.25	MODEL_9
+1394	ada434c638380f69	biological species in the garden	9.0	3.0	0.375	MODEL_2
+1395	adf7144c4a7eea9c	water flowing down the road	8.0	1.0	0.125	MODEL_10
+1396	adf7144c4a7eea9c	water flows over the spillway .	9.0	6.0	0.625	MODEL_2
+1397	adf7144c4a7eea9c	steam rising from the geyser	9.0	7.0	0.75	MODEL_9
+1398	adf7144c4a7eea9c	steam rising from the geyser	9.0	7.0	0.75	MODEL_1
+1399	ae22258aa592bd53	the dancer is a dancer who is the first person to be a dancer .	9.0	2.0	0.25	MODEL_6
+1400	ae22258aa592bd53	person in a dance studio	10.0	10.0	1.0	MODEL_7
+1401	ae22258aa592bd53	dancers are the athletes of deity	10.0	5.0	0.5	MODEL_11
+1402	ae22258aa592bd53	dancers are the athletes of deity	9.0	7.0	0.75	MODEL_3
+1403	ae38e98ab0e82a73	digital art selected for the #	8.0	6.0	0.75	MODEL_7
+1404	ae38e98ab0e82a73	comic book character vs comic book character	8.0	4.0	0.5	MODEL_11
+1405	ae38e98ab0e82a73	comic book character vs comic book character	10.0	4.0	0.375	MODEL_3
+1406	ae77c93b763ef75a	person runs to first base for a home run during the championship game	8.0	6.0	0.75	MODEL_9
+1407	ae77c93b763ef75a	person runs to first base for a home run during the championship game	9.0	7.0	0.75	MODEL_1
+1408	ae77c93b763ef75a	person , a baseball player , who is the best team to be	8.0	6.0	0.75	MODEL_10
+1409	af2686cacaded950	automobile make ### with an engine	10.0	5.0	0.5	MODEL_10
+1410	af2686cacaded950	automobile make through the years	9.0	3.0	0.375	MODEL_2
+1411	af2686cacaded950	automobile model with a turbo inline - four	8.0	2.0	0.25	MODEL_9
+1412	af2686cacaded950	automobile model with a turbo inline - four	8.0	7.0	0.875	MODEL_1
+1413	aface5db5e2f1dde	bronze sculpture of a horse and rider	9.0	8.0	0.875	MODEL_1
+1414	aface5db5e2f1dde	statue of a horse and rider .	10.0	9.0	0.875	MODEL_2
+1415	aface5db5e2f1dde	bronze sculpture of a horse and rider	10.0	8.0	0.75	MODEL_9
+1416	afdd1aceab1e9799	type of place of worship of artwork	10.0	4.0	0.375	MODEL_9
+1417	afdd1aceab1e9799	the temple is located in the heart .	9.0	6.0	0.625	MODEL_10
+1418	afdd1aceab1e9799	type of place of worship of artwork	9.0	4.0	0.5	MODEL_1
+1419	afdd1aceab1e9799	tourist attraction is one of the most popular tourist attractions .	8.0	5.0	0.625	MODEL_2
+1420	aff42827b5d38600	the road to the airport	10.0	4.0	0.375	MODEL_7
+1421	aff42827b5d38600	the sun sets over road	10.0	6.0	0.625	MODEL_6
+1422	aff42827b5d38600	dust storm in the city	9.0	7.0	0.75	MODEL_11
+1423	aff42827b5d38600	dust storm in the city	8.0	5.0	0.625	MODEL_3
+1424	b03087534a3ede82	a city is one of the oldest churches	10.0	6.0	0.625	MODEL_9
+1425	b03087534a3ede82	a city is one of the oldest churches	10.0	8.0	0.75	MODEL_1
+1426	b03087534a3ede82	a church with a view	9.0	9.0	1.0	MODEL_2
+1427	b0738e07f1d9e884	how to take a ride	9.0	4.0	0.5	MODEL_8
+1428	b0738e07f1d9e884	the fair is a big fun ride .	9.0	4.0	0.5	MODEL_5
+1429	b0738e07f1d9e884	in addition to the game	10.0	5.0	0.5	MODEL_4
+1430	b0738e07f1d9e884	the amusement park is a popular destination for tourists .	10.0	8.0	0.75	MODEL_0
+1431	b0918b0e678b5869	blue sky in the pine forest	10.0	8.0	0.75	MODEL_3
+1432	b0918b0e678b5869	looking up through the trees	10.0	10.0	1.0	MODEL_7
+1433	b0918b0e678b5869	blue sky in the pine forest	8.0	8.0	1.0	MODEL_11
+1434	b0918b0e678b5869	the sky is a beautiful , blue sky .	10.0	8.0	0.75	MODEL_6
+1435	b096d76fccad6af2	a collection of cartoon characters from the ####s	10.0	6.0	0.625	MODEL_10
+1436	b096d76fccad6af2	a collection of rare and collectable item	10.0	8.0	0.75	MODEL_1
+1437	b096d76fccad6af2	a collection of rare and collectable item	9.0	8.0	0.875	MODEL_9
+1438	b09c876fdd2c133d	view from the farm house	10.0	6.0	0.625	MODEL_8
+1439	b09c876fdd2c133d	the farm is a beautiful place to stay .	10.0	9.0	0.875	MODEL_5
+1440	b09c876fdd2c133d	little sunflower in a hat	9.0	1.0	0.125	MODEL_4
+1441	b09c876fdd2c133d	the field is a large field of wheat .	9.0	3.0	0.375	MODEL_0
+1442	b10e63006f4d524d	a detail of a relief	10.0	6.0	0.625	MODEL_5
+1443	b10e63006f4d524d	a relief depicting a city .	9.0	1.0	0.125	MODEL_8
+1444	b10e63006f4d524d	detail of a carving on a door	9.0	6.0	0.625	MODEL_4
+1445	b140f9bdfba074dc	breakfast sandwich with a wallflower	9.0	3.0	0.375	MODEL_2
+1446	b140f9bdfba074dc	breakfast is a good good breakfast .	9.0	6.0	0.625	MODEL_10
+1447	b140f9bdfba074dc	the cheeseburger is a famous dish	10.0	8.0	0.75	MODEL_1
+1448	b1ad92e205d54a68	a little bit of fun .	9.0	3.0	0.375	MODEL_8
+1449	b1ad92e205d54a68	a baby boy with his mother	10.0	1.0	0.125	MODEL_0
+1450	b1ad92e205d54a68	boy playing with a toy	10.0	2.0	0.25	MODEL_4
+1451	b1ad92e205d54a68	person , the child of the day	9.0	6.0	0.625	MODEL_5
+1452	b20ef25c9a2a7ba4	the texture of the marble	9.0	3.0	0.375	MODEL_10
+1453	b20ef25c9a2a7ba4	close up of a concrete wall	8.0	8.0	1.0	MODEL_1
+1454	b20ef25c9a2a7ba4	close up of a concrete wall	9.0	1.0	0.125	MODEL_9
+1455	b20ef25c9a2a7ba4	the texture of the wall	10.0	8.0	0.75	MODEL_2
+1456	b2722a53bd7d4355	drop of dew on a leaf	10.0	8.0	0.75	MODEL_8
+1457	b2722a53bd7d4355	water droplets on a leaf	9.0	8.0	0.875	MODEL_0
+1458	b2722a53bd7d4355	water drop on a leaf	10.0	9.0	0.875	MODEL_5
+1459	b2722a53bd7d4355	a leaf with water drops	10.0	9.0	0.875	MODEL_4
+1460	b2b0c435ad13fce4	this is an example of a map .	8.0	1.0	0.125	MODEL_8
+1461	b2b0c435ad13fce4	image of the saucer and cup	10.0	2.0	0.25	MODEL_4
+1462	b2b0c435ad13fce4	the clock in the form of a mirror	8.0	3.0	0.375	MODEL_0
+1463	b319e9d61eb28224	close up of the tires	10.0	1.0	0.125	MODEL_2
+1464	b319e9d61eb28224	detail of a brick wall	8.0	3.0	0.375	MODEL_9
+1465	b319e9d61eb28224	detail of a brick wall	10.0	8.0	0.75	MODEL_1
+1466	b319e9d61eb28224	the car is a car that is in the garage .	9.0	1.0	0.125	MODEL_10
+1467	b388aeaeea934922	i want to do this with my new tattoo !	10.0	8.0	0.75	MODEL_5
+1468	b388aeaeea934922	a girl with a broken leg is standing in a park	10.0	8.0	0.75	MODEL_4
+1469	b388aeaeea934922	a girl with a broken leg is standing in a park	10.0	1.0	0.125	MODEL_0
+1470	b388aeaeea934922	i want this on my back !	8.0	5.0	0.625	MODEL_8
+1471	b3890c7cb9a118cd	digital art selected for the #	10.0	4.0	0.375	MODEL_0
+1472	b3890c7cb9a118cd	i want to do this to my room !	9.0	0.0	0.0	MODEL_5
+1473	b3890c7cb9a118cd	i want this in my room !	9.0	7.0	0.75	MODEL_8
+1474	b3890c7cb9a118cd	digital art selected for the #	10.0	1.0	0.125	MODEL_4
+1475	b39fa0f473e033aa	a city in the rain	9.0	4.0	0.5	MODEL_2
+1476	b39fa0f473e033aa	a man walks through a street .	10.0	8.0	0.75	MODEL_9
+1477	b39fa0f473e033aa	the road to the future	9.0	2.0	0.25	MODEL_10
+1478	b39fa0f473e033aa	a man walks through a street .	8.0	6.0	0.75	MODEL_1
+1479	b3beb0cb2da32b83	a city for sale property .	9.0	4.0	0.5	MODEL_7
+1480	b3beb0cb2da32b83	the house is located in the heart .	9.0	3.0	0.375	MODEL_6
+1481	b3beb0cb2da32b83	the house is on the market for $## million .	9.0	3.0	0.375	MODEL_11
+1482	b3beb0cb2da32b83	property image # apartment in the center with internet , industry	10.0	4.0	0.375	MODEL_3
+1483	b4a4c11c9b35a32c	chair in a room with a chair	10.0	2.0	0.25	MODEL_4
+1484	b4a4c11c9b35a32c	chair in a room with a chair	9.0	4.0	0.5	MODEL_0
+1485	b4a4c11c9b35a32c	property image # apartment in the center with internet , industry	9.0	3.0	0.375	MODEL_5
+1486	b4a4c11c9b35a32c	the couch in the living room	8.0	4.0	0.5	MODEL_8
+1487	b62517ffa3c8e7fe	a tourist with a tour guide	10.0	6.0	0.625	MODEL_11
+1488	b62517ffa3c8e7fe	person in front of the church	8.0	4.0	0.5	MODEL_7
+1489	b62517ffa3c8e7fe	person and the musicians in front	9.0	2.0	0.25	MODEL_6
+1490	b62517ffa3c8e7fe	a city in the past , history	9.0	4.0	0.5	MODEL_3
+1491	b6abe6aaa2bf88e0	graffiti on the walls of the hotel	10.0	2.0	0.25	MODEL_10
+1492	b6abe6aaa2bf88e0	graffiti on a metal fence	10.0	4.0	0.375	MODEL_2
+1493	b6abe6aaa2bf88e0	the art of painting artist	9.0	7.0	0.75	MODEL_9
+1494	b6f61cf1ba384e45	person at the end of the world	10.0	5.0	0.5	MODEL_8
+1495	b6f61cf1ba384e45	person , who is the first person to be a city , was born .	10.0	5.0	0.5	MODEL_5
+1496	b6f61cf1ba384e45	young man sitting on a hill and looking at the sunset	10.0	1.0	0.125	MODEL_4
+1497	b6fa4f97a3dde36c	a city in the rain	9.0	2.0	0.25	MODEL_7
+1498	b6fa4f97a3dde36c	automobile model in the streets	10.0	8.0	0.75	MODEL_3
+1499	b6fa4f97a3dde36c	the car in the city	9.0	9.0	1.0	MODEL_6
+1500	b6fa4f97a3dde36c	a police car in front	10.0	2.0	0.25	MODEL_11
+1501	b78328a204d16c32	the plants are in the garden .	10.0	5.0	0.5	MODEL_10
+1502	b78328a204d16c32	this is a picture of a plant .	10.0	9.0	0.875	MODEL_2
+1503	b78328a204d16c32	a small plant growing in a pot	9.0	8.0	0.875	MODEL_9
+1504	b78328a204d16c32	a small plant growing in a pot	8.0	5.0	0.625	MODEL_1
+1505	b7cce75c61250a0f	the world 's most popular toys	9.0	3.0	0.375	MODEL_1
+1506	b7cce75c61250a0f	the world 's most popular toys	8.0	8.0	1.0	MODEL_9
+1507	b7cce75c61250a0f	a little bit of love .	9.0	1.0	0.125	MODEL_2
+1508	b7cce75c61250a0f	the most popular toys for the whole family	10.0	5.0	0.5	MODEL_10
+1509	b800a787bab69462	circle of school supplies in a circle	10.0	2.0	0.25	MODEL_3
+1510	b800a787bab69462	a sticker on a sticker	10.0	2.0	0.25	MODEL_11
+1511	b800a787bab69462	the art of the world	9.0	2.0	0.25	MODEL_6
+1512	b81275bcdf8e70b8	a cat on a chair	9.0	4.0	0.5	MODEL_6
+1513	b81275bcdf8e70b8	a cat on a fence	9.0	2.0	0.25	MODEL_7
+1514	b81275bcdf8e70b8	black cat on the stairs	9.0	4.0	0.5	MODEL_11
+1515	b81275bcdf8e70b8	a cat on a car	9.0	2.0	0.25	MODEL_3
+1516	b813c7c130008d25	a man wearing a hat and sunglasses walks along a street	10.0	9.0	0.875	MODEL_4
+1517	b813c7c130008d25	a man wearing a hat and sunglasses walks along a street	10.0	2.0	0.25	MODEL_0
+1518	b813c7c130008d25	a walk in the city	9.0	4.0	0.5	MODEL_8
+1519	b813c7c130008d25	person on the bridge in the city	10.0	5.0	0.5	MODEL_5
+1520	b83bee138b9a80d0	how to grow biological species	8.0	2.0	0.25	MODEL_2
+1521	b83bee138b9a80d0	biological species , a plant of the month	8.0	5.0	0.625	MODEL_9
+1522	b83bee138b9a80d0	biological species , a plant of the month	8.0	6.0	0.75	MODEL_1
+1523	b83bee138b9a80d0	biological species is a great example of the plants .	9.0	8.0	0.875	MODEL_10
+1524	b9b918c77054e0b3	the team at the opening	10.0	4.0	0.375	MODEL_0
+1525	b9b918c77054e0b3	the team on stage	9.0	9.0	1.0	MODEL_4
+1526	b9b918c77054e0b3	the team on stage	9.0	7.0	0.75	MODEL_8
+1527	b9b918c77054e0b3	the cast of the musical	10.0	6.0	0.625	MODEL_5
+1528	b9c05899a104f7b5	that 's a lot of tractors .	9.0	7.0	0.75	MODEL_7
+1529	b9c05899a104f7b5	a tractor is ready for the start of the race .	9.0	4.0	0.5	MODEL_11
+1530	b9c05899a104f7b5	the farm is a very popular place for transportation .	9.0	3.0	0.375	MODEL_6
+1531	b9c05899a104f7b5	planting corn on a farm	10.0	10.0	1.0	MODEL_3
+1532	bad74b6910049e85	flowering cactus in the spring	10.0	1.0	0.125	MODEL_3
+1533	bad74b6910049e85	cherry blossoms in full bloom .	10.0	8.0	0.75	MODEL_7
+1534	bad74b6910049e85	the cherry blossoms are in full bloom .	8.0	7.0	0.875	MODEL_6
+1535	bad74b6910049e85	flowering cactus in the spring	9.0	6.0	0.625	MODEL_11
+1536	bbafe210fc4bce0b	how to make a table .	10.0	2.0	0.25	MODEL_8
+1537	bbafe210fc4bce0b	the art of the green	9.0	7.0	0.75	MODEL_0
+1538	bbafe210fc4bce0b	a box of gold and silver .	10.0	4.0	0.375	MODEL_5
+1539	bbafe210fc4bce0b	a lot of green shoes	10.0	0.0	0.0	MODEL_4
+1540	bbc8258a05106b63	largest tree in the world	10.0	10.0	1.0	MODEL_11
+1541	bbc8258a05106b63	the largest tree in the world	9.0	4.0	0.5	MODEL_6
+1542	bbc8258a05106b63	the largest tree in the world .	9.0	6.0	0.625	MODEL_7
+1543	bbf2607d5954fa12	some of the girls at the event .	8.0	6.0	0.75	MODEL_7
+1544	bbf2607d5954fa12	the girls were all smiles at the event .	10.0	8.0	0.75	MODEL_6
+1545	bbf2607d5954fa12	the team at the starting line	9.0	8.0	0.875	MODEL_11
+1546	bbf2607d5954fa12	the team at the starting line	9.0	3.0	0.375	MODEL_3
+1547	bbf41baf34bc8a5c	the team in the room	9.0	4.0	0.5	MODEL_6
+1548	bbf41baf34bc8a5c	photo of the meeting room	9.0	8.0	0.875	MODEL_7
+1549	bbf41baf34bc8a5c	person speaking at the event	9.0	6.0	0.625	MODEL_11
+1550	bc0ca902f5773ac5	a selection of my shoes	10.0	10.0	1.0	MODEL_3
+1551	bc0ca902f5773ac5	a selection of my shoes	10.0	10.0	1.0	MODEL_11
+1552	bc0ca902f5773ac5	a fashion look featuring shoes .	9.0	7.0	0.75	MODEL_7
+1553	bc0ca902f5773ac5	the shoe is a must have for the summer .	9.0	7.0	0.75	MODEL_6
+1554	bc3b4e399033a4db	a bag of pink and gold	9.0	7.0	0.75	MODEL_0
+1555	bc3b4e399033a4db	love the color of this bag !	8.0	8.0	1.0	MODEL_8
+1556	bc3b4e399033a4db	make a backpack with this tutorial	10.0	4.0	0.375	MODEL_4
+1557	bc3b4e399033a4db	pink and red - pink with a pink floral pattern	9.0	4.0	0.5	MODEL_5
+1558	bc3de7fbe453f112	aircraft type in the sky	9.0	2.0	0.25	MODEL_2
+1559	bc3de7fbe453f112	aircraft model in the rain	10.0	8.0	0.75	MODEL_9
+1560	bc3de7fbe453f112	aircraft type in flight over river	10.0	6.0	0.625	MODEL_10
+1561	bc3de7fbe453f112	aircraft model in the rain	10.0	2.0	0.25	MODEL_1
+1562	bc4b205a2ba08fc0	the home of blues artist	8.0	2.0	0.25	MODEL_9
+1563	bc4b205a2ba08fc0	the home of person and her husband .	10.0	5.0	0.5	MODEL_2
+1564	bc4b205a2ba08fc0	the house was built by person	9.0	2.0	0.25	MODEL_10
+1565	bc4b205a2ba08fc0	the home of blues artist	8.0	3.0	0.375	MODEL_1
+1566	bcbdb65e25ff38a4	the plastic bottles of water are placed on the table .	10.0	1.0	0.125	MODEL_0
+1567	bcbdb65e25ff38a4	a lot of plastic bottles	8.0	3.0	0.375	MODEL_8
+1568	bcbdb65e25ff38a4	a lot of plastic bottles	10.0	1.0	0.125	MODEL_5
+1569	bcbdb65e25ff38a4	blue atoms in a box	8.0	4.0	0.5	MODEL_4
+1570	bcf2084440cd9772	part of a green leaf	10.0	4.0	0.375	MODEL_3
+1571	bcf2084440cd9772	a mantis on a plant	9.0	4.0	0.5	MODEL_6
+1572	bcf2084440cd9772	a plant that looks like a plant	10.0	4.0	0.375	MODEL_7
+1573	bcf2084440cd9772	part of a green leaf	9.0	4.0	0.5	MODEL_11
+1574	bcfc1029850cc490	the sign on the table .	8.0	6.0	0.75	MODEL_8
+1575	bcfc1029850cc490	a sign on a paper sheet .	8.0	8.0	1.0	MODEL_5
+1576	bcfc1029850cc490	person posted this photo of the sign	8.0	3.0	0.375	MODEL_4
+1577	bcfc1029850cc490	a piece of paper with a heart	9.0	1.0	0.125	MODEL_0
+1578	bd0574927dc59fb7	a dog lying on the ground	10.0	10.0	1.0	MODEL_0
+1579	bd0574927dc59fb7	person , the dog of the day	10.0	4.0	0.375	MODEL_5
+1580	bd0574927dc59fb7	person the dog nanny , dog sitter	9.0	4.0	0.5	MODEL_8
+1581	bd0574927dc59fb7	a dog with its tongue sticking out	10.0	1.0	0.125	MODEL_4
+1582	bd6c0bdb1031f0a3	day of the dead cake	10.0	5.0	0.5	MODEL_11
+1583	bd6c0bdb1031f0a3	day of the dead cake	9.0	4.0	0.5	MODEL_7
+1584	bd6c0bdb1031f0a3	cake for a friend 's birthday	9.0	8.0	0.875	MODEL_6
+1585	bd6c0bdb1031f0a3	day of the dead cake	8.0	4.0	0.5	MODEL_3
+1586	bd75a60d36440ecb	the pink and black boxes are a must for the girls .	8.0	1.0	0.125	MODEL_5
+1587	bd75a60d36440ecb	the bag of the month	8.0	1.0	0.125	MODEL_0
+1588	bda21cd957f7f34f	the wood floors are made of wood .	10.0	2.0	0.25	MODEL_6
+1589	bda21cd957f7f34f	how to build a wall	9.0	2.0	0.25	MODEL_11
+1590	bda21cd957f7f34f	i like the idea of a piece of wood .	10.0	1.0	0.125	MODEL_7
+1591	be3998954dfd892b	one of the many yellow trams	10.0	9.0	0.875	MODEL_1
+1592	be3998954dfd892b	one of the many trams	10.0	10.0	1.0	MODEL_2
+1593	be3998954dfd892b	a tram on the streets	8.0	8.0	1.0	MODEL_10
+1594	be3998954dfd892b	one of the many yellow trams	10.0	9.0	0.875	MODEL_9
+1595	bf18de9dee56f681	biological species in the wild	9.0	4.0	0.5	MODEL_5
+1596	bf18de9dee56f681	giant panda in the wild - photo #	9.0	4.0	0.5	MODEL_8
+1597	bf18de9dee56f681	biological species in the zoo	9.0	6.0	0.625	MODEL_0
+1598	bf18de9dee56f681	how to plant a panda for adults	9.0	4.0	0.5	MODEL_4
+1599	bf4e791ee0e6fdbf	a view of the lake	8.0	7.0	0.875	MODEL_11
+1600	bf4e791ee0e6fdbf	the lake is a popular tourist destination .	10.0	5.0	0.5	MODEL_6
+1601	bf4e791ee0e6fdbf	a view of the lake	9.0	8.0	0.875	MODEL_3
+1602	bf8c038758c731f7	crab in the water at the edge of a lake	10.0	8.0	0.75	MODEL_0
+1603	bf8c038758c731f7	group of pollution in the desert	10.0	2.0	0.25	MODEL_8
+1604	bf8c038758c731f7	biological species in a pool	9.0	4.0	0.5	MODEL_5
+1605	bf8c038758c731f7	a common octopus in the mud	8.0	4.0	0.5	MODEL_4
+1606	bfe19b53659174f3	man sitting on a bench	10.0	5.0	0.5	MODEL_2
+1607	bfe19b53659174f3	a man sitting on a bench	9.0	4.0	0.5	MODEL_10
+1608	bfe19b53659174f3	child sitting on a bench	9.0	4.0	0.5	MODEL_9
+1609	bfe19b53659174f3	child sitting on a bench	10.0	10.0	1.0	MODEL_1
+1610	bff93f7156b3c6a8	a bus makes its way through the tunnel	9.0	4.0	0.5	MODEL_3
+1611	bff93f7156b3c6a8	a van crosses a bridge .	8.0	1.0	0.125	MODEL_7
+1612	bff93f7156b3c6a8	the bridge over the road	9.0	8.0	0.875	MODEL_6
+1613	bff93f7156b3c6a8	a bus makes its way through the tunnel	10.0	8.0	0.75	MODEL_11
+1614	c05e61e898edf923	the desk in the room	9.0	9.0	1.0	MODEL_6
+1615	c05e61e898edf923	working day in the office	9.0	7.0	0.75	MODEL_3
+1616	c05e61e898edf923	a picture of my computer	10.0	8.0	0.75	MODEL_7
+1617	c05e61e898edf923	working day in the office	8.0	6.0	0.75	MODEL_11
+1618	c06c862e7afb882b	a ferris wheel at night	8.0	7.0	0.875	MODEL_8
+1619	c06c862e7afb882b	invention at night on the boardwalk	8.0	2.0	0.25	MODEL_5
+1620	c06c862e7afb882b	photo of invention at night	8.0	5.0	0.625	MODEL_4
+1621	c06c862e7afb882b	a general view of atmosphere during day of festival .	8.0	3.0	0.375	MODEL_0
+1622	c0b1ec92d997b4e1	some of the rock formations	10.0	8.0	0.75	MODEL_7
+1623	c0b1ec92d997b4e1	what ' s the difference between crystals ?	8.0	6.0	0.75	MODEL_3
+1624	c0b1ec92d997b4e1	what ' s the difference between crystals ?	9.0	1.0	0.125	MODEL_11
+1625	c0b1ec92d997b4e1	a small broken rock that looks like a crystalline other broken crystals .	10.0	5.0	0.5	MODEL_6
+1626	c26c218dbd1c0fb4	this is the table i made for my son ' s birthday party	10.0	2.0	0.25	MODEL_4
+1627	c26c218dbd1c0fb4	the dining room at person	9.0	4.0	0.5	MODEL_0
+1628	c26c218dbd1c0fb4	the table in the room	9.0	4.0	0.5	MODEL_5
+1629	c26c218dbd1c0fb4	table set up for a romantic dinner .	10.0	5.0	0.5	MODEL_8
+1630	c31dbd4963e51d26	looking down the main staircase	10.0	4.0	0.375	MODEL_9
+1631	c31dbd4963e51d26	the building is a major city .	9.0	3.0	0.375	MODEL_10
+1632	c31dbd4963e51d26	view of the auditorium from the balcony .	9.0	7.0	0.75	MODEL_2
+1633	c3460b19cf59459c	a view of the lake .	10.0	10.0	1.0	MODEL_7
+1634	c3460b19cf59459c	sunset over lake from the dock	9.0	8.0	0.875	MODEL_3
+1635	c3460b19cf59459c	the view from our campsite	10.0	9.0	0.875	MODEL_6
+1636	c3460b19cf59459c	sunset over lake from the dock	9.0	7.0	0.75	MODEL_11
+1637	c3c3fcf08ba977c3	a police car is seen .	9.0	7.0	0.75	MODEL_2
+1638	c3c3fcf08ba977c3	a police officer stands guard	10.0	6.0	0.625	MODEL_1
+1639	c3c3fcf08ba977c3	police officers stand guard outside the entrance .	9.0	6.0	0.625	MODEL_10
+1640	c3cbe4598fc0376f	the statue of a woman in a garden	10.0	2.0	0.25	MODEL_10
+1641	c3cbe4598fc0376f	a small statue of a girl	9.0	4.0	0.5	MODEL_9
+1642	c3cbe4598fc0376f	a small statue of a girl	10.0	8.0	0.75	MODEL_1
+1643	c40ab504f1d01738	a city in the past , history	10.0	5.0	0.5	MODEL_7
+1644	c40ab504f1d01738	photograph of men and women in an art gallery	8.0	1.0	0.125	MODEL_3
+1645	c40ab504f1d01738	photograph of men and women in an art gallery	9.0	4.0	0.5	MODEL_11
+1646	c40ab504f1d01738	a family in the market	8.0	6.0	0.75	MODEL_6
+1647	c45c3de41b7a6e05	a man stands in a cave	8.0	4.0	0.5	MODEL_5
+1648	c45c3de41b7a6e05	animal in the wild - photo #	8.0	4.0	0.5	MODEL_8
+1649	c45c3de41b7a6e05	a black bear is sitting on a tree branch	9.0	0.0	0.0	MODEL_0
+1650	c488ab693b0fcbf3	a light bulb with light bulbs	8.0	3.0	0.375	MODEL_8
+1651	c488ab693b0fcbf3	lights in the living room	9.0	4.0	0.5	MODEL_4
+1652	c488ab693b0fcbf3	the light fixture is a light bulb that is used to be used to be a new home	10.0	4.0	0.375	MODEL_5
+1653	c488ab693b0fcbf3	a black hole in the wall	10.0	2.0	0.25	MODEL_0
+1654	c4c90910bcf58572	the clock tower of person	10.0	2.0	0.25	MODEL_2
+1655	c4c90910bcf58572	clock tower at the town hall	10.0	8.0	0.75	MODEL_9
+1656	c4c90910bcf58572	the clock tower at the entrance	9.0	6.0	0.625	MODEL_10
+1657	c4c97196618a66e0	entrance to the guest house	10.0	1.0	0.125	MODEL_3
+1658	c4c97196618a66e0	a house in the garden	10.0	4.0	0.375	MODEL_6
+1659	c4c97196618a66e0	our house for the weekend .	10.0	1.0	0.125	MODEL_7
+1660	c4c97196618a66e0	entrance to the guest house	8.0	2.0	0.25	MODEL_11
+1661	c50594adc4173306	biological species , known as biological species	10.0	1.0	0.125	MODEL_11
+1662	c50594adc4173306	biological species , known as biological species	8.0	5.0	0.625	MODEL_3
+1663	c50594adc4173306	the fish of the tank	8.0	5.0	0.625	MODEL_6
+1664	c50594adc4173306	small fish in the aquarium	10.0	6.0	0.625	MODEL_7
+1665	c58a6fba33f6a258	biological genus in a field	8.0	6.0	0.75	MODEL_8
+1666	c58a6fba33f6a258	biological species in the forest	8.0	1.0	0.125	MODEL_5
+1667	c58a6fba33f6a258	a field of tall grass	10.0	5.0	0.5	MODEL_4
+1668	c58a6fba33f6a258	green grass moving in the wind	10.0	4.0	0.375	MODEL_0
+1669	c5c6f728a1c35f15	the fence around the house	10.0	2.0	0.25	MODEL_0
+1670	c5c6f728a1c35f15	a house on the outskirts	9.0	0.0	0.0	MODEL_8
+1671	c5c6f728a1c35f15	a house in the village	9.0	2.0	0.25	MODEL_5
+1672	c5c6f728a1c35f15	view of the house from the street	10.0	2.0	0.25	MODEL_4
+1673	c62caf1c0f585074	the team at the car wash	8.0	1.0	0.125	MODEL_8
+1674	c62caf1c0f585074	person with the team at the launch of the new car .	9.0	3.0	0.375	MODEL_0
+1675	c62caf1c0f585074	person handing out the donated car	8.0	3.0	0.375	MODEL_4
+1676	c62caf1c0f585074	person and his family were all smiles at the car show .	10.0	6.0	0.625	MODEL_5
+1677	c6893cfac2557d50	woman in a long dress dancing on the moon	9.0	1.0	0.125	MODEL_0
+1678	c6893cfac2557d50	i love you to the moon and back .	10.0	2.0	0.25	MODEL_8
+1679	c6893cfac2557d50	i love you to the moon and back	9.0	4.0	0.5	MODEL_5
+1680	c6893cfac2557d50	the dress on the beach	9.0	6.0	0.625	MODEL_4
+1681	c697ff05ad5ba0ba	the path to the beach	9.0	3.0	0.375	MODEL_10
+1682	c697ff05ad5ba0ba	stairs leading down to the beach	9.0	6.0	0.625	MODEL_9
+1683	c697ff05ad5ba0ba	stairs leading down to the beach	10.0	1.0	0.125	MODEL_1
+1684	c78adce2594d5b4e	view from the top of the hill	9.0	7.0	0.75	MODEL_0
+1685	c78adce2594d5b4e	a view of the lake	9.0	9.0	1.0	MODEL_8
+1686	c78adce2594d5b4e	the lake in the desert	9.0	1.0	0.125	MODEL_5
+1687	c78adce2594d5b4e	view from the top of the hill	10.0	9.0	0.875	MODEL_4
+1688	c7b6722ef91d6171	property image # tuscan stone house nestled on a hilltop private pool and garden	8.0	7.0	0.875	MODEL_9
+1689	c7b6722ef91d6171	property image # tuscan stone house nestled on a hilltop private pool and garden	8.0	5.0	0.625	MODEL_1
+1690	c7b6722ef91d6171	view of the house from the driveway	10.0	8.0	0.75	MODEL_2
+1691	c7b6722ef91d6171	homes for sale located in the city	9.0	4.0	0.5	MODEL_10
+1692	c800b6d26702d9f6	a butterfly rests on a leaf	10.0	9.0	0.875	MODEL_3
+1693	c800b6d26702d9f6	this little moth was found .	10.0	8.0	0.75	MODEL_7
+1694	c800b6d26702d9f6	a butterfly rests on a leaf	10.0	9.0	0.875	MODEL_11
+1695	c800b6d26702d9f6	i have a little little one .	9.0	3.0	0.375	MODEL_6
+1696	c8453d965b1c4777	the bark of a tree	9.0	6.0	0.625	MODEL_0
+1697	c8453d965b1c4777	the bark of the tree	8.0	7.0	0.875	MODEL_8
+1698	c8453d965b1c4777	the bark of the tree	10.0	9.0	0.875	MODEL_5
+1699	c8453d965b1c4777	the texture of the tree bark	10.0	10.0	1.0	MODEL_4
+1700	c8c30ef45dd59166	image of a green field	10.0	10.0	1.0	MODEL_1
+1701	c8c30ef45dd59166	the landscape is a beautiful place to be .	10.0	8.0	0.75	MODEL_10
+1702	c8c30ef45dd59166	a field of green grass	9.0	9.0	1.0	MODEL_2
+1703	c8c30ef45dd59166	image of a green field	10.0	5.0	0.5	MODEL_9
+1704	c918e36071f06cf3	illustration of a bird by person	8.0	8.0	1.0	MODEL_10
+1705	c918e36071f06cf3	illustration of a bird by painting artist	9.0	7.0	0.75	MODEL_2
+1706	c918e36071f06cf3	a specimen on display in the exhibit	9.0	3.0	0.375	MODEL_9
+1707	c918e36071f06cf3	a specimen on display in the exhibit	8.0	3.0	0.375	MODEL_1
+1708	c95481ac94d43a5a	a sign on a door .	10.0	2.0	0.25	MODEL_2
+1709	c95481ac94d43a5a	a child 's hand is seen on a car	8.0	2.0	0.25	MODEL_10
+1710	c95481ac94d43a5a	a letter written on a wall	10.0	1.0	0.125	MODEL_9
+1711	c95481ac94d43a5a	a letter written on a wall	10.0	2.0	0.25	MODEL_1
+1712	ca07640691a9b494	exterior view of the building	9.0	9.0	1.0	MODEL_2
+1713	ca07640691a9b494	the original building in the city	8.0	6.0	0.75	MODEL_10
+1714	ca07640691a9b494	exterior view of the building	10.0	9.0	0.875	MODEL_1
+1715	ca35561ed15c78cf	the view from the top	8.0	7.0	0.875	MODEL_6
+1716	ca35561ed15c78cf	looking down on the valley	9.0	9.0	1.0	MODEL_11
+1717	ca35561ed15c78cf	view from the top of the hill	10.0	9.0	0.875	MODEL_7
+1718	ca60a0b1db680ded	a giraffe at the zoo	10.0	10.0	1.0	MODEL_7
+1719	ca60a0b1db680ded	a giraffe looking at the camera	9.0	4.0	0.5	MODEL_6
+1720	ca60a0b1db680ded	a giraffe resting under a tree	9.0	7.0	0.75	MODEL_11
+1721	ca60a0b1db680ded	a giraffe resting under a tree	9.0	4.0	0.5	MODEL_3
+1722	ca9d4a2655923fa1	the watch is a very popular .	10.0	6.0	0.625	MODEL_6
+1723	ca9d4a2655923fa1	digital art selected for the #	8.0	4.0	0.5	MODEL_3
+1724	ca9d4a2655923fa1	the most expensive watch in the world	9.0	7.0	0.75	MODEL_7
+1725	caebd488e4c14cfd	boats docked at a marina	9.0	9.0	1.0	MODEL_2
+1726	caebd488e4c14cfd	boats moored at the dock	10.0	9.0	0.875	MODEL_10
+1727	caebd488e4c14cfd	yachts moored in the marina	10.0	9.0	0.875	MODEL_1
+1728	caed31e79dc6fe8d	automobile model is a big car .	9.0	3.0	0.375	MODEL_5
+1729	caed31e79dc6fe8d	automotive industry business at show	9.0	4.0	0.5	MODEL_4
+1730	caed31e79dc6fe8d	automobile model is one of the most popular cars in the world .	10.0	6.0	0.625	MODEL_8
+1731	caed31e79dc6fe8d	automobile model is a very nice car .	9.0	4.0	0.5	MODEL_0
+1732	cb812936e942ba61	a city from the hill	9.0	6.0	0.625	MODEL_8
+1733	cb812936e942ba61	the view from the top	9.0	8.0	0.875	MODEL_5
+1734	cb812936e942ba61	the view from our room	9.0	9.0	1.0	MODEL_4
+1735	cb812936e942ba61	aerial view of the port	9.0	9.0	1.0	MODEL_0
+1736	cb8ab98f296c7717	birds on an electrical wire	10.0	8.0	0.75	MODEL_4
+1737	cb8ab98f296c7717	a man is working on a wire	10.0	2.0	0.25	MODEL_0
+1738	cb8ab98f296c7717	a sky full of clouds	10.0	9.0	0.875	MODEL_5
+1739	cb8ab98f296c7717	storm clouds in the sky	10.0	4.0	0.375	MODEL_8
+1740	cbc0f88d33a974b6	a view of the city .	8.0	7.0	0.875	MODEL_2
+1741	cbc0f88d33a974b6	the view from the roof .	9.0	7.0	0.75	MODEL_10
+1742	cbc0f88d33a974b6	traditional houses in the old town	9.0	4.0	0.5	MODEL_9
+1743	cbc0f88d33a974b6	traditional houses in the old town	10.0	9.0	0.875	MODEL_1
+1744	cbd5c4292180d88c	view of the house from the road	9.0	0.0	0.0	MODEL_9
+1745	cbd5c4292180d88c	the view from the car park	9.0	6.0	0.625	MODEL_2
+1746	cbd5c4292180d88c	view of the house from the road	10.0	5.0	0.5	MODEL_1
+1747	cbd5c4292180d88c	the view from our room	10.0	10.0	1.0	MODEL_10
+1748	cc742a5e1cfa2177	a sign on the wall	8.0	4.0	0.5	MODEL_1
+1749	cc742a5e1cfa2177	what is the number line	8.0	1.0	0.125	MODEL_2
+1750	cc742a5e1cfa2177	the text is a text that can be used to be used as a text .	8.0	3.0	0.375	MODEL_10
+1751	cc742a5e1cfa2177	a sign on the wall	10.0	8.0	0.75	MODEL_9
+1752	ccd9cbe2406c7ee3	a drink at the bar	9.0	9.0	1.0	MODEL_7
+1753	ccd9cbe2406c7ee3	a drink of the day	8.0	6.0	0.75	MODEL_6
+1754	ccd9cbe2406c7ee3	a glass of beer on the bar	9.0	3.0	0.375	MODEL_11
+1755	ccd9cbe2406c7ee3	a drink at the bar	8.0	7.0	0.875	MODEL_3
+1756	cdb39846ac89da90	this is a photo of the flowers .	10.0	9.0	0.875	MODEL_8
+1757	cdb39846ac89da90	flowers on a branch in the spring	9.0	8.0	0.875	MODEL_5
+1758	cdb39846ac89da90	bee on a flower in the wind	8.0	3.0	0.375	MODEL_0
+1759	cdb39846ac89da90	close up of the flowers	8.0	5.0	0.625	MODEL_4
+1760	cdf7b4bbc8b4e00f	a crowd of people walking along a street	9.0	4.0	0.5	MODEL_1
+1761	cdf7b4bbc8b4e00f	a crowd of people walking along a street	10.0	8.0	0.75	MODEL_9
+1762	cdf7b4bbc8b4e00f	a crowd of people walking in the street	8.0	7.0	0.875	MODEL_10
+1763	ce24765f005ba81a	the planets of our solar system	10.0	8.0	0.75	MODEL_2
+1764	ce24765f005ba81a	the moon is seen from space .	10.0	10.0	1.0	MODEL_1
+1765	ce24765f005ba81a	the moon is seen in this image .	10.0	9.0	0.875	MODEL_10
+1766	ce24765f005ba81a	the moon is seen from space .	9.0	8.0	0.875	MODEL_9
+1767	ce51b0df8e06852f	a city in the city	9.0	4.0	0.5	MODEL_0
+1768	ce51b0df8e06852f	low angle view of a building	8.0	8.0	1.0	MODEL_4
+1769	ce51b0df8e06852f	a city in the past , history	9.0	7.0	0.75	MODEL_5
+1770	ce51b0df8e06852f	a city in the past , history	9.0	8.0	0.875	MODEL_8
+1771	ce86c1e6b8fc3dce	the world 's biggest bigger world of the year	10.0	1.0	0.125	MODEL_5
+1772	ce86c1e6b8fc3dce	a group of soldiers on a green lawn	10.0	2.0	0.25	MODEL_0
+1773	ce86c1e6b8fc3dce	a city is one of the largest indigenous animals in the world	9.0	0.0	0.0	MODEL_4
+1774	ce86c1e6b8fc3dce	a photo of a field of sheep .	9.0	3.0	0.375	MODEL_8
+1775	cedda6e46660310f	this car is a very rare .	10.0	6.0	0.625	MODEL_5
+1776	cedda6e46660310f	this is a picture of my car .	10.0	8.0	0.75	MODEL_8
+1777	cedda6e46660310f	automobile model , a car in the shop .	10.0	1.0	0.125	MODEL_0
+1778	cedda6e46660310f	automobile model at the car show	8.0	6.0	0.75	MODEL_4
+1779	cf1942d295c7bd53	a helicopter flies over the city .	10.0	8.0	0.75	MODEL_11
+1780	cf1942d295c7bd53	a general view of a helicopter .	10.0	9.0	0.875	MODEL_7
+1781	cf1942d295c7bd53	a helicopter is shown in this file photo .	10.0	9.0	0.875	MODEL_6
+1782	cf1942d295c7bd53	office worker on a chair	10.0	4.0	0.375	MODEL_3
+1783	cf22a495beb8bbf3	wedding rings in the air	8.0	1.0	0.125	MODEL_7
+1784	cf22a495beb8bbf3	wedding rings on a wedding gift	10.0	2.0	0.25	MODEL_6
+1785	cf22a495beb8bbf3	a bouquet of flowers sits on the floor	9.0	4.0	0.5	MODEL_3
+1786	cf22a495beb8bbf3	a book with a cup of coffee	9.0	0.0	0.0	MODEL_11
+1787	cf35b7433381dff1	a cyclist rides down a street .	8.0	8.0	1.0	MODEL_9
+1788	cf35b7433381dff1	a man rides his bike on a street .	10.0	6.0	0.625	MODEL_2
+1789	cf35b7433381dff1	a cyclist rides down a street .	9.0	9.0	1.0	MODEL_1
+1790	cf35b7433381dff1	a man rides his bike through the streets	10.0	9.0	0.875	MODEL_10
+1791	cf53bc50c1cc88de	a man running down the stairs .	8.0	1.0	0.125	MODEL_8
+1792	cf53bc50c1cc88de	the girl in the gym	10.0	1.0	0.125	MODEL_0
+1793	cf53bc50c1cc88de	person , who is the only person in the world , is a person who is in the world .	10.0	6.0	0.625	MODEL_5
+1794	cf53bc50c1cc88de	person walks down the aisle	9.0	7.0	0.75	MODEL_4
+1795	cf703f522a249d0c	brand is the most popular brand	8.0	6.0	0.75	MODEL_11
+1796	cf703f522a249d0c	products are available in the store .	8.0	6.0	0.75	MODEL_6
+1797	cf703f522a249d0c	packaging of the package design gallery	9.0	3.0	0.375	MODEL_7
+1798	d016b14924ece8a7	fireworks in the night sky	9.0	9.0	1.0	MODEL_10
+1799	d016b14924ece8a7	fireworks in the night sky	9.0	8.0	0.875	MODEL_2
+1800	d016b14924ece8a7	fireworks light up the sky over a city .	9.0	6.0	0.625	MODEL_9
+1801	d016b14924ece8a7	fireworks light up the sky over a city .	10.0	9.0	0.875	MODEL_1
+1802	d02ff33d29563ff5	the team on the field	8.0	2.0	0.25	MODEL_9
+1803	d02ff33d29563ff5	a group of men and women .	8.0	2.0	0.25	MODEL_2
+1804	d02ff33d29563ff5	a group of people in the streets .	10.0	10.0	1.0	MODEL_10
+1805	d02ff33d29563ff5	the team on the field	9.0	6.0	0.625	MODEL_1
+1806	d03d62c06bdff2dd	some of the food served .	8.0	7.0	0.875	MODEL_2
+1807	d03d62c06bdff2dd	a plate of dumplings with meat	9.0	6.0	0.625	MODEL_9
+1808	d03d62c06bdff2dd	a plate of dumplings with meat	9.0	4.0	0.5	MODEL_1
+1809	d03d62c06bdff2dd	food is a great way to make food .	9.0	3.0	0.375	MODEL_10
+1810	d0a11247c3f94bb6	the sun sets over the sea	8.0	2.0	0.25	MODEL_6
+1811	d0a11247c3f94bb6	view of the sea from the beach	10.0	8.0	0.75	MODEL_11
+1812	d0a11247c3f94bb6	the calm before the storm	10.0	8.0	0.75	MODEL_3
+1813	d0a11247c3f94bb6	tourist attraction in the morning	8.0	6.0	0.75	MODEL_7
+1814	d0c79dbdd5db638a	the elephant in the hangar	8.0	4.0	0.5	MODEL_9
+1815	d0c79dbdd5db638a	the elephant in the hangar	9.0	1.0	0.125	MODEL_1
+1816	d0c79dbdd5db638a	person , a great white shark , is a great example of the world 's biggest animal .	10.0	1.0	0.125	MODEL_10
+1817	d13e2d1b68f41e8d	artist performs on stage during the tour opener	10.0	8.0	0.75	MODEL_9
+1818	d13e2d1b68f41e8d	artist performs on stage during the tour opener	8.0	6.0	0.75	MODEL_1
+1819	d13e2d1b68f41e8d	image may contain : person , on stage , playing a musical instrument and concert	10.0	6.0	0.625	MODEL_10
+1820	d13e2d1b68f41e8d	image may contain : person , on stage , playing a musical instrument and concert	9.0	7.0	0.75	MODEL_2
+1821	d15c37cbafc05f14	sunflowers in a sunflower field	10.0	2.0	0.25	MODEL_1
+1822	d15c37cbafc05f14	sunflowers on the sidewalk in the rain	10.0	2.0	0.25	MODEL_10
+1823	d15c37cbafc05f14	close up of a sunflower	9.0	7.0	0.75	MODEL_2
+1824	d15c37cbafc05f14	sunflowers in a sunflower field	9.0	2.0	0.25	MODEL_9
+1825	d1b065fa9da0f154	a plate of nachos with salad	8.0	4.0	0.5	MODEL_3
+1826	d1b065fa9da0f154	the food was served at the restaurant .	10.0	10.0	1.0	MODEL_11
+1827	d1b065fa9da0f154	the most important meal of the day	9.0	3.0	0.375	MODEL_7
+1828	d217af34313137e8	person , a clown , is shown in a photo .	10.0	9.0	0.875	MODEL_11
+1829	d217af34313137e8	person on a skateboard with a skateboard	9.0	3.0	0.375	MODEL_7
+1830	d217af34313137e8	person , a skateboarder , and a skateboard , is seen .	9.0	2.0	0.25	MODEL_6
+1831	d217af34313137e8	elf on the shelf ideas	9.0	2.0	0.25	MODEL_3
+1832	d27e02e105f00834	person , who was born , was born .	8.0	1.0	0.125	MODEL_11
+1833	d27e02e105f00834	person helps a team of volunteers	10.0	9.0	0.875	MODEL_6
+1834	d27e02e105f00834	volunteers working in the jungle	9.0	4.0	0.5	MODEL_7
+1835	d27e02e105f00834	students working in the community garden	9.0	4.0	0.5	MODEL_3
+1836	d2da9edd1237187f	a bridge in the woods	8.0	7.0	0.875	MODEL_7
+1837	d2da9edd1237187f	a bridge over a stream	10.0	6.0	0.625	MODEL_6
+1838	d2da9edd1237187f	the path to the beach	9.0	1.0	0.125	MODEL_11
+1839	d2da9edd1237187f	old bridge over the river	10.0	9.0	0.875	MODEL_3
+1840	d2dd33c55b6dfeb9	photo taken at show by person	9.0	3.0	0.375	MODEL_8
+1841	d2dd33c55b6dfeb9	a man looks at a smartphone .	9.0	4.0	0.5	MODEL_0
+1842	d3047434f6e60b49	ruins of the ancient city	10.0	10.0	1.0	MODEL_7
+1843	d3047434f6e60b49	the ruins of the ancient citadel	9.0	9.0	1.0	MODEL_11
+1844	d3047434f6e60b49	the ruins of the ancient city	9.0	8.0	0.875	MODEL_6
+1845	d3047434f6e60b49	looking back at the pile of rubble	10.0	8.0	0.75	MODEL_3
+1846	d351d30977fb199e	the building is located in the heart .	8.0	0.0	0.0	MODEL_10
+1847	d351d30977fb199e	the main street of town	9.0	9.0	1.0	MODEL_9
+1848	d351d30977fb199e	the main street of town	10.0	4.0	0.375	MODEL_1
+1849	d351d30977fb199e	a city in the past , history	8.0	5.0	0.625	MODEL_2
+1850	d36be5f455aa530b	the texture of the wall	8.0	7.0	0.875	MODEL_2
+1851	d36be5f455aa530b	a background of a red and grey pattern	8.0	5.0	0.625	MODEL_10
+1852	d36be5f455aa530b	texture of a grey and brown background	9.0	4.0	0.5	MODEL_9
+1853	d36be5f455aa530b	texture of a grey and brown background	8.0	6.0	0.75	MODEL_1
+1854	d376abf3e677134f	fish for sale in the market	9.0	8.0	0.875	MODEL_0
+1855	d376abf3e677134f	fish for sale at a market	9.0	7.0	0.75	MODEL_4
+1856	d376abf3e677134f	fresh fish on the beach	9.0	2.0	0.25	MODEL_8
+1857	d376abf3e677134f	fresh fish on the beach	9.0	6.0	0.625	MODEL_5
+1858	d37b44d7bdfd6e68	close up of the flowers	10.0	2.0	0.25	MODEL_11
+1859	d37b44d7bdfd6e68	biological species on the trail	10.0	6.0	0.625	MODEL_7
+1860	d37b44d7bdfd6e68	a black - headed mountain biker sits on a branch of a tree .	8.0	0.0	0.0	MODEL_6
+1861	d37b44d7bdfd6e68	close up of the flowers	10.0	10.0	1.0	MODEL_3
+1862	d3bac39391d8d0f8	green grass and trees in the background	9.0	7.0	0.75	MODEL_2
+1863	d3bac39391d8d0f8	the grass is a popular way to the park .	9.0	4.0	0.5	MODEL_10
+1864	d3bac39391d8d0f8	the garden from the garden	10.0	8.0	0.75	MODEL_9
+1865	d3bac39391d8d0f8	the garden from the garden	9.0	7.0	0.75	MODEL_1
+1866	d3de865eea84ac9a	a beautiful day at the beach	10.0	9.0	0.875	MODEL_9
+1867	d3de865eea84ac9a	a beautiful day at the beach	8.0	3.0	0.375	MODEL_1
+1868	d3de865eea84ac9a	the beach is a beautiful place to take a walk .	10.0	8.0	0.75	MODEL_10
+1869	d477c6f830c731b6	this is my mom ' s family !	9.0	1.0	0.125	MODEL_4
+1870	d477c6f830c731b6	3d render of the little pigeons	8.0	2.0	0.25	MODEL_5
+1871	d477c6f830c731b6	pink balloons in the shape of hearts .	9.0	1.0	0.125	MODEL_8
+1872	d477c6f830c731b6	a yellow and green toy from the ####s	9.0	3.0	0.375	MODEL_0
+1873	d485c4b988822b87	a group of people on the streets .	9.0	4.0	0.5	MODEL_8
+1874	d485c4b988822b87	a man and a woman on the street	9.0	6.0	0.625	MODEL_5
+1875	d485c4b988822b87	a group of people sitting on a bench	10.0	8.0	0.75	MODEL_0
+1876	d485c4b988822b87	people sitting on a bench	10.0	10.0	1.0	MODEL_4
+1877	d593db1b5c25f6ff	a city is a city .	9.0	2.0	0.25	MODEL_6
+1878	d593db1b5c25f6ff	a day at the beach	9.0	8.0	0.875	MODEL_7
+1879	d593db1b5c25f6ff	painting artist on the beach	8.0	7.0	0.875	MODEL_11
+1880	d593db1b5c25f6ff	painting artist on the beach	9.0	1.0	0.125	MODEL_3
+1881	d602983a6c8d9643	a view of the lobby	8.0	7.0	0.875	MODEL_11
+1882	d602983a6c8d9643	christmas market in the city	8.0	5.0	0.625	MODEL_6
+1883	d602983a6c8d9643	christmas market in the city	9.0	4.0	0.5	MODEL_7
+1884	d67e174474684d5f	a view from the top .	9.0	9.0	1.0	MODEL_5
+1885	d67e174474684d5f	the view from the top .	10.0	6.0	0.625	MODEL_8
+1886	d67e174474684d5f	view from the top of the hill	9.0	7.0	0.75	MODEL_0
+1887	d67e174474684d5f	a view from the top	9.0	8.0	0.875	MODEL_4
+1888	d6a1f270e09e2ab1	a train passes through a city .	10.0	6.0	0.625	MODEL_9
+1889	d6a1f270e09e2ab1	a train passes through a city .	10.0	8.0	0.75	MODEL_1
+1890	d6a1f270e09e2ab1	a train travels along the route .	9.0	9.0	1.0	MODEL_2
+1891	d6a1f270e09e2ab1	a train pulls into the station .	10.0	8.0	0.75	MODEL_10
+1892	d6d1364c8cbd95b7	new parachute in the sky	9.0	0.0	0.0	MODEL_4
+1893	d6d1364c8cbd95b7	the aircraft is seen flying over the city	9.0	4.0	0.5	MODEL_0
+1894	d7631da30e1a9926	dragonfly perched on a leaf	8.0	8.0	1.0	MODEL_2
+1895	d7631da30e1a9926	dragonfly on a leaf in the morning sun	10.0	8.0	0.75	MODEL_10
+1896	d7631da30e1a9926	dragonfly on a leaf in the rain forest	10.0	8.0	0.75	MODEL_9
+1897	d7631da30e1a9926	dragonfly on a leaf in the rain forest	9.0	8.0	0.875	MODEL_1
+1898	d7841ad52c5682ed	a plant in the rain	10.0	2.0	0.25	MODEL_0
+1899	d7841ad52c5682ed	the beauty of the jungle	10.0	8.0	0.75	MODEL_8
+1900	d7841ad52c5682ed	the water runs through the forest	10.0	10.0	1.0	MODEL_5
+1901	d7841ad52c5682ed	looking up at the trees	10.0	1.0	0.125	MODEL_4
+1902	d838a65df6eb967b	the statue of military commander	9.0	4.0	0.5	MODEL_10
+1903	d838a65df6eb967b	the statue of liberty is a symbol of the new arts	9.0	1.0	0.125	MODEL_9
+1904	d8bee2877d2a8e93	the streets of a city	9.0	9.0	1.0	MODEL_11
+1905	d8bee2877d2a8e93	the streets are a must - see .	10.0	8.0	0.75	MODEL_6
+1906	d8bee2877d2a8e93	a city in the past , history	9.0	6.0	0.625	MODEL_7
+1907	d8bee2877d2a8e93	the streets of a city	9.0	4.0	0.5	MODEL_3
+1908	d912781249b1f05c	a silver and gold silver plated silver plated silver plated silver plated silver plated silver plated silver	8.0	4.0	0.5	MODEL_5
+1909	d912781249b1f05c	this is a photo of a silver and gold ring .	9.0	1.0	0.125	MODEL_8
+1910	d912781249b1f05c	a stack of gold coins	9.0	1.0	0.125	MODEL_0
+1911	d9386b9fb489a207	the wall of the house	9.0	4.0	0.5	MODEL_2
+1912	d9386b9fb489a207	the house where person lived in .	10.0	4.0	0.375	MODEL_10
+1913	d9386b9fb489a207	the interior of the building	10.0	8.0	0.75	MODEL_9
+1914	d9386b9fb489a207	the interior of the building	8.0	7.0	0.875	MODEL_1
+1915	d94456980467d935	the car is a popular sport	10.0	2.0	0.25	MODEL_5
+1916	d94456980467d935	automotive industry business at show	10.0	2.0	0.25	MODEL_8
+1917	d94456980467d935	the car in the parking lot	10.0	6.0	0.625	MODEL_0
+1918	d94456980467d935	automobile model at the show	10.0	9.0	0.875	MODEL_4
+1919	d9a7c4ab20fccdbc	a mural on the side of a building	9.0	8.0	0.875	MODEL_9
+1920	d9a7c4ab20fccdbc	a mural on the side of a building	9.0	7.0	0.75	MODEL_1
+1921	d9a7c4ab20fccdbc	the graffiti on the wall	10.0	9.0	0.875	MODEL_10
+1922	d9a7c4ab20fccdbc	graffiti on the side of a building	8.0	7.0	0.875	MODEL_2
+1923	da20ed545ddbf74f	the last of our last night !	8.0	2.0	0.25	MODEL_6
+1924	da20ed545ddbf74f	group of young people jumping on the mountain	9.0	9.0	1.0	MODEL_3
+1925	da20ed545ddbf74f	group of young people jumping on the mountain	9.0	1.0	0.125	MODEL_11
+1926	da237a5cc7e6b172	a sign on the gate	9.0	7.0	0.75	MODEL_5
+1927	da237a5cc7e6b172	decorative wrought iron sign on a door .	9.0	4.0	0.5	MODEL_8
+1928	da237a5cc7e6b172	the gate to the church	9.0	8.0	0.875	MODEL_0
+1929	da237a5cc7e6b172	iron gate at the entrance	8.0	8.0	1.0	MODEL_4
+1930	da494145565d1020	view from the garden in advert	10.0	9.0	0.875	MODEL_0
+1931	da494145565d1020	a view of the roof	10.0	9.0	0.875	MODEL_4
+1932	da494145565d1020	the view from the roof .	9.0	9.0	1.0	MODEL_5
+1933	da494145565d1020	another view of the gardens .	10.0	8.0	0.75	MODEL_8
+1934	dab771a0732c5a09	the fountain in the park	10.0	10.0	1.0	MODEL_9
+1935	dab771a0732c5a09	the fountain at the entrance .	9.0	7.0	0.75	MODEL_2
+1936	dab771a0732c5a09	the fountain in the park	9.0	1.0	0.125	MODEL_1
+1937	daed1aaf566c6da5	a scene from the movie .	10.0	8.0	0.75	MODEL_8
+1938	daed1aaf566c6da5	the - series of - screenshot	9.0	4.0	0.5	MODEL_5
+1939	daed1aaf566c6da5	the cast of science fiction tv program	9.0	8.0	0.875	MODEL_4
+1940	daed1aaf566c6da5	a view of the statue	10.0	0.0	0.0	MODEL_0
+1941	daf83bf750e5b9c6	a new line of drawings	9.0	1.0	0.125	MODEL_5
+1942	daf83bf750e5b9c6	how to draw a cartoon character on a wall	10.0	2.0	0.25	MODEL_8
+1943	daf83bf750e5b9c6	the manhole cover on the street	9.0	6.0	0.625	MODEL_0
+1944	daf83bf750e5b9c6	cool drawings on the sidewalk	10.0	2.0	0.25	MODEL_4
+1945	db8ca626f8a8fdc5	automobile model at the airport .	10.0	2.0	0.25	MODEL_8
+1946	db8ca626f8a8fdc5	automobile model , on the way to the airport .	10.0	4.0	0.375	MODEL_5
+1947	db8ca626f8a8fdc5	the car was left in the parking lot	9.0	4.0	0.5	MODEL_0
+1948	db8ca626f8a8fdc5	the car in the shop	8.0	1.0	0.125	MODEL_4
+1949	dbca0b1a89765f37	the menu of the menu	10.0	8.0	0.75	MODEL_7
+1950	dbca0b1a89765f37	the menu of the restaurant	8.0	3.0	0.375	MODEL_6
+1951	dbca0b1a89765f37	the inside of the restaurant	10.0	2.0	0.25	MODEL_11
+1952	dbca0b1a89765f37	the inside of the restaurant	9.0	4.0	0.5	MODEL_3
+1953	dc949f0345097d25	the living room of the hotel	8.0	0.0	0.0	MODEL_6
+1954	dc949f0345097d25	installation view of the exhibition	9.0	4.0	0.5	MODEL_7
+1955	dc949f0345097d25	another view of the living room	9.0	2.0	0.25	MODEL_3
+1956	dd7cccc0ac9fdefd	bread on a wooden table	10.0	2.0	0.25	MODEL_2
+1957	dd7cccc0ac9fdefd	fresh bread on a wooden board	10.0	0.0	0.0	MODEL_10
+1958	dd7cccc0ac9fdefd	a teddy bear is seen .	8.0	8.0	1.0	MODEL_9
+1959	dd7cccc0ac9fdefd	a teddy bear is seen .	10.0	6.0	0.625	MODEL_1
+1960	dd7edb2a0e3085ee	a carving of a carving	10.0	2.0	0.25	MODEL_10
+1961	dd7edb2a0e3085ee	carvings on the exterior of a building	8.0	6.0	0.75	MODEL_2
+1962	dd7edb2a0e3085ee	the statue of military commander	10.0	8.0	0.75	MODEL_1
+1963	dd7edb2a0e3085ee	the statue of military commander	9.0	1.0	0.125	MODEL_9
+1964	dd89ece9812a1cac	a crowd of people crossing the road	10.0	9.0	0.875	MODEL_2
+1965	dd89ece9812a1cac	people crossing the road at the crosswalk	9.0	9.0	1.0	MODEL_10
+1966	dd89ece9812a1cac	people crossing the road in front of a store	10.0	8.0	0.75	MODEL_9
+1967	dd89ece9812a1cac	people crossing the road in front of a store	10.0	9.0	0.875	MODEL_1
+1968	de9d019f7ec88a6f	the road to the border	8.0	5.0	0.625	MODEL_0
+1969	de9d019f7ec88a6f	on the road to person	8.0	3.0	0.375	MODEL_8
+1970	de9d019f7ec88a6f	driving on the road to person	10.0	2.0	0.25	MODEL_5
+1971	dec38cff92af7887	a hand writing on a notepad	9.0	6.0	0.625	MODEL_0
+1972	dec38cff92af7887	person using a calculator at work	9.0	3.0	0.375	MODEL_4
+1973	dec38cff92af7887	how to write a notebook on paper	10.0	2.0	0.25	MODEL_8
+1974	dec38cff92af7887	a student writing on a paper	8.0	3.0	0.375	MODEL_5
+1975	dec47e9312ca06af	basketball player in action against sports team	9.0	8.0	0.875	MODEL_4
+1976	dec47e9312ca06af	the basketball team played basketball team at home in a match .	9.0	6.0	0.625	MODEL_0
+1977	df0d4ab05a00cebb	one of the many churches	8.0	6.0	0.75	MODEL_3
+1978	df0d4ab05a00cebb	the front of the building	10.0	9.0	0.875	MODEL_7
+1979	df0d4ab05a00cebb	the exterior of the building	10.0	9.0	0.875	MODEL_6
+1980	df0d4ab05a00cebb	one of the many churches	9.0	7.0	0.75	MODEL_11
+1981	df480898589edafa	children play in the fountain .	10.0	2.0	0.25	MODEL_9
+1982	df480898589edafa	children play in the fountain .	9.0	8.0	0.875	MODEL_1
+1983	df480898589edafa	the fountain at the entrance	8.0	4.0	0.5	MODEL_2
+1984	dfd64b0faa292db4	coins of the - photo sharing !	9.0	4.0	0.5	MODEL_3
+1985	dfd64b0faa292db4	coin of monarch , ##th century	8.0	6.0	0.75	MODEL_7
+1986	dfd64b0faa292db4	a bronze medal , ##th century	9.0	7.0	0.75	MODEL_6
+1987	dfd64b0faa292db4	coins of the - photo sharing !	8.0	7.0	0.875	MODEL_11
+1988	e0285a23c3c13313	the stairs in the house	9.0	6.0	0.625	MODEL_0
+1989	e0285a23c3c13313	a bench at the train station	10.0	2.0	0.25	MODEL_4
+1990	e0285a23c3c13313	the interior of the house	8.0	3.0	0.375	MODEL_5
+1991	e0285a23c3c13313	this is an example of architecture .	9.0	6.0	0.625	MODEL_8
+1992	e0298be5e6be02c2	how to make a hammer out of wood	8.0	0.0	0.0	MODEL_3
+1993	e0298be5e6be02c2	how to draw a pencil step by step	8.0	2.0	0.25	MODEL_7
+1994	e0298be5e6be02c2	a pencil with a pencil	9.0	6.0	0.625	MODEL_6
+1995	e0298be5e6be02c2	how to make a hammer out of wood	9.0	2.0	0.25	MODEL_11
+1996	e0e7ff370e051dd7	person , the duck , was found in the garden .	10.0	4.0	0.375	MODEL_10
+1997	e0e7ff370e051dd7	duck with a baby bird	10.0	10.0	1.0	MODEL_1
+1998	e0e7ff370e051dd7	duck with a baby bird	9.0	2.0	0.25	MODEL_9
+1999	e0e7ff370e051dd7	look at that big duck !	9.0	9.0	1.0	MODEL_2
+2000	e10687037f8fe098	soldiers stand guard at the border .	10.0	8.0	0.75	MODEL_0
+2001	e10687037f8fe098	soldiers stand in formation during a military parade	8.0	3.0	0.375	MODEL_4
+2002	e10687037f8fe098	a soldier stands in front .	9.0	7.0	0.75	MODEL_8
+2003	e10687037f8fe098	a soldier is seen in this file photo .	8.0	8.0	1.0	MODEL_5
+2004	e12a5d597dbc7c56	a man walks past a sign .	10.0	1.0	0.125	MODEL_0
+2005	e12a5d597dbc7c56	filming location in the morning .	9.0	4.0	0.5	MODEL_8
+2006	e12a5d597dbc7c56	the sun sets over filming location .	9.0	4.0	0.5	MODEL_5
+2007	e12a5d597dbc7c56	little sunflower in a cap	9.0	0.0	0.0	MODEL_4
+2008	e1835bc2cdb34420	sports equipment business is here !	10.0	5.0	0.5	MODEL_8
+2009	e1835bc2cdb34420	the shoes are a common sight .	9.0	4.0	0.5	MODEL_5
+2010	e1835bc2cdb34420	image : new images of image #	9.0	4.0	0.5	MODEL_4
+2011	e1835bc2cdb34420	a new pair of shoes .	10.0	8.0	0.75	MODEL_0
+2012	e277fbf1f7c4818e	the dome of the mosque	10.0	6.0	0.625	MODEL_0
+2013	e277fbf1f7c4818e	a view of the dome .	8.0	7.0	0.875	MODEL_8
+2014	e277fbf1f7c4818e	the towers of the cathedral	8.0	6.0	0.75	MODEL_5
+2015	e29d6ff5faf52a16	a house in the forest	9.0	1.0	0.125	MODEL_10
+2016	e29d6ff5faf52a16	the house is on the market for $#.## million .	10.0	1.0	0.125	MODEL_9
+2017	e29d6ff5faf52a16	the house is on the market for $#.## million .	10.0	8.0	0.75	MODEL_1
+2018	e29d6ff5faf52a16	a view of the house .	10.0	5.0	0.5	MODEL_2
+2019	e35e018c20968bf8	railroad tracks along the train tracks	9.0	6.0	0.625	MODEL_3
+2020	e35e018c20968bf8	a view of the train tracks .	10.0	9.0	0.875	MODEL_7
+2021	e35e018c20968bf8	a train passes through the station .	8.0	1.0	0.125	MODEL_6
+2022	e35e018c20968bf8	railroad tracks along the train tracks	9.0	3.0	0.375	MODEL_11
+2023	e37609108262432b	another view of the kitchen	8.0	5.0	0.625	MODEL_4
+2024	e37609108262432b	another view of the dining room .	11.0	6.0	0.5	MODEL_8
+2025	e37609108262432b	the kitchen and dining room	10.0	1.0	0.125	MODEL_0
+2026	e37ab075062d905a	the green grass on the hill	9.0	7.0	0.75	MODEL_10
+2027	e37ab075062d905a	a city is a city	8.0	1.0	0.125	MODEL_9
+2028	e37ab075062d905a	a city is a city	9.0	4.0	0.5	MODEL_1
+2029	e37ab075062d905a	a city from the sky	8.0	1.0	0.125	MODEL_2
+2030	e3bbc06800fe1cf0	a view of the lobby	10.0	9.0	0.875	MODEL_4
+2031	e3bbc06800fe1cf0	the interior of the building .	8.0	7.0	0.875	MODEL_8
+2032	e3fbb0c39a598412	lock on the white background	10.0	6.0	0.625	MODEL_0
+2033	e3fbb0c39a598412	vending machines in a vending machine	8.0	5.0	0.625	MODEL_8
+2034	e3fbb0c39a598412	the vending machine is a big vending machine .	10.0	5.0	0.5	MODEL_5
+2035	e3fbb0c39a598412	free shipping on orders over $ ## !	10.0	5.0	0.5	MODEL_4
+2036	e41a88dd3c2c8a22	film character and person at a fashion show	9.0	4.0	0.5	MODEL_2
+2037	e41a88dd3c2c8a22	person and the cast of musical comedy film	9.0	7.0	0.75	MODEL_10
+2038	e41a88dd3c2c8a22	person , center , and person , performs at the opening night .	9.0	6.0	0.625	MODEL_9
+2039	e41a88dd3c2c8a22	person , center , and person , performs at the opening night .	8.0	3.0	0.375	MODEL_1
+2040	e4a7e3055699a5b8	person on the summit of person	10.0	4.0	0.375	MODEL_0
+2041	e4a7e3055699a5b8	me and me on the summit	10.0	4.0	0.375	MODEL_8
+2042	e4a7e3055699a5b8	person on the summit of person	10.0	5.0	0.5	MODEL_4
+2043	e4a7e3055699a5b8	person on the summit of person	9.0	4.0	0.5	MODEL_5
+2044	e4c2f70d29ccff8f	a fly on a leaf	9.0	7.0	0.75	MODEL_9
+2045	e4c2f70d29ccff8f	a fly on a leaf	9.0	4.0	0.5	MODEL_1
+2046	e4c2f70d29ccff8f	a fly on a leaf	10.0	6.0	0.625	MODEL_2
+2047	e4dd86ee3d29329e	animals that start with h - photo #	8.0	2.0	0.25	MODEL_7
+2048	e4dd86ee3d29329e	the animals of the world	9.0	8.0	0.875	MODEL_6
+2049	e4dd86ee3d29329e	animals that start with h - photo #	8.0	1.0	0.125	MODEL_3
+2050	e53fc8aa7402aa5a	a gingerbread house with a gingerbread house	8.0	7.0	0.875	MODEL_4
+2051	e53fc8aa7402aa5a	a gingerbread house decorated for western christian holiday	10.0	8.0	0.75	MODEL_8
+2052	e53fc8aa7402aa5a	a gingerbread house with a gingerbread house	9.0	6.0	0.625	MODEL_0
+2053	e53fc8aa7402aa5a	gingerbread house decorated with gingerbread house and gingerbread house .	9.0	4.0	0.5	MODEL_5
+2054	e5843dd2e7177b79	the beach is a beautiful place to go .	8.0	7.0	0.875	MODEL_10
+2055	e5843dd2e7177b79	waves on the beach at sunset	10.0	8.0	0.75	MODEL_9
+2056	e5843dd2e7177b79	waves on the beach at sunset	10.0	6.0	0.625	MODEL_1
+2057	e5843dd2e7177b79	the beach in the morning	8.0	8.0	1.0	MODEL_2
+2058	e5d3dd3fa675aa41	the master bedroom with a view	9.0	4.0	0.5	MODEL_10
+2059	e5d3dd3fa675aa41	a room with a view	8.0	2.0	0.25	MODEL_9
+2060	e5d3dd3fa675aa41	a room with a view	10.0	9.0	0.875	MODEL_1
+2061	e5d3dd3fa675aa41	another view of the room	8.0	8.0	1.0	MODEL_2
+2062	e649f28453498aae	view of the lake from the garden	10.0	8.0	0.75	MODEL_8
+2063	e649f28453498aae	the garden of the house	11.0	6.0	0.5	MODEL_5
+2064	e649f28453498aae	the view from the garden	9.0	7.0	0.75	MODEL_4
+2065	e649f28453498aae	the view from the garden	10.0	8.0	0.75	MODEL_0
+2066	e6b72e57ba5765c7	the light at the end of the tunnel	9.0	3.0	0.375	MODEL_4
+2067	e6b72e57ba5765c7	the light of the world	8.0	4.0	0.5	MODEL_8
+2068	e6b72e57ba5765c7	a light in the dark	10.0	6.0	0.625	MODEL_5
+2069	e6b72e57ba5765c7	the light at the end of the tunnel	8.0	2.0	0.25	MODEL_0
+2070	e6cad53546564567	an illustration for the story	8.0	7.0	0.875	MODEL_2
+2071	e6cad53546564567	a drawing of a book	9.0	6.0	0.625	MODEL_10
+2072	e6cad53546564567	pink and purple wedding invitation with a pink floral pattern	8.0	5.0	0.625	MODEL_9
+2073	e6cad53546564567	pink and purple wedding invitation with a pink floral pattern	10.0	2.0	0.25	MODEL_1
+2074	e73a166375d8458c	emergency services at the scene	10.0	10.0	1.0	MODEL_2
+2075	e73a166375d8458c	emergency services at the scene	8.0	6.0	0.75	MODEL_10
+2076	e73a166375d8458c	police officers stand guard as a police officer stands guard .	10.0	8.0	0.75	MODEL_1
+2077	e73a166375d8458c	police officers stand guard as a police officer stands guard .	9.0	3.0	0.375	MODEL_9
+2078	e77fcc82287662f5	a sailor on a boat	10.0	1.0	0.125	MODEL_9
+2079	e77fcc82287662f5	a sailor on a boat	9.0	3.0	0.375	MODEL_1
+2080	e77fcc82287662f5	love the color of the wall !	9.0	1.0	0.125	MODEL_2
+2081	e77fcc82287662f5	i love the idea of having a wall hanging from the ceiling .	8.0	4.0	0.5	MODEL_10
+2082	e806630ce0c0dc0a	the logo is displayed at the event .	10.0	8.0	0.75	MODEL_6
+2083	e806630ce0c0dc0a	the logo is displayed at the event .	9.0	8.0	0.875	MODEL_7
+2084	e806630ce0c0dc0a	the logo is seen at the company 's headquarters .	10.0	9.0	0.875	MODEL_11
+2085	e834118945bd40c6	harmony of the ##th century	10.0	2.0	0.25	MODEL_5
+2086	e834118945bd40c6	the art of making a blackboard	9.0	3.0	0.375	MODEL_0
+2087	e834118945bd40c6	the art of making a blackboard	9.0	4.0	0.5	MODEL_4
+2088	e85e24513a34f414	i 'm a sucker for a tattoo	10.0	2.0	0.25	MODEL_0
+2089	e85e24513a34f414	a t - shirt from person	10.0	6.0	0.625	MODEL_8
+2090	e85e24513a34f414	garment - i need this shirt	8.0	4.0	0.5	MODEL_5
+2091	e85e24513a34f414	i 'm a sucker for a tattoo	9.0	2.0	0.25	MODEL_4
+2092	e86d5a418d97fd16	the beach on the south side	8.0	5.0	0.625	MODEL_11
+2093	e86d5a418d97fd16	the pier is a short walk from the dock .	8.0	7.0	0.875	MODEL_6
+2094	e86d5a418d97fd16	the view from our balcony	8.0	2.0	0.25	MODEL_3
+2095	e8a9bf308d42c0a3	the ruins of the old city	9.0	9.0	1.0	MODEL_10
+2096	e8a9bf308d42c0a3	a city in the past , history	9.0	6.0	0.625	MODEL_2
+2097	e8a9bf308d42c0a3	a view of the ship 's bow	10.0	2.0	0.25	MODEL_1
+2098	e8c19734c387bf75	frog in the grass in the spring	8.0	6.0	0.75	MODEL_9
+2099	e8c19734c387bf75	frog in the grass in the spring	9.0	2.0	0.25	MODEL_1
+2100	e8c19734c387bf75	a plant in the garden	10.0	5.0	0.5	MODEL_10
+2101	e8c19734c387bf75	biological species in the jungle	9.0	4.0	0.5	MODEL_2
+2102	e905d08835f4b08a	silhouettes of people dancing on a background of the city	10.0	2.0	0.25	MODEL_4
+2103	e905d08835f4b08a	silhouettes of people dancing on a background of the city	10.0	9.0	0.875	MODEL_0
+2104	e905d08835f4b08a	the crowd of people dancing	9.0	8.0	0.875	MODEL_5
+2105	e905d08835f4b08a	silhouettes of people in the circle	9.0	3.0	0.375	MODEL_8
+2106	e91429a53f4a8f2a	how to make a flag with a pencil	9.0	7.0	0.75	MODEL_4
+2107	e91429a53f4a8f2a	how to make a flag with a pencil	9.0	4.0	0.5	MODEL_0
+2108	e91429a53f4a8f2a	i want to do this for my birthday !	10.0	4.0	0.375	MODEL_8
+2109	e91429a53f4a8f2a	i love the idea of having a chalkboard !	8.0	3.0	0.375	MODEL_5
+2110	e92234c00ef2a0a4	the wiring is made from the wires .	9.0	2.0	0.25	MODEL_4
+2111	e92234c00ef2a0a4	the wiring is made from the wires .	8.0	1.0	0.125	MODEL_0
+2112	e92234c00ef2a0a4	this is the wireless case .	10.0	0.0	0.0	MODEL_8
+2113	e9372ef02d70a78b	a city in the past , history	9.0	4.0	0.5	MODEL_0
+2114	e9372ef02d70a78b	a city in the past , history	8.0	4.0	0.5	MODEL_4
+2115	e9372ef02d70a78b	a bronze statue of military commander stands .	10.0	5.0	0.5	MODEL_5
+2116	e9372ef02d70a78b	a monument to politician on the campus .	9.0	2.0	0.25	MODEL_8
+2117	e9d5ad50ea1a2756	the tree in the wall	8.0	2.0	0.25	MODEL_7
+2118	e9d5ad50ea1a2756	a wall of the building	10.0	9.0	0.875	MODEL_11
+2119	e9d5ad50ea1a2756	the tree in the wall	9.0	4.0	0.5	MODEL_6
+2120	e9d5ad50ea1a2756	an old window in the wall	9.0	4.0	0.5	MODEL_3
+2121	ea5071efecbf2e3e	the cream of the batter	10.0	8.0	0.75	MODEL_2
+2122	ea5071efecbf2e3e	the mixer is a mixture of sugar and cream .	10.0	4.0	0.375	MODEL_10
+2123	ea5071efecbf2e3e	mixing ingredients for a mixture	10.0	2.0	0.25	MODEL_1
+2124	ea5071efecbf2e3e	mixing ingredients for a mixture	9.0	6.0	0.625	MODEL_9
+2125	eaf06a41082dcfc5	the view from the road	8.0	2.0	0.25	MODEL_5
+2126	eaf06a41082dcfc5	the front of the house .	8.0	2.0	0.25	MODEL_8
+2127	eaf06a41082dcfc5	the pavilion is located in the heart of the city .	10.0	2.0	0.25	MODEL_4
+2128	eaf06a41082dcfc5	the pavilion is located in the heart of the city .	10.0	2.0	0.25	MODEL_0
+2129	eafe73b55e048c0f	the skeleton of a human skull	9.0	7.0	0.75	MODEL_0
+2130	eafe73b55e048c0f	the skulls of the skulls	9.0	6.0	0.625	MODEL_5
+2131	eafe73b55e048c0f	skulls from the early ##th century .	8.0	5.0	0.625	MODEL_8
+2132	eafe73b55e048c0f	the skeleton of a human skull	9.0	7.0	0.75	MODEL_4
+2133	eb465c71eb5d1a8f	person speaking at the event	8.0	7.0	0.875	MODEL_11
+2134	eb465c71eb5d1a8f	person speaking at the event	9.0	8.0	0.875	MODEL_6
+2135	eb465c71eb5d1a8f	person speaking at the event	8.0	8.0	1.0	MODEL_3
+2136	eb465c71eb5d1a8f	image may contain : person , on stage , playing a musical instrument and indoor	8.0	3.0	0.375	MODEL_7
+2137	eb9ac2b84ed1daa6	close up of a flower	9.0	9.0	1.0	MODEL_7
+2138	eb9ac2b84ed1daa6	close up of a flower	10.0	8.0	0.75	MODEL_6
+2139	eb9ac2b84ed1daa6	a close up of a flower	10.0	9.0	0.875	MODEL_11
+2140	eb9ac2b84ed1daa6	a close up of the center of a hibiscus flower	10.0	10.0	1.0	MODEL_3
+2141	ebf6dd62e92bd220	organism on the rocks near the river	10.0	8.0	0.75	MODEL_0
+2142	ebf6dd62e92bd220	organism on the rocks near the river	10.0	8.0	0.75	MODEL_4
+2143	ebf6dd62e92bd220	dragonfly on a wall - photo #	10.0	2.0	0.25	MODEL_8
+2144	ebf6dd62e92bd220	the insect is a common insect .	9.0	4.0	0.5	MODEL_5
+2145	ec2f1c5241be9359	young plant in the desert	8.0	3.0	0.375	MODEL_11
+2146	ec2f1c5241be9359	the plant is a little bit of the best .	8.0	3.0	0.375	MODEL_6
+2147	ec2f1c5241be9359	hamster in a sunflower looking at the sunflower	8.0	0.0	0.0	MODEL_3
+2148	ec2f1c5241be9359	there are many different types of flowers .	9.0	4.0	0.5	MODEL_7
+2149	ec651ef3039a7536	dancing in the dance floor	10.0	5.0	0.5	MODEL_6
+2150	ec651ef3039a7536	photo of students in a class	10.0	6.0	0.625	MODEL_3
+2151	ec651ef3039a7536	dancers in the dance floor	9.0	7.0	0.75	MODEL_7
+2152	ec651ef3039a7536	students dancing in a class	9.0	4.0	0.5	MODEL_11
+2153	eca36621a310b4e5	a poster of politician and politician .	8.0	6.0	0.75	MODEL_8
+2154	eca36621a310b4e5	poster of the movie outside the hotel	9.0	2.0	0.25	MODEL_5
+2155	ed696d0106e8d70e	the car was covered in snow	9.0	0.0	0.0	MODEL_6
+2156	ed696d0106e8d70e	stairs that go under water	10.0	2.0	0.25	MODEL_3
+2157	ed696d0106e8d70e	this is what it looks like .	8.0	3.0	0.375	MODEL_7
+2158	ed696d0106e8d70e	a view of the stairs	10.0	2.0	0.25	MODEL_11
+2159	ed69b606c846bbd5	protesters march through the streets .	10.0	8.0	0.75	MODEL_7
+2160	ed69b606c846bbd5	protesters march through the streets .	9.0	6.0	0.625	MODEL_6
+2161	ed69b606c846bbd5	a banner is held up outside the headquarters .	9.0	7.0	0.75	MODEL_11
+2162	ed69b606c846bbd5	a large group of people marching in protest	9.0	6.0	0.625	MODEL_3
+2163	edd89edb40607929	person on a coffee mug	9.0	4.0	0.5	MODEL_2
+2164	edd89edb40607929	coffee cup from the people	10.0	2.0	0.25	MODEL_9
+2165	edd89edb40607929	coffee cup from the people	9.0	6.0	0.625	MODEL_1
+2166	edf2d64ffa69acf9	person , left , and person play on the field .	10.0	2.0	0.25	MODEL_7
+2167	edf2d64ffa69acf9	person , who is the first person to play in the car park .	9.0	4.0	0.5	MODEL_6
+2168	edf2d64ffa69acf9	a group of students practicing yoga on the beach .	9.0	3.0	0.375	MODEL_11
+2169	edf2d64ffa69acf9	a child plays with an inflatable toy	9.0	4.0	0.5	MODEL_3
+2170	ee0a7df8a4a84908	a view of the ships	10.0	8.0	0.75	MODEL_8
+2171	ee0a7df8a4a84908	ship , a replica of the ship	11.0	7.0	0.625	MODEL_5
+2172	ee0a7df8a4a84908	a ship docked in the port	10.0	8.0	0.75	MODEL_0
+2173	ee0a7df8a4a84908	a ship docked in the port	9.0	8.0	0.875	MODEL_4
+2174	ee51f6132c56b52a	person performs on stage during a concert .	9.0	9.0	1.0	MODEL_4
+2175	ee51f6132c56b52a	person performs on stage during a concert .	9.0	7.0	0.75	MODEL_0
+2176	ee51f6132c56b52a	image may contain : person , on stage , playing a musical instrument and concert	9.0	7.0	0.75	MODEL_8
+2177	ee53af086bc76845	the corridor of the building	8.0	8.0	1.0	MODEL_2
+2178	ee53af086bc76845	the entrance to the building	10.0	6.0	0.625	MODEL_10
+2179	ee53af086bc76845	the entrance to the building	9.0	4.0	0.5	MODEL_9
+2180	ee53af086bc76845	the entrance to the building	8.0	6.0	0.75	MODEL_1
+2181	ee975b5386202b3a	wedding flowers on the table	10.0	9.0	0.875	MODEL_11
+2182	ee975b5386202b3a	flowers in a white vase	10.0	6.0	0.625	MODEL_7
+2183	ee975b5386202b3a	a wedding with a hint of gold	9.0	6.0	0.625	MODEL_6
+2184	ee975b5386202b3a	white flowers in a glass vase	10.0	9.0	0.875	MODEL_3
+2185	eec27ce8bd7c5bd3	animal pictures of the year	8.0	7.0	0.875	MODEL_0
+2186	eec27ce8bd7c5bd3	animal pictures of the year	9.0	2.0	0.25	MODEL_4
+2187	eec27ce8bd7c5bd3	husky puppy with a blue background	10.0	4.0	0.375	MODEL_5
+2188	eec27ce8bd7c5bd3	husky puppies that look like bears - photo #	9.0	7.0	0.75	MODEL_8
+2189	eeda85cc960a17d6	the flower of the orchid	8.0	6.0	0.75	MODEL_2
+2190	eeda85cc960a17d6	person in a vase with flowers	10.0	2.0	0.25	MODEL_10
+2191	eeda85cc960a17d6	flower arrangement with a camera	9.0	3.0	0.375	MODEL_9
+2192	eeda85cc960a17d6	flower arrangement with a camera	10.0	9.0	0.875	MODEL_1
+2193	ef0c30d69f4ad847	the view from our room	9.0	9.0	1.0	MODEL_2
+2194	ef0c30d69f4ad847	view from the top of the mountain	10.0	5.0	0.5	MODEL_10
+2195	ef0c30d69f4ad847	office worker sitting in the sunflower	8.0	2.0	0.25	MODEL_1
+2196	ef9bee40c6480c0f	person , left , and person speak to the audience .	9.0	8.0	0.875	MODEL_5
+2197	ef9bee40c6480c0f	image may contain : person , smiling , on stage , playing a musical instrument and indoor	10.0	8.0	0.75	MODEL_8
+2198	ef9bee40c6480c0f	person , left , and person , discuss the new event .	10.0	6.0	0.625	MODEL_0
+2199	ef9bee40c6480c0f	person , left , and person , discuss the new event .	9.0	8.0	0.875	MODEL_4
+2200	efd530901e29e7eb	yellow flowers on a tree	10.0	10.0	1.0	MODEL_9
+2201	efd530901e29e7eb	biological genus in the rain	9.0	3.0	0.375	MODEL_2
+2202	efd530901e29e7eb	biological species in the tree	9.0	4.0	0.5	MODEL_10
+2203	eff35ea5581962c1	a field of white daisies	10.0	10.0	1.0	MODEL_9
+2204	eff35ea5581962c1	black and white photograph of a flower .	10.0	10.0	1.0	MODEL_2
+2205	eff35ea5581962c1	black and white photograph of a flower .	9.0	9.0	1.0	MODEL_10
+2206	eff35ea5581962c1	a field of white daisies	9.0	4.0	0.5	MODEL_1
+2207	f03015db0165b5b5	the walls of the castle	9.0	4.0	0.5	MODEL_11
+2208	f03015db0165b5b5	inside the ancient temple of deity	8.0	1.0	0.125	MODEL_3
+2209	f03015db0165b5b5	tourist attraction in the temple	10.0	6.0	0.625	MODEL_7
+2210	f086fd127510433a	statues of author in a gallery	9.0	3.0	0.375	MODEL_1
+2211	f086fd127510433a	a statue of a man in a snow - covered landscape .	9.0	3.0	0.375	MODEL_10
+2212	f086fd127510433a	a statue in the snow	10.0	2.0	0.25	MODEL_2
+2213	f086fd127510433a	statues of author in a gallery	10.0	4.0	0.375	MODEL_9
+2214	f10e0684ba5647ae	the front of the building	10.0	9.0	0.875	MODEL_11
+2215	f10e0684ba5647ae	the hotel from the street	8.0	8.0	1.0	MODEL_3
+2216	f10e0684ba5647ae	a city for sale property .	10.0	5.0	0.5	MODEL_7
+2217	f10e0684ba5647ae	the building from the street	8.0	7.0	0.875	MODEL_6
+2218	f1d9ad68dbb56ce2	young woman sitting on the beach and watching the sunset	9.0	7.0	0.75	MODEL_0
+2219	f1d9ad68dbb56ce2	life is better at the beach	10.0	10.0	1.0	MODEL_8
+2220	f1d9ad68dbb56ce2	young woman sitting on the beach and watching the sunset	9.0	7.0	0.75	MODEL_4
+2221	f1d9ad68dbb56ce2	the sun sets on the beach .	10.0	8.0	0.75	MODEL_5
+2222	f1e5c97dff37bf5a	this is a picture of the day .	9.0	4.0	0.5	MODEL_8
+2223	f1e5c97dff37bf5a	the text is a good way to get a picture of your computer	8.0	0.0	0.0	MODEL_5
+2224	f1e5c97dff37bf5a	a banner showing the logo for the event	9.0	4.0	0.5	MODEL_0
+2225	f2b01955605d87b4	a city in the sky	10.0	6.0	0.625	MODEL_5
+2226	f2b01955605d87b4	a city in the background	10.0	6.0	0.625	MODEL_0
+2227	f2b01955605d87b4	a city in the background .	10.0	5.0	0.5	MODEL_8
+2228	f2b01955605d87b4	a city in the background	10.0	8.0	0.75	MODEL_4
+2229	f2c85ba303f4a7df	the art of painting artist	8.0	4.0	0.5	MODEL_4
+2230	f2c85ba303f4a7df	the art of painting artist	9.0	7.0	0.75	MODEL_0
+2231	f2c85ba303f4a7df	the art of painting artist	10.0	8.0	0.75	MODEL_8
+2232	f2cf6b865c24db1a	a flower in the garden	9.0	9.0	1.0	MODEL_11
+2233	f2cf6b865c24db1a	flowers are the most beautiful flowers in the world .	10.0	5.0	0.5	MODEL_6
+2234	f2cf6b865c24db1a	this is a wild geranium	8.0	6.0	0.75	MODEL_3
+2235	f2cf6b865c24db1a	biological species is one of the most beautiful flowers in the world .	9.0	6.0	0.625	MODEL_7
+2236	f32ea26daa9105f5	the parking lot next to the church	9.0	4.0	0.5	MODEL_1
+2237	f3bb26c7d9ee0532	the elephant at the zoo	10.0	9.0	0.875	MODEL_10
+2238	f3bb26c7d9ee0532	the elephant at the sanctuary	8.0	6.0	0.75	MODEL_2
+2239	f3bb26c7d9ee0532	a group of elephants is grazing	8.0	2.0	0.25	MODEL_1
+2240	f3bb26c7d9ee0532	a group of elephants is grazing	9.0	3.0	0.375	MODEL_9
+2241	f3c9f3022e8019e4	the first of the year	8.0	4.0	0.5	MODEL_6
+2242	f3c9f3022e8019e4	arrange all the ingredients together	8.0	6.0	0.75	MODEL_3
+2243	f3c9f3022e8019e4	these are some of the different types of cupcakes .	10.0	2.0	0.25	MODEL_7
+2244	f3c9f3022e8019e4	a variety of different vegetables	10.0	10.0	1.0	MODEL_11
+2245	f4294a1e1d7f8d04	the building is seen in this undated image .	9.0	4.0	0.5	MODEL_0
+2246	f4294a1e1d7f8d04	view from the observation deck .	8.0	6.0	0.75	MODEL_8
+2247	f4294a1e1d7f8d04	the building is seen in this undated image .	9.0	2.0	0.25	MODEL_4
+2248	f44684b7adb997c8	a man rides an elephant	10.0	1.0	0.125	MODEL_9
+2249	f44684b7adb997c8	an elephant walks through the streets .	10.0	9.0	0.875	MODEL_2
+2250	f44684b7adb997c8	a man rides an elephant	10.0	9.0	0.875	MODEL_1
+2251	f44684b7adb997c8	person rides an elephant along the road .	11.0	10.0	0.875	MODEL_10
+2252	f4b3c13e0ee3d54d	tourist attraction from the air	10.0	5.0	0.5	MODEL_5
+2253	f4b3c13e0ee3d54d	a view of the canyon	9.0	8.0	0.875	MODEL_8
+2254	f4b3c13e0ee3d54d	the view from the top	9.0	9.0	1.0	MODEL_0
+2255	f4b3c13e0ee3d54d	the view from the top	8.0	8.0	1.0	MODEL_4
+2256	f4bb67fc4c8654b0	little sunflower in the hat	9.0	0.0	0.0	MODEL_3
+2257	f4bb67fc4c8654b0	the house is on the market for $#.## million .	9.0	1.0	0.125	MODEL_11
+2258	f4bb67fc4c8654b0	the roof of the house	10.0	4.0	0.375	MODEL_6
+2259	f4bb67fc4c8654b0	this is what the roof looks like .	9.0	4.0	0.5	MODEL_7
+2260	f4cbf3cff9c1be02	some of the food stalls	9.0	4.0	0.5	MODEL_2
+2261	f4cbf3cff9c1be02	street food from around the world	10.0	8.0	0.75	MODEL_9
+2262	f4cbf3cff9c1be02	street food from around the world	9.0	7.0	0.75	MODEL_1
+2263	f4cbf3cff9c1be02	the food truck is a popular way to get the best food	9.0	3.0	0.375	MODEL_10
+2264	f54089f03d2a810d	cattle standing in a field	9.0	9.0	1.0	MODEL_2
+2265	f54089f03d2a810d	dairy cows in a pasture	9.0	9.0	1.0	MODEL_9
+2266	f54089f03d2a810d	herd of cattle in a field	9.0	8.0	0.875	MODEL_10
+2267	f54089f03d2a810d	dairy cows in a pasture	10.0	9.0	0.875	MODEL_1
+2268	f5584e0bcc03d355	the boat floats on the lake	10.0	5.0	0.5	MODEL_6
+2269	f5584e0bcc03d355	a man swims in a boat .	11.0	1.0	0.125	MODEL_11
+2270	f5584e0bcc03d355	view from the back of the boat	8.0	6.0	0.75	MODEL_3
+2271	f570630124e79207	view from the roof terrace	9.0	9.0	1.0	MODEL_11
+2272	f570630124e79207	view from the southwest - full - height view	8.0	6.0	0.75	MODEL_3
+2273	f570630124e79207	view from the northwest - looking down	9.0	9.0	1.0	MODEL_6
+2274	f570630124e79207	view from the northwest - looking down	8.0	7.0	0.875	MODEL_7
+2275	f58f8f0e6854e9e5	a cup of tea with a spoon	9.0	1.0	0.125	MODEL_11
+2276	f58f8f0e6854e9e5	tea with a slice of chocolate	10.0	4.0	0.375	MODEL_3
+2277	f58f8f0e6854e9e5	a cup of coffee	10.0	8.0	0.75	MODEL_6
+2278	f58f8f0e6854e9e5	soup in a small bowl .	8.0	7.0	0.875	MODEL_7
+2279	f59c939834827fbf	group portrait of a football team	9.0	6.0	0.625	MODEL_1
+2280	f59c939834827fbf	the men of the team	9.0	4.0	0.5	MODEL_2
+2281	f59c939834827fbf	the team of the year	9.0	3.0	0.375	MODEL_10
+2282	f59c939834827fbf	group portrait of a football team	10.0	8.0	0.75	MODEL_9
+2283	f605d03be6b2d2f7	the statue of religious leader	8.0	3.0	0.375	MODEL_7
+2284	f605d03be6b2d2f7	statue of person , a statue of person	10.0	9.0	0.875	MODEL_11
+2285	f6099572bd648fb9	shopping center in the city	10.0	4.0	0.375	MODEL_2
+2286	f6099572bd648fb9	facade of the store with the sign	8.0	4.0	0.5	MODEL_10
+2287	f6099572bd648fb9	we are growing exponentially as a brand	10.0	8.0	0.75	MODEL_9
+2288	f6099572bd648fb9	we are growing exponentially as a brand	10.0	2.0	0.25	MODEL_1
+2289	f651471a17276680	light at the end of the tunnel	8.0	8.0	1.0	MODEL_2
+2290	f651471a17276680	light at the end of the tunnel	10.0	10.0	1.0	MODEL_10
+2291	f651471a17276680	light at the end of the tunnel	9.0	4.0	0.5	MODEL_9
+2292	f651471a17276680	light at the end of the tunnel	8.0	7.0	0.875	MODEL_1
+2293	f6611b2611f4ad55	one of a kind silver robot	10.0	1.0	0.125	MODEL_7
+2294	f6611b2611f4ad55	fictional character , the robot of fictional character	8.0	4.0	0.5	MODEL_6
+2295	f664e1be31e0db40	a sign for a city	9.0	2.0	0.25	MODEL_10
+2296	f664e1be31e0db40	this undated image shows a sign for a city	8.0	3.0	0.375	MODEL_9
+2297	f664e1be31e0db40	this undated image shows a sign for a city	9.0	3.0	0.375	MODEL_1
+2298	f6bf2b677dd93d4a	the lamp in the living room	10.0	1.0	0.125	MODEL_10
+2299	f6bf2b677dd93d4a	the floor lamp by person	9.0	2.0	0.25	MODEL_2
+2300	f6bf2b677dd93d4a	this is the chair i want for my office	10.0	2.0	0.25	MODEL_9
+2301	f6bf2b677dd93d4a	this is the chair i want for my office	9.0	7.0	0.75	MODEL_1
+2302	f74177eb00f59310	the view from our room .	9.0	7.0	0.75	MODEL_7
+2303	f74177eb00f59310	view from the back deck	9.0	8.0	0.875	MODEL_6
+2304	f74177eb00f59310	little sunflower in the hat	10.0	1.0	0.125	MODEL_3
+2305	f74f18c9f4c5084b	a room in the museum	9.0	3.0	0.375	MODEL_7
+2306	f74f18c9f4c5084b	the interior of the restaurant	10.0	2.0	0.25	MODEL_11
+2307	f74f18c9f4c5084b	the doll 's house , by painting artist	10.0	2.0	0.25	MODEL_6
+2308	f74f18c9f4c5084b	the interior of the church	10.0	2.0	0.25	MODEL_3
+2309	f778965c82184322	the lake in the city	9.0	6.0	0.625	MODEL_0
+2310	f778965c82184322	the lake in the city	11.0	10.0	0.875	MODEL_4
+2311	f778965c82184322	a view of the pond	8.0	7.0	0.875	MODEL_8
+2312	f778965c82184322	the house is reflected in the water	9.0	9.0	1.0	MODEL_5
+2313	f783466744a08b1f	the beach in the morning	10.0	8.0	0.75	MODEL_2
+2314	f783466744a08b1f	hamster in a sunflower standing	10.0	2.0	0.25	MODEL_9
+2315	f783466744a08b1f	hamster in a sunflower standing	10.0	1.0	0.125	MODEL_1
+2316	f783466744a08b1f	the beach is a short walk to the beach .	9.0	2.0	0.25	MODEL_10
+2317	f7f498d5ff1dddce	a view of the village	10.0	9.0	0.875	MODEL_1
+2318	f7f498d5ff1dddce	view from the hill towards the town	9.0	4.0	0.5	MODEL_10
+2319	f8216c4ef821d24d	the team at the launch event	8.0	4.0	0.5	MODEL_0
+2320	f8216c4ef821d24d	the choir at the event	9.0	7.0	0.75	MODEL_5
+2321	f8216c4ef821d24d	the team at the launch event	10.0	8.0	0.75	MODEL_4
+2322	f82274c1e85a85e1	facade of the hotel - exterior photo	8.0	8.0	1.0	MODEL_10
+2323	f82274c1e85a85e1	the building in the district	9.0	8.0	0.875	MODEL_9
+2324	f82274c1e85a85e1	view from the southeast - full - height view	9.0	6.0	0.625	MODEL_2
+2325	f8c61db34d6c6b57	image may contain : person , on stage and playing a musical instrument	10.0	10.0	1.0	MODEL_2
+2326	f8c61db34d6c6b57	indie rock artist performed at festival	9.0	8.0	0.875	MODEL_1
+2327	f8c61db34d6c6b57	image may contain : person , on stage , playing a musical instrument and concert	10.0	9.0	0.875	MODEL_10
+2328	f8d106e295cc8518	what 's the difference between shoes ?	9.0	3.0	0.375	MODEL_8
+2329	f8d106e295cc8518	a selection of shoes in a store .	10.0	9.0	0.875	MODEL_0
+2330	f8d106e295cc8518	a selection of shoes in a store .	9.0	9.0	1.0	MODEL_4
+2331	f8d106e295cc8518	the shoes are a must for you	9.0	7.0	0.75	MODEL_5
+2332	f911f9847ebd5e63	a fish swimming under the sea	10.0	8.0	0.75	MODEL_8
+2333	f911f9847ebd5e63	fish under the sea - photo #	9.0	6.0	0.625	MODEL_5
+2334	f911f9847ebd5e63	fish swimming in the sea	8.0	8.0	1.0	MODEL_0
+2335	f911f9847ebd5e63	fish swimming in the sea	10.0	6.0	0.625	MODEL_4
+2336	fa055df76a0b50cd	fly fishing on the river .	9.0	7.0	0.75	MODEL_2
+2337	fa055df76a0b50cd	fishing on the lake in the early morning .	8.0	8.0	1.0	MODEL_10
+2338	fa055df76a0b50cd	a fisherman casts his line into river	8.0	2.0	0.25	MODEL_9
+2339	fa055df76a0b50cd	a fisherman casts his line into river	9.0	6.0	0.625	MODEL_1
+2340	fad4820abedc0249	person and actor on stage	9.0	6.0	0.625	MODEL_2
+2341	fad4820abedc0249	image may contain : person , on stage and playing a musical instrument	9.0	7.0	0.75	MODEL_9
+2342	fad4820abedc0249	image may contain : person , on stage and playing a musical instrument	9.0	3.0	0.375	MODEL_1
+2343	fb34ed07e80618a9	looking out at the limestone cliffs	9.0	4.0	0.5	MODEL_2
+2344	fb34ed07e80618a9	another great arch in the area	9.0	4.0	0.5	MODEL_9
+2345	fb34ed07e80618a9	another great arch in the area	9.0	7.0	0.75	MODEL_1
+2346	fb34ed07e80618a9	looking up at the arch	10.0	10.0	1.0	MODEL_10
+2347	fbaf710f776bd052	a view of the warehouse .	9.0	9.0	1.0	MODEL_0
+2348	fbaf710f776bd052	a view of the warehouse .	10.0	8.0	0.75	MODEL_4
+2349	fbaf710f776bd052	an illustration of an industrial building	10.0	6.0	0.625	MODEL_8
+2350	fbaf710f776bd052	the first of the city 's first ever pop - up	10.0	2.0	0.25	MODEL_5
+2351	fc31b7e20d0952a1	a city in the past , history	10.0	6.0	0.625	MODEL_2
+2352	fc31b7e20d0952a1	file - in this file photo , a view	8.0	5.0	0.625	MODEL_9
+2353	fc31b7e20d0952a1	the world 's tallest building in the world .	9.0	1.0	0.125	MODEL_10
+2354	fc31b7e20d0952a1	file - in this file photo , a view	9.0	3.0	0.375	MODEL_1
+2355	fd4b3c754663d27c	a woman reads a book .	10.0	9.0	0.875	MODEL_7
+2356	fd4b3c754663d27c	person reads a book to a customer .	8.0	5.0	0.625	MODEL_6
+2357	fd4b3c754663d27c	person in the bookstore with a book	8.0	6.0	0.75	MODEL_11
+2358	fd4b3c754663d27c	person in the stacks of books	10.0	8.0	0.75	MODEL_3
+2359	fd8161bbf3a8dd16	a view of the statue	8.0	1.0	0.125	MODEL_2
+2360	fd8161bbf3a8dd16	a tree with a view	9.0	4.0	0.5	MODEL_10
+2361	fd8161bbf3a8dd16	natural arch of the heart	10.0	10.0	1.0	MODEL_9
+2362	fd8161bbf3a8dd16	natural arch of the heart	8.0	5.0	0.625	MODEL_1
+2363	fd8b910232c7b686	people enjoying the summer sun	9.0	7.0	0.75	MODEL_0
+2364	fd8b910232c7b686	people enjoying the summer sun	8.0	5.0	0.625	MODEL_4
+2365	fd8b910232c7b686	the view from the garden	8.0	4.0	0.5	MODEL_5
+2366	fd8b910232c7b686	a view of the gardens	9.0	7.0	0.75	MODEL_8
+2367	fdf4249ce4291514	tire tracks in the sand	10.0	1.0	0.125	MODEL_8
+2368	fdf4249ce4291514	the roof of a house	10.0	4.0	0.375	MODEL_0
+2369	fdf4249ce4291514	patterns in sand on a beach	9.0	4.0	0.5	MODEL_5
+2370	fe1cb50f2b2ea448	a letter from person to person	9.0	2.0	0.25	MODEL_3
+2371	fe1cb50f2b2ea448	a letter from the ####s	8.0	4.0	0.5	MODEL_6
+2372	fe1cb50f2b2ea448	this is the christmas tree .	10.0	0.0	0.0	MODEL_7
+2373	fe1cb50f2b2ea448	a letter from the ####s	10.0	1.0	0.125	MODEL_11
+2374	fe20ae888937b7fe	image may contain : person , on stage , playing a musical instrument and concert	10.0	10.0	1.0	MODEL_11
+2375	fe20ae888937b7fe	image may contain : person , on stage and playing a musical instrument	10.0	8.0	0.75	MODEL_7
+2376	fe20ae888937b7fe	image may contain : person , on stage , playing a musical instrument and concert	10.0	10.0	1.0	MODEL_6
+2377	fe20ae888937b7fe	image may contain : person , on stage and playing a musical instrument	9.0	8.0	0.875	MODEL_3
+2378	fe3e976fd130403d	illustration of a girl and a girl	10.0	8.0	0.75	MODEL_10
+2379	fe3e976fd130403d	a girl and her mom	9.0	9.0	1.0	MODEL_9
+2380	fe3e976fd130403d	a vector illustration of girls going to school	10.0	1.0	0.125	MODEL_2
+2381	fe3e976fd130403d	a girl and her mom	9.0	2.0	0.25	MODEL_1
+2382	fe95c32ce8a08ca7	shadows of people on the street	10.0	8.0	0.75	MODEL_8
+2383	fe95c32ce8a08ca7	shadows of a couple in the city	9.0	4.0	0.5	MODEL_5
+2384	fe95c32ce8a08ca7	a man walks through the streets .	8.0	8.0	1.0	MODEL_0
+2385	ff37ed10da3cdc06	person , left , and person , pose with the team .	9.0	6.0	0.625	MODEL_9
+2386	ff37ed10da3cdc06	person with the team at the event .	9.0	7.0	0.75	MODEL_2
+2387	ff8585656005fd15	river as it passes through the city .	10.0	9.0	0.875	MODEL_5
+2388	ff8585656005fd15	a city from the river	10.0	8.0	0.75	MODEL_0
+2389	ffb6f25c3c993006	cat on the roof of a house	10.0	1.0	0.125	MODEL_0
+2390	ffb6f25c3c993006	a lone bird on a roof	8.0	7.0	0.875	MODEL_8
+2391	ffb6f25c3c993006	silhouette of a bird on roof	9.0	8.0	0.875	MODEL_5
